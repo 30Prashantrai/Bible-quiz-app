@@ -1,14 +1,887 @@
 [
-  {"id":"GEN001","question":"जहाज़ किसने बनाया था?","options":["नूह","मूसा","अब्राहम","दाऊद"],"correct_answer":"नूह","category":"People","difficulty":"Easy","bible_reference":"उत्पत्ति 6:14","explanation":"जलप्रलय से पहले परमेश्वर ने नूह को जहाज़ बनाने की आज्ञा दी।"},
-  {"id":"EXO001","question":"इस्राएलियों को सूखी भूमि पर पार कराने के लिए परमेश्वर ने क्या बाँट दिया?","options":["यरदन नदी","लाल समुद्र","गलील का समुद्र","भूमध्य सागर"],"correct_answer":"लाल समुद्र","category":"Miracles","difficulty":"Easy","bible_reference":"निर्गमन 14:21-22","explanation":"परमेश्वर ने इस्राएलियों के लिए लाल समुद्र में मार्ग बनाया।"},
-  {"id":"JOS001","question":"सातवें दिन इस्राएल ने यरीहो के चारों ओर कितनी बार चक्कर लगाया?","options":["तीन","पाँच","सात","बारह"],"correct_answer":"सात","category":"Events","difficulty":"Medium","bible_reference":"यहोशू 6:15","explanation":"सातवें दिन उन्होंने नगर के चारों ओर सात बार चक्कर लगाया।"},
-  {"id":"1SA001","question":"गोलियत को किसने हराया?","options":["दाऊद","शाऊल","योनातान","शमूएल"],"correct_answer":"दाऊद","category":"People","difficulty":"Easy","bible_reference":"1 शमूएल 17:49-50","explanation":"दाऊद ने परमेश्वर पर भरोसा करके गोफन और पत्थर से गोलियत को हराया।"},
-  {"id":"PSA001","question":"यहोवा मेरा चरवाहा है; मुझे कोई ___ न होगी।","options":["भय","घटी","दौड़","गिरावट"],"correct_answer":"घटी","category":"Teachings","difficulty":"Easy","bible_reference":"भजन 23:1","explanation":"भजन 23 परमेश्वर की देखभाल पर भरोसे से शुरू होता है।"},
-  {"id":"PRO001","question":"बुद्धि का आरम्भ क्या है?","options":["ज्ञान","यहोवा का भय","धन","अनुभव"],"correct_answer":"यहोवा का भय","category":"Teachings","difficulty":"Medium","bible_reference":"नीतिवचन 9:10","explanation":"नीतिवचन सिखाता है कि यहोवा का भय बुद्धि का आरम्भ है।"},
-  {"id":"MAT001","question":"यीशु का जन्म कहाँ हुआ?","options":["नासरत","यरूशलेम","बैतलहम","कफरनहूम"],"correct_answer":"बैतलहम","category":"Places","difficulty":"Easy","bible_reference":"मत्ती 2:1","explanation":"यीशु का जन्म यहूदिया के बैतलहम में हुआ।"},
-  {"id":"JHN002","question":"यीशु ने पानी को किसमें बदल दिया?","options":["तेल","दाखरस","दूध","रस"],"correct_answer":"दाखरस","category":"Miracles","difficulty":"Easy","bible_reference":"यूहन्ना 2:7-11","explanation":"काना में यीशु ने पानी को दाखरस में बदल दिया।"},
-  {"id":"MAT002","question":"यीशु ने कितने शिष्यों को नियुक्त किया?","options":["सात","दस","बारह","सत्तर"],"correct_answer":"बारह","category":"People","difficulty":"Easy","bible_reference":"मत्ती 10:1-4","explanation":"यीशु ने सेवा में साथ देने के लिए बारह प्रेरित नियुक्त किए।"},
-  {"id":"LUK001","question":"दृष्टान्त में घायल व्यक्ति की सहायता किसने की?","options":["एक याजक","एक लेवी","एक सामरी","एक सैनिक"],"correct_answer":"एक सामरी","category":"Parables","difficulty":"Medium","bible_reference":"लूका 10:30-37","explanation":"भले सामरी ने दया दिखाई जबकि दूसरे लोग आगे बढ़ गए।"},
-  {"id":"JHN003","question":"यीशु ने सबसे बड़ी आज्ञा किसे कहा?","options":["चुप रहना","परमेश्वर से प्रेम करना","मन्दिर बनाना","हर दिन उपवास करना"],"correct_answer":"परमेश्वर से प्रेम करना","category":"Teachings","difficulty":"Medium","bible_reference":"मत्ती 22:37-38","explanation":"यीशु ने कहा कि पूरे मन से प्रभु से प्रेम करो।"},
-  {"id":"ACT001","question":"पिन्तेकुस्त के दिन शिष्यों के ऊपर क्या दिखाई दिया?","options":["तारे","आग जैसी जीभें","इन्द्रधनुष","कबूतर"],"correct_answer":"आग जैसी जीभें","category":"Events","difficulty":"Medium","bible_reference":"प्रेरितों 2:3-4","explanation":"पवित्र आत्मा आग जैसी जीभों के रूप में शिष्यों पर आया।"}
+  {
+    "id": "GEN001",
+    "question": "जहाज़ किसने बनाया था?",
+    "options": [
+      "नूह",
+      "मूसा",
+      "अब्राहम",
+      "दाऊद"
+    ],
+    "correct_answer": "नूह",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "उत्पत्ति 6:14",
+    "explanation": "जलप्रलय से पहले परमेश्वर ने नूह को जहाज़ बनाने की आज्ञा दी।"
+  },
+  {
+    "id": "EXO001",
+    "question": "इस्राएलियों को सूखी भूमि पर पार कराने के लिए परमेश्वर ने क्या बाँट दिया?",
+    "options": [
+      "यरदन नदी",
+      "लाल समुद्र",
+      "गलील का समुद्र",
+      "भूमध्य सागर"
+    ],
+    "correct_answer": "लाल समुद्र",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "निर्गमन 14:21-22",
+    "explanation": "परमेश्वर ने इस्राएलियों के लिए लाल समुद्र में मार्ग बनाया।"
+  },
+  {
+    "id": "JOS001",
+    "question": "सातवें दिन इस्राएल ने यरीहो के चारों ओर कितनी बार चक्कर लगाया?",
+    "options": [
+      "तीन",
+      "पाँच",
+      "सात",
+      "बारह"
+    ],
+    "correct_answer": "सात",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "यहोशू 6:15",
+    "explanation": "सातवें दिन उन्होंने नगर के चारों ओर सात बार चक्कर लगाया।"
+  },
+  {
+    "id": "1SA001",
+    "question": "गोलियत को किसने हराया?",
+    "options": [
+      "दाऊद",
+      "शाऊल",
+      "योनातान",
+      "शमूएल"
+    ],
+    "correct_answer": "दाऊद",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "1 शमूएल 17:49-50",
+    "explanation": "दाऊद ने परमेश्वर पर भरोसा करके गोफन और पत्थर से गोलियत को हराया।"
+  },
+  {
+    "id": "PSA001",
+    "question": "यहोवा मेरा चरवाहा है; मुझे कोई ___ न होगी।",
+    "options": [
+      "भय",
+      "घटी",
+      "दौड़",
+      "गिरावट"
+    ],
+    "correct_answer": "घटी",
+    "category": "Teachings",
+    "difficulty": "Easy",
+    "bible_reference": "भजन 23:1",
+    "explanation": "भजन 23 परमेश्वर की देखभाल पर भरोसे से शुरू होता है।"
+  },
+  {
+    "id": "PRO001",
+    "question": "बुद्धि का आरम्भ क्या है?",
+    "options": [
+      "ज्ञान",
+      "यहोवा का भय",
+      "धन",
+      "अनुभव"
+    ],
+    "correct_answer": "यहोवा का भय",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "नीतिवचन 9:10",
+    "explanation": "नीतिवचन सिखाता है कि यहोवा का भय बुद्धि का आरम्भ है।"
+  },
+  {
+    "id": "MAT001",
+    "question": "यीशु का जन्म कहाँ हुआ?",
+    "options": [
+      "नासरत",
+      "यरूशलेम",
+      "बैतलहम",
+      "कफरनहूम"
+    ],
+    "correct_answer": "बैतलहम",
+    "category": "Places",
+    "difficulty": "Easy",
+    "bible_reference": "मत्ती 2:1",
+    "explanation": "यीशु का जन्म यहूदिया के बैतलहम में हुआ।"
+  },
+  {
+    "id": "JHN002",
+    "question": "यीशु ने पानी को किसमें बदल दिया?",
+    "options": [
+      "तेल",
+      "दाखरस",
+      "दूध",
+      "रस"
+    ],
+    "correct_answer": "दाखरस",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "यूहन्ना 2:7-11",
+    "explanation": "काना में यीशु ने पानी को दाखरस में बदल दिया।"
+  },
+  {
+    "id": "MAT002",
+    "question": "यीशु ने कितने शिष्यों को नियुक्त किया?",
+    "options": [
+      "सात",
+      "दस",
+      "बारह",
+      "सत्तर"
+    ],
+    "correct_answer": "बारह",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "मत्ती 10:1-4",
+    "explanation": "यीशु ने सेवा में साथ देने के लिए बारह प्रेरित नियुक्त किए।"
+  },
+  {
+    "id": "LUK001",
+    "question": "दृष्टान्त में घायल व्यक्ति की सहायता किसने की?",
+    "options": [
+      "एक याजक",
+      "एक लेवी",
+      "एक सामरी",
+      "एक सैनिक"
+    ],
+    "correct_answer": "एक सामरी",
+    "category": "Parables",
+    "difficulty": "Medium",
+    "bible_reference": "लूका 10:30-37",
+    "explanation": "भले सामरी ने दया दिखाई जबकि दूसरे लोग आगे बढ़ गए।"
+  },
+  {
+    "id": "JHN003",
+    "question": "यीशु ने सबसे बड़ी आज्ञा किसे कहा?",
+    "options": [
+      "चुप रहना",
+      "परमेश्वर से प्रेम करना",
+      "मन्दिर बनाना",
+      "हर दिन उपवास करना"
+    ],
+    "correct_answer": "परमेश्वर से प्रेम करना",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "मत्ती 22:37-38",
+    "explanation": "यीशु ने कहा कि पूरे मन से प्रभु से प्रेम करो।"
+  },
+  {
+    "id": "ACT001",
+    "question": "पिन्तेकुस्त के दिन शिष्यों के ऊपर क्या दिखाई दिया?",
+    "options": [
+      "तारे",
+      "आग जैसी जीभें",
+      "इन्द्रधनुष",
+      "कबूतर"
+    ],
+    "correct_answer": "आग जैसी जीभें",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "प्रेरितों 2:3-4",
+    "explanation": "पवित्र आत्मा आग जैसी जीभों के रूप में शिष्यों पर आया।"
+  },
+  {
+    "id": "DAN001",
+    "question": "राजा बेलशस्सर के लिए दीवार पर लिखे शब्दों का अर्थ किसने बताया?",
+    "options": [
+      "दानिय्येल",
+      "यिर्मयाह",
+      "एज्रा",
+      "नहेमायाह"
+    ],
+    "correct_answer": "दानिय्येल",
+    "category": "Old Testament",
+    "difficulty": "Hard",
+    "bible_reference": "दानिय्येल 5:13-17",
+    "explanation": "दानिय्येल ने राजा की दावत में रहस्यमय लेख को पढ़कर उसका अर्थ बताया।"
+  },
+  {
+    "id": "1KI001",
+    "question": "सुलैमान ने इस्राएल पर कितने वर्ष राज्य किया?",
+    "options": [
+      "20 वर्ष",
+      "30 वर्ष",
+      "40 वर्ष",
+      "50 वर्ष"
+    ],
+    "correct_answer": "40 वर्ष",
+    "category": "Old Testament",
+    "difficulty": "Hard",
+    "bible_reference": "1 राजा 11:42",
+    "explanation": "सुलैमान ने यरूशलेम से पूरे इस्राएल पर चालीस वर्ष राज्य किया।"
+  },
+  {
+    "id": "ROM001",
+    "question": "किस अध्याय में लिखा है कि मसीह के द्वारा विश्वासी जयवन्त से भी बढ़कर हैं?",
+    "options": [
+      "रोमियों 5",
+      "रोमियों 8",
+      "रोमियों 10",
+      "रोमियों 12"
+    ],
+    "correct_answer": "रोमियों 8",
+    "category": "New Testament",
+    "difficulty": "Hard",
+    "bible_reference": "रोमियों 8:37",
+    "explanation": "रोमियों 8:37 कहता है कि मसीह के द्वारा हम जयवन्त से भी बढ़कर हैं।"
+  },
+  {
+    "id": "GEN002",
+    "question": "Who was the first man?",
+    "options": [
+      "Adam",
+      "Noah",
+      "Moses",
+      "Abraham"
+    ],
+    "correct_answer": "Adam",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Genesis 2:7",
+    "explanation": "Adam was formed from the dust of the ground."
+  },
+  {
+    "id": "GEN003",
+    "question": "Who was the first woman?",
+    "options": [
+      "Eve",
+      "Sarah",
+      "Mary",
+      "Ruth"
+    ],
+    "correct_answer": "Eve",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Genesis 2:22",
+    "explanation": "Eve was created as Adam's companion."
+  },
+  {
+    "id": "GEN004",
+    "question": "What sign did God place in the sky after the flood?",
+    "options": [
+      "A rainbow",
+      "A star",
+      "A cloud",
+      "A dove"
+    ],
+    "correct_answer": "A rainbow",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "Genesis 9:13",
+    "explanation": "The rainbow became a sign of God's covenant with Noah."
+  },
+  {
+    "id": "GEN005",
+    "question": "What was Abraham's promised son called?",
+    "options": [
+      "Isaac",
+      "Ishmael",
+      "Jacob",
+      "Esau"
+    ],
+    "correct_answer": "Isaac",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Genesis 21:3",
+    "explanation": "Abraham and Sarah named their promised son Isaac."
+  },
+  {
+    "id": "GEN006",
+    "question": "What did Joseph's brothers sell him for?",
+    "options": [
+      "Twenty pieces of silver",
+      "Ten pieces of gold",
+      "Thirty coins",
+      "One talent"
+    ],
+    "correct_answer": "Twenty pieces of silver",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "Genesis 37:28",
+    "explanation": "Joseph was sold to passing merchants for twenty pieces of silver."
+  },
+  {
+    "id": "EXO002",
+    "question": "What did Moses see burning without being consumed?",
+    "options": [
+      "A bush",
+      "A mountain",
+      "A lamp",
+      "A cedar tree"
+    ],
+    "correct_answer": "A bush",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "Exodus 3:2",
+    "explanation": "God spoke to Moses from the burning bush."
+  },
+  {
+    "id": "EXO003",
+    "question": "What food did God provide in the wilderness?",
+    "options": [
+      "Manna",
+      "Quail only",
+      "Bread from Egypt",
+      "Grapes"
+    ],
+    "correct_answer": "Manna",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "Exodus 16:15",
+    "explanation": "The Israelites called the bread-like provision manna."
+  },
+  {
+    "id": "EXO004",
+    "question": "How many commandments were written on the stone tablets?",
+    "options": [
+      "Ten",
+      "Seven",
+      "Twelve",
+      "Forty"
+    ],
+    "correct_answer": "Ten",
+    "category": "Teachings",
+    "difficulty": "Easy",
+    "bible_reference": "Exodus 34:28",
+    "explanation": "God gave the Ten Commandments to Israel."
+  },
+  {
+    "id": "LEV001",
+    "question": "Which day was set apart as the Sabbath?",
+    "options": [
+      "The seventh day",
+      "The first day",
+      "The fifth day",
+      "The tenth day"
+    ],
+    "correct_answer": "The seventh day",
+    "category": "Teachings",
+    "difficulty": "Easy",
+    "bible_reference": "Leviticus 23:3",
+    "explanation": "The seventh day was set apart as a day of rest."
+  },
+  {
+    "id": "NUM001",
+    "question": "How many spies explored Canaan?",
+    "options": [
+      "Twelve",
+      "Seven",
+      "Ten",
+      "Seventy"
+    ],
+    "correct_answer": "Twelve",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "Numbers 13:2",
+    "explanation": "Moses sent twelve men to explore the land of Canaan."
+  },
+  {
+    "id": "DEU001",
+    "question": "Which river did Israel cross to enter the promised land?",
+    "options": [
+      "The Jordan River",
+      "The Nile",
+      "The Euphrates",
+      "The Tigris"
+    ],
+    "correct_answer": "The Jordan River",
+    "category": "Places",
+    "difficulty": "Medium",
+    "bible_reference": "Joshua 3:15-17",
+    "explanation": "Israel crossed the Jordan River on dry ground."
+  },
+  {
+    "id": "JDG001",
+    "question": "Who was known for extraordinary strength?",
+    "options": [
+      "Samson",
+      "Gideon",
+      "Deborah",
+      "Jephthah"
+    ],
+    "correct_answer": "Samson",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Judges 16:17",
+    "explanation": "Samson's strength was connected to his Nazirite dedication."
+  },
+  {
+    "id": "RUT001",
+    "question": "Who was Ruth's mother-in-law?",
+    "options": [
+      "Naomi",
+      "Hannah",
+      "Miriam",
+      "Elizabeth"
+    ],
+    "correct_answer": "Naomi",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Ruth 1:4",
+    "explanation": "Ruth faithfully stayed with Naomi after becoming widowed."
+  },
+  {
+    "id": "1SA002",
+    "question": "Who was Israel's first king?",
+    "options": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Samuel"
+    ],
+    "correct_answer": "Saul",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "1 Samuel 10:24",
+    "explanation": "Saul was chosen as Israel's first king."
+  },
+  {
+    "id": "2SA001",
+    "question": "What city did David make the capital of Israel?",
+    "options": [
+      "Jerusalem",
+      "Bethlehem",
+      "Hebron",
+      "Samaria"
+    ],
+    "correct_answer": "Jerusalem",
+    "category": "Places",
+    "difficulty": "Medium",
+    "bible_reference": "2 Samuel 5:6-9",
+    "explanation": "David captured Jerusalem and made it his royal city."
+  },
+  {
+    "id": "1KI002",
+    "question": "Who built the first temple in Jerusalem?",
+    "options": [
+      "Solomon",
+      "David",
+      "Saul",
+      "Hezekiah"
+    ],
+    "correct_answer": "Solomon",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "1 Kings 6:1",
+    "explanation": "Solomon built the temple that David had prepared for."
+  },
+  {
+    "id": "2KI001",
+    "question": "Which prophet was taken to heaven in a whirlwind?",
+    "options": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correct_answer": "Elijah",
+    "category": "People",
+    "difficulty": "Medium",
+    "bible_reference": "2 Kings 2:11",
+    "explanation": "Elijah went up to heaven in a whirlwind."
+  },
+  {
+    "id": "EST001",
+    "question": "Who became queen and helped save her people?",
+    "options": [
+      "Esther",
+      "Deborah",
+      "Ruth",
+      "Miriam"
+    ],
+    "correct_answer": "Esther",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Esther 4:14",
+    "explanation": "Esther courageously appealed to the king for her people."
+  },
+  {
+    "id": "JOB001",
+    "question": "What was Job known for showing during suffering?",
+    "options": [
+      "Perseverance",
+      "Pride",
+      "Anger",
+      "Indifference"
+    ],
+    "correct_answer": "Perseverance",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "Job 1:21-22",
+    "explanation": "Job continued to acknowledge God even in deep suffering."
+  },
+  {
+    "id": "PSA002",
+    "question": "How many books are in the book of Psalms?",
+    "options": [
+      "150",
+      "100",
+      "120",
+      "200"
+    ],
+    "correct_answer": "150",
+    "category": "Books",
+    "difficulty": "Medium",
+    "bible_reference": "Psalm 150:1",
+    "explanation": "The Psalter contains 150 psalms."
+  },
+  {
+    "id": "ISA001",
+    "question": "What name meaning God with us appears in Isaiah?",
+    "options": [
+      "Immanuel",
+      "Messiah",
+      "Rabbouni",
+      "Elohim"
+    ],
+    "correct_answer": "Immanuel",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Isaiah 7:14",
+    "explanation": "Isaiah prophesied that a child would be called Immanuel."
+  },
+  {
+    "id": "JER001",
+    "question": "What did Jeremiah say God's word was like within him?",
+    "options": [
+      "A burning fire",
+      "A still river",
+      "A sharp stone",
+      "A gentle breeze"
+    ],
+    "correct_answer": "A burning fire",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Jeremiah 20:9",
+    "explanation": "Jeremiah described God's word as a fire shut up in his bones."
+  },
+  {
+    "id": "EZK001",
+    "question": "What did Ezekiel see in his valley vision?",
+    "options": [
+      "Dry bones",
+      "Golden statues",
+      "Stone tablets",
+      "Living trees"
+    ],
+    "correct_answer": "Dry bones",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Ezekiel 37:1-3",
+    "explanation": "Ezekiel saw a valley filled with very dry bones."
+  },
+  {
+    "id": "MIC001",
+    "question": "Where did Micah say the ruler of Israel would be born?",
+    "options": [
+      "Bethlehem",
+      "Nazareth",
+      "Jerusalem",
+      "Jericho"
+    ],
+    "correct_answer": "Bethlehem",
+    "category": "Places",
+    "difficulty": "Hard",
+    "bible_reference": "Micah 5:2",
+    "explanation": "Micah identified Bethlehem as the birthplace of the coming ruler."
+  },
+  {
+    "id": "MAT003",
+    "question": "Who baptized Jesus?",
+    "options": [
+      "John the Baptist",
+      "Peter",
+      "Nicodemus",
+      "James"
+    ],
+    "correct_answer": "John the Baptist",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 3:13-17",
+    "explanation": "John baptized Jesus in the Jordan River."
+  },
+  {
+    "id": "MAT004",
+    "question": "How long did Jesus fast in the wilderness?",
+    "options": [
+      "Forty days",
+      "Seven days",
+      "Twelve days",
+      "Seventy days"
+    ],
+    "correct_answer": "Forty days",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 4:2",
+    "explanation": "Jesus fasted for forty days and forty nights."
+  },
+  {
+    "id": "MAT005",
+    "question": "What did Jesus use to feed the five thousand?",
+    "options": [
+      "Five loaves and two fish",
+      "Seven loaves",
+      "Two baskets of bread",
+      "Manna"
+    ],
+    "correct_answer": "Five loaves and two fish",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 14:17-21",
+    "explanation": "Jesus multiplied five loaves and two fish."
+  },
+  {
+    "id": "MAT006",
+    "question": "What did Jesus ride into Jerusalem?",
+    "options": [
+      "A donkey",
+      "A horse",
+      "A camel",
+      "A chariot"
+    ],
+    "correct_answer": "A donkey",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 21:6-9",
+    "explanation": "Jesus entered Jerusalem riding on a donkey."
+  },
+  {
+    "id": "MAR001",
+    "question": "What did Jesus calm during the storm?",
+    "options": [
+      "The wind and the waves",
+      "The rain only",
+      "The earthquake",
+      "The fire"
+    ],
+    "correct_answer": "The wind and the waves",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "Mark 4:39",
+    "explanation": "Jesus rebuked the wind and told the sea to be still."
+  },
+  {
+    "id": "LUK002",
+    "question": "Who was the father in the parable of the lost son?",
+    "options": [
+      "A compassionate father",
+      "A judge",
+      "A merchant",
+      "A soldier"
+    ],
+    "correct_answer": "A compassionate father",
+    "category": "Parables",
+    "difficulty": "Easy",
+    "bible_reference": "Luke 15:20-24",
+    "explanation": "The father welcomed his returning son with compassion and joy."
+  },
+  {
+    "id": "LUK003",
+    "question": "What did Zacchaeus do for a living?",
+    "options": [
+      "He collected taxes",
+      "He was a fisherman",
+      "He was a priest",
+      "He was a farmer"
+    ],
+    "correct_answer": "He collected taxes",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Luke 19:2",
+    "explanation": "Zacchaeus was a chief tax collector in Jericho."
+  },
+  {
+    "id": "JHN004",
+    "question": "What did Jesus call himself in John 11?",
+    "options": [
+      "The resurrection and the life",
+      "The good shepherd",
+      "The true vine",
+      "The gate"
+    ],
+    "correct_answer": "The resurrection and the life",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "John 11:25",
+    "explanation": "Jesus declared that he is the resurrection and the life."
+  },
+  {
+    "id": "JHN005",
+    "question": "What did Jesus wash for his disciples?",
+    "options": [
+      "Their feet",
+      "Their hands",
+      "Their clothes",
+      "Their nets"
+    ],
+    "correct_answer": "Their feet",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "John 13:5",
+    "explanation": "Jesus washed the disciples' feet as an example of humble service."
+  },
+  {
+    "id": "ACT002",
+    "question": "Who was the first Christian martyr?",
+    "options": [
+      "Stephen",
+      "James",
+      "Barnabas",
+      "Philip"
+    ],
+    "correct_answer": "Stephen",
+    "category": "People",
+    "difficulty": "Medium",
+    "bible_reference": "Acts 7:59-60",
+    "explanation": "Stephen was stoned while praying for those who persecuted him."
+  },
+  {
+    "id": "ACT003",
+    "question": "Who was converted on the road to Damascus?",
+    "options": [
+      "Saul",
+      "Cornelius",
+      "Apollos",
+      "Silas"
+    ],
+    "correct_answer": "Saul",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "Acts 9:3-6",
+    "explanation": "Saul encountered the risen Jesus and later became Paul."
+  },
+  {
+    "id": "ROM002",
+    "question": "What is the wages of sin according to Romans?",
+    "options": [
+      "Death",
+      "Fear",
+      "Poverty",
+      "Exile"
+    ],
+    "correct_answer": "Death",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "Romans 6:23",
+    "explanation": "Romans contrasts the wages of sin with God's gift of eternal life."
+  },
+  {
+    "id": "1CO001",
+    "question": "What chapter is famous for describing love?",
+    "options": [
+      "1 Corinthians 13",
+      "1 Corinthians 3",
+      "1 Corinthians 8",
+      "1 Corinthians 15"
+    ],
+    "correct_answer": "1 Corinthians 13",
+    "category": "Books",
+    "difficulty": "Easy",
+    "bible_reference": "1 Corinthians 13:4-7",
+    "explanation": "First Corinthians 13 describes the character of love."
+  },
+  {
+    "id": "GAL001",
+    "question": "What is listed first in the fruit of the Spirit?",
+    "options": [
+      "Love",
+      "Patience",
+      "Joy",
+      "Faithfulness"
+    ],
+    "correct_answer": "Love",
+    "category": "Teachings",
+    "difficulty": "Easy",
+    "bible_reference": "Galatians 5:22",
+    "explanation": "Love is the first fruit named in Paul's list."
+  },
+  {
+    "id": "EPH001",
+    "question": "What piece of spiritual armor is called the shield?",
+    "options": [
+      "Faith",
+      "Truth",
+      "Salvation",
+      "Righteousness"
+    ],
+    "correct_answer": "Faith",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "Ephesians 6:16",
+    "explanation": "The shield of faith can extinguish the flaming arrows of the evil one."
+  },
+  {
+    "id": "PHP001",
+    "question": "What did Paul say he could do through Christ?",
+    "options": [
+      "All things",
+      "Only easy things",
+      "Nothing difficult",
+      "Only public ministry"
+    ],
+    "correct_answer": "All things",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "Philippians 4:13",
+    "explanation": "Paul said Christ strengthened him for every circumstance."
+  },
+  {
+    "id": "HEB001",
+    "question": "Who is called the father of faith?",
+    "options": [
+      "Abraham",
+      "Moses",
+      "David",
+      "Isaac"
+    ],
+    "correct_answer": "Abraham",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Hebrews 11:8-10",
+    "explanation": "Abraham is presented as an example of faith and obedience."
+  },
+  {
+    "id": "JAS001",
+    "question": "What does James say faith without works is?",
+    "options": [
+      "Dead",
+      "Hidden",
+      "Complete",
+      "Private"
+    ],
+    "correct_answer": "Dead",
+    "category": "Teachings",
+    "difficulty": "Easy",
+    "bible_reference": "James 2:17",
+    "explanation": "James teaches that faith is shown through obedient action."
+  },
+  {
+    "id": "1PE001",
+    "question": "What kind of living hope does Peter describe?",
+    "options": [
+      "A hope through the resurrection of Jesus",
+      "A hope in wealth",
+      "A hope in power",
+      "A hope in ancestry"
+    ],
+    "correct_answer": "A hope through the resurrection of Jesus",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "1 Peter 1:3",
+    "explanation": "Peter connects living hope with Jesus' resurrection."
+  },
+  {
+    "id": "REV001",
+    "question": "How many churches receive messages in Revelation chapters 2-3?",
+    "options": [
+      "Seven",
+      "Five",
+      "Ten",
+      "Twelve"
+    ],
+    "correct_answer": "Seven",
+    "category": "Books",
+    "difficulty": "Hard",
+    "bible_reference": "Revelation 1:11",
+    "explanation": "Revelation addresses seven churches in Asia."
+  }
 ]

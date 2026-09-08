@@ -17,8 +17,8 @@ except ImportError:
 
 
 ROOT = Path(__file__).parent
-LANGUAGES = ["en", "hi", "ne"]
-LANGUAGE_NAMES = {"en": "English", "hi": "हिन्दी", "ne": "नेपाली"}
+LANGUAGES = ["en", "ne"]
+LANGUAGE_NAMES = {"en": "English", "ne": "नेपाली"}
 REQUIRED_FIELDS = {"id", "question", "options", "correct_answer", "category", "difficulty", "bible_reference", "explanation"}
 CATEGORIES = ["Old Testament", "New Testament", "People", "Places", "Miracles", "Parables", "Books", "Events", "Teachings", "Mixed"]
 DIFFICULTIES = ["Easy", "Medium", "Hard", "Mixed"]
@@ -48,6 +48,7 @@ COPY = {
         "start_over": "Start over", "validation": "Question bank validation", "available": "available",
         "same_answer": "Correct answer", "question_number": "Question number", "settings": "Game settings",
         "theme": "Theme", "light": "Light", "dark": "Dark", "manga_background": "Bible manga background",
+        "matching": "{count} questions match the selected filters.",
     },
     "hi": {
         "home": "बाइबल क्विज लाइव", "tagline": "टीमों के लिए आनंदमय, प्रोजेक्टर-रेडी बाइबल चुनौती।", "host": "होस्ट कंसोल",
@@ -67,6 +68,7 @@ COPY = {
         "team_note": "टीमें मौखिक उत्तर देंगी। होस्ट उत्तर दिखाकर मैन्युअल रूप से अंक देगा।", "start_over": "फिर से शुरू करें",
         "validation": "प्रश्न बैंक जाँच", "available": "उपलब्ध", "same_answer": "सही उत्तर", "question_number": "प्रश्न संख्या", "settings": "खेल सेटिंग्स",
         "theme": "थीम", "light": "लाइट", "dark": "डार्क", "manga_background": "बाइबल मंगा बैकग्राउंड",
+        "matching": "चयनित फ़िल्टर से {count} प्रश्न मेल खाते हैं।",
     },
     "ne": {
         "home": "बाइबल क्विज लाइभ", "tagline": "टोलीहरूका लागि रमाइलो, प्रोजेक्टर-मैत्री बाइबल चुनौती।", "host": "होस्ट कन्सोल",
@@ -86,6 +88,7 @@ COPY = {
         "team_note": "टोलीहरूले मौखिक उत्तर दिनेछन्। होस्टले उत्तर देखाएर हातैले अंक दिनेछ।", "start_over": "फेरि सुरु गर्नुहोस्",
         "validation": "प्रश्न बैंक जाँच", "available": "उपलब्ध", "same_answer": "सही उत्तर", "question_number": "प्रश्न नम्बर", "settings": "खेल सेटिङहरू",
         "theme": "थीम", "light": "लाइट", "dark": "डार्क", "manga_background": "बाइबल मंगा पृष्ठभूमि",
+        "matching": "चयन गरिएका फिल्टरसँग {count} प्रश्न मिल्छन्।",
     },
 }
 
@@ -103,10 +106,10 @@ def inject_css(projector: bool = False, theme: str = "light", manga_background: 
     if manga_background and manga_path.exists():
         manga_uri = base64.b64encode(manga_path.read_bytes()).decode("ascii")
     if theme == "dark":
-        palette = "--ink:#eef6f3; --muted:#aebfbb; --cream:#0c1417; --paper:#172328; --teal:#62d1c1; --teal2:#173d3b; --gold:#f0bb55; --coral:#f17a66; --line:#304449;"
+        palette = "--ink:#eef6f3; --muted:#aebfbb; --cream:#0c1417; --paper:#172328; --soft:#203237; --leader:#3a3020; --warning-bg:#4a3a16; --warning-fg:#fff3b0; --warning-border:#a8842f; --question-bg:#172328; --question-fg:#eef6f3; --teal:#62d1c1; --teal2:#173d3b; --gold:#f0bb55; --coral:#f17a66; --line:#304449;"
         overlay = "linear-gradient(rgba(12,20,23,.77),rgba(12,20,23,.77))"
     else:
-        palette = "--ink:#17212b; --muted:#66727d; --cream:#fbfaf7; --paper:#ffffff; --teal:#0f766e; --teal2:#d9f3ee; --gold:#d99b27; --coral:#c9553f; --line:#e6e7e5;"
+        palette = "--ink:#17212b; --muted:#66727d; --cream:#fbfaf7; --paper:#ffffff; --soft:#fffaf0; --leader:#fffaf0; --warning-bg:#fff3b0; --warning-fg:#4b3900; --warning-border:#d6ae28; --question-bg:#17212b; --question-fg:#ffffff; --teal:#0f766e; --teal2:#d9f3ee; --gold:#d99b27; --coral:#c9553f; --line:#e6e7e5;"
         overlay = "linear-gradient(rgba(251,250,247,.86),rgba(251,250,247,.86))"
     background = f", url(data:image/svg+xml;base64,{manga_uri})" if manga_uri else ""
     st.markdown(f"""
@@ -119,18 +122,21 @@ def inject_css(projector: bool = False, theme: str = "light", manga_background: 
     .eyebrow {{ color:var(--teal); font-size:.76rem; font-weight:700; letter-spacing:.15em; text-transform:uppercase; }}
     .hero {{ border-bottom:1px solid var(--line); padding:1rem 0 2.4rem; margin-bottom:2.2rem; }}
     .hero p {{ color:var(--muted); font-size:1.12rem; max-width:660px; margin-top:-.6rem; }}
-    .panel {{ background:var(--paper); border:1px solid var(--line); border-radius:12px; padding:1.3rem 1.45rem; box-shadow:0 10px 34px rgba(23,33,43,.055); margin-bottom:1.1rem; }}
+    .panel {{ background:var(--paper); color:var(--ink); border:1px solid var(--line); border-radius:12px; padding:1.3rem 1.45rem; box-shadow:0 10px 34px rgba(23,33,43,.055); margin-bottom:1.1rem; }}
     .panel-title {{ font-weight:700; font-size:1.03rem; margin-bottom:.7rem; }}
-    .question-card {{ background:var(--ink); color:white; border-radius:16px; padding:2.2rem 2.4rem; min-height:220px; display:flex; flex-direction:column; justify-content:center; box-shadow:0 14px 34px rgba(23,33,43,.16); }}
-    .question-card .eyebrow {{ color:#8de0d2; }} .question-text {{ font-family:'Playfair Display',serif; font-size:clamp(1.75rem,3.3vw,3.35rem); line-height:1.14; margin-top:.7rem; }}
+    .question-card {{ background:var(--question-bg) !important; color:var(--question-fg) !important; border-radius:16px; padding:2.2rem 2.4rem; min-height:220px; display:flex; flex-direction:column; justify-content:center; box-shadow:0 14px 34px rgba(23,33,43,.16); }}
+    .question-card .eyebrow {{ color:#8de0d2 !important; }} .question-card .question-text {{ color:var(--question-fg) !important; font-family:'Playfair Display',serif; font-size:clamp(1.75rem,3.3vw,3.35rem); line-height:1.14; margin-top:.7rem; }}
     .option-letter {{ color:var(--gold); font-weight:700; margin-right:.65rem; }}
-    .score-card {{ border:1px solid var(--line); background:#fff; border-radius:10px; padding:.9rem 1rem; margin-bottom:.6rem; display:flex; align-items:center; justify-content:space-between; }}
-    .score-card.leader {{ border:2px solid var(--gold); background:#fffaf0; }} .score-name {{ font-weight:700; }} .score-value {{ font-weight:700; font-size:1.45rem; color:var(--teal); }}
+    .score-card {{ border:1px solid var(--line); background:var(--paper); color:var(--ink); border-radius:10px; padding:.9rem 1rem; margin-bottom:.6rem; display:flex; align-items:center; justify-content:space-between; }}
+    .score-card.leader {{ border:2px solid var(--gold); background:var(--leader); }} .score-name {{ font-weight:700; }} .score-value {{ font-weight:700; font-size:1.45rem; color:var(--teal); }}
     .winner {{ background:linear-gradient(110deg,#124a45,#0f766e); color:white; border-radius:16px; padding:2rem; text-align:center; }} .winner h2 {{ color:white; font-family:'Playfair Display',serif; margin:.25rem 0; }}
-    .answer-box {{ border-left:5px solid var(--gold); background:#fffaf0; padding:1.15rem 1.3rem; border-radius:8px; margin:1rem 0; }} .answer-main {{ font-size:1.6rem; font-weight:700; }}
+    .answer-box {{ border-left:5px solid var(--gold); background:var(--soft); color:var(--ink); padding:1.15rem 1.3rem; border-radius:8px; margin:1rem 0; }} .answer-main {{ font-size:1.6rem; font-weight:700; }}
+    .translation-warning {{ background:var(--warning-bg); color:var(--warning-fg) !important; border:1px solid var(--warning-border); border-left:5px solid var(--gold); border-radius:8px; padding:.85rem 1rem; margin:1rem 0; font-weight:700; }}
     .timer {{ color:var(--coral); font-size:2rem; font-weight:700; text-align:right; }} .timer.safe {{ color:var(--teal); }}
     .stButton > button {{ border-radius:8px; border:1px solid var(--line); min-height:3rem; font-size:1rem; font-weight:700; color:var(--ink); background:var(--paper); transition:all .18s ease; }}
     .stButton > button:hover {{ border-color:var(--teal); color:var(--teal); transform:translateY(-1px); }} .stButton > button[kind='primary'] {{ background:var(--teal); color:white; border-color:var(--teal); }}
+    [data-testid='stWidgetLabel'] p, [data-testid='stCaptionContainer'], .stMarkdown, .stTextInput label, .stNumberInput label, .stSelectbox label, .stCheckbox label, .stRadio label {{ color:var(--ink); }}
+    [data-testid='stSidebar'] {{ background:var(--cream); }} [data-testid='stSidebar'] * {{ color:var(--ink); }}
     [data-testid='stMetricValue'] {{ color:var(--teal); }} .stProgress > div > div > div > div {{ background:var(--gold); }}
     .projector-mode .question-text {{ font-size:clamp(2.2rem,4.4vw,4.4rem); }}
     @media (max-width: 800px) {{ .block-container {{ padding:1.1rem 1rem 2rem; }} .question-card {{ padding:1.6rem; }} .timer {{ text-align:left; margin-top:.5rem; }} }}
@@ -167,6 +173,10 @@ def load_banks() -> tuple[dict[str, dict[str, dict[str, Any]]], list[str]]:
     return banks, errors + [f"Missing translation IDs: {lang}" for lang in LANGUAGES for lang in sorted(set(banks.get("en", {})) - set(banks.get(lang, {})))]
 
 
+def bank_signature() -> tuple[int, ...]:
+    return tuple((ROOT / "data" / f"questions_{lang}.json").stat().st_mtime_ns for lang in LANGUAGES)
+
+
 def init_state() -> None:
     defaults = {
         "screen": "home", "selected_language": "en", "projector_mode": False, "team_count": 4,
@@ -177,8 +187,14 @@ def init_state() -> None:
     }
     for key, value in defaults.items():
         st.session_state.setdefault(key, value)
-    if "banks" not in st.session_state:
-        st.session_state.banks, st.session_state.bank_errors = load_banks()
+    if st.session_state.selected_language not in LANGUAGES:
+        st.session_state.selected_language = "en"
+        st.session_state.pop("language_selector", None)
+    # Reload the small local JSON banks on every rerun so manual edits are
+    # visible immediately, including during an active quiz with the same ID.
+    signature = bank_signature()
+    st.session_state.banks, st.session_state.bank_errors = load_banks()
+    st.session_state.bank_signature = signature
 
 
 def filtered_ids() -> list[str]:
@@ -187,6 +203,12 @@ def filtered_ids() -> list[str]:
     ids = [qid for qid, item in source.items() if (settings["difficulty"] == "Mixed" or item["difficulty"] == settings["difficulty"]) and (settings["category"] == "Mixed" or item["category"] == settings["category"])]
     random.shuffle(ids)
     return ids
+
+
+def matching_count() -> int:
+    settings = st.session_state.settings
+    source = st.session_state.banks.get("en", {})
+    return sum(1 for item in source.values() if (settings["difficulty"] == "Mixed" or item["difficulty"] == settings["difficulty"]) and (settings["category"] == "Mixed" or item["category"] == settings["category"]))
 
 
 def start_quiz() -> None:
@@ -212,9 +234,12 @@ def start_quiz() -> None:
 
 def question_record(qid: str, lang: str) -> tuple[dict[str, Any], bool]:
     selected = st.session_state.banks.get(lang, {}).get(qid)
-    if selected:
-        return selected, False
-    return st.session_state.banks.get("en", {}).get(qid, {}), True
+    english = st.session_state.banks.get("en", {}).get(qid, {})
+    if not selected:
+        return english, True
+    if lang != "en" and all(selected.get(field) == english.get(field) for field in ("question", "options", "correct_answer", "bible_reference", "explanation")):
+        return selected, True
+    return selected, False
 
 
 def score_order() -> list[tuple[str, int]]:
@@ -237,14 +262,14 @@ def render_home() -> None:
     st.markdown(f"<div class='hero'><div class='eyebrow'>{t('host')}</div><h1>{t('home')}</h1><p>{t('tagline')}</p></div>", unsafe_allow_html=True)
     left, right = st.columns([1.25, 1])
     with left:
-        st.markdown("<div class='panel'><div class='panel-title'>A ready-to-run host console</div><p style='color:#66727d'>Set your teams, tune the challenge, and keep the whole room moving from one screen. Answers stay hidden until the host reveals them.</p></div>", unsafe_allow_html=True)
+        st.markdown("<div class='panel'><div class='panel-title'>A ready-to-run host console</div><p style='color:var(--muted)'>Set your teams, tune the challenge, and keep the whole room moving from one screen. Answers stay hidden until the host reveals them.</p></div>", unsafe_allow_html=True)
         if st.button(t("start"), type="primary", use_container_width=True):
             st.session_state.screen = "setup"; st.rerun()
     with right:
         if st.session_state.scores:
             render_scoreboard()
         else:
-            st.markdown("<div class='panel'><div class='panel-title'>Built for the room</div><p style='color:#66727d'>Large type, high contrast, live rankings, manual scoring, timer support, and English, हिन्दी, नेपाली at your fingertips.</p></div>", unsafe_allow_html=True)
+            st.markdown("<div class='panel'><div class='panel-title'>Built for the room</div><p style='color:var(--muted)'>Large type, high contrast, live rankings, manual scoring, timer support, and English and नेपाली at your fingertips.</p></div>", unsafe_allow_html=True)
 
 
 def render_setup() -> None:
@@ -278,6 +303,11 @@ def render_setup() -> None:
 
 def render_teams() -> None:
     st.markdown(f"<div class='hero'><div class='eyebrow'>{t('teams')}</div><h2>{t('team_names')}</h2><p>{t('team_note')}</p></div>", unsafe_allow_html=True)
+    match_count = matching_count()
+    st.info(t("matching", count=match_count))
+    requested = st.session_state.settings.get("question_count", match_count)
+    if match_count < requested:
+        st.warning(t("bank_limit", available=match_count))
     count = st.number_input(t("team_count"), min_value=2, max_value=10, value=st.session_state.team_count, step=1)
     if int(count) != st.session_state.team_count:
         st.session_state.team_count = int(count)
@@ -339,7 +369,7 @@ def render_quiz() -> None:
     with right:
         chosen = st.selectbox(t("language"), LANGUAGES, index=LANGUAGES.index(lang), format_func=lambda x: LANGUAGE_NAMES[x], key="language_selector")
         if chosen != lang: st.session_state.selected_language = chosen; st.rerun()
-    if fallback: st.warning(t("missing", lang))
+    if fallback: st.markdown(f"<div class='translation-warning'>{html.escape(t('missing', lang))}</div>", unsafe_allow_html=True)
     total = len(st.session_state.question_ids); st.progress(st.session_state.question_number / total if total else 0)
     remaining = seconds_left()
     if remaining is not None and not st.session_state.answer_revealed:
