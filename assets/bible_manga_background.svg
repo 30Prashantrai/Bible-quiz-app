@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+  <rect width="1600" height="1000" fill="#f3e8d0"/>
+  <g fill="none" stroke="#173c3a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity=".78">
+    <path d="M80 140 Q370 40 650 160 T1210 130 T1570 180"/>
+    <path d="M30 820 Q330 690 590 840 T1120 780 T1600 840"/>
+    <path d="M210 275 L500 225 L530 550 L205 585 Z"/>
+    <path d="M580 170 L990 145 L1020 470 L600 500 Z"/>
+    <path d="M1080 290 L1430 260 L1480 610 L1100 635 Z"/>
+    <path d="M320 690 L760 640 L790 925 L345 945 Z"/>
+    <path d="M875 650 L1290 675 L1250 955 L850 915 Z"/>
+    <path d="M405 328 Q450 270 495 328 M425 375 Q452 348 480 375 M720 270 Q800 210 880 270 M755 320 Q800 290 845 320"/>
+    <path d="M1180 420 Q1260 340 1340 420 M1200 475 Q1260 430 1320 475"/>
+    <path d="M480 760 Q560 700 640 760 M510 815 Q560 775 610 815 M955 760 Q1060 700 1165 765"/>
+  </g>
+  <g fill="#d99b27" opacity=".32">
+    <circle cx="300" cy="180" r="72"/><circle cx="1330" cy="170" r="90"/><circle cx="800" cy="820" r="120"/>
+  </g>
+  <g fill="#173c3a" opacity=".62" font-family="Georgia, serif" font-weight="700">
+    <text x="260" y="470" font-size="90">✦</text>
+    <text x="770" y="390" font-size="95">✝</text>
+    <text x="1240" y="540" font-size="86">✦</text>
+  </g>
+  <g fill="#173c3a" opacity=".42" font-family="Arial, sans-serif" font-size="24" letter-spacing="7">
+    <text x="60" y="70">BIBLE QUIZ LIVE</text><text x="1270" y="965">FAITH • TEAM • JOY</text>
+  </g>
+</svg>
