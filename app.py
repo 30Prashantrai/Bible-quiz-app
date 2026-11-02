@@ -106,10 +106,10 @@ def inject_css(projector: bool = False, theme: str = "light", manga_background: 
     if manga_background and manga_path.exists():
         manga_uri = base64.b64encode(manga_path.read_bytes()).decode("ascii")
     if theme == "dark":
-        palette = "--ink:#eef6f3; --muted:#aebfbb; --cream:#0c1417; --paper:#172328; --soft:#203237; --leader:#3a3020; --warning-bg:#4a3a16; --warning-fg:#fff3b0; --warning-border:#a8842f; --question-bg:#172328; --question-fg:#eef6f3; --teal:#62d1c1; --teal2:#173d3b; --gold:#f0bb55; --coral:#f17a66; --line:#304449;"
+        palette = "--ink:#eef6f3; --muted:#aebfbb; --cream:#0c1417; --paper:#172328; --soft:#203237; --leader:#3a3020; --warning-bg:#4a3a16; --warning-fg:#fff3b0; --warning-border:#a8842f; --question-bg:#172328; --question-fg:#eef6f3; --correct-bg:#244b38; --correct-fg:#d9ffe5; --correct-border:#70d59a; --teal:#62d1c1; --teal2:#173d3b; --gold:#f0bb55; --coral:#f17a66; --line:#304449;"
         overlay = "linear-gradient(rgba(12,20,23,.77),rgba(12,20,23,.77))"
     else:
-        palette = "--ink:#17212b; --muted:#66727d; --cream:#fbfaf7; --paper:#ffffff; --soft:#fffaf0; --leader:#fffaf0; --warning-bg:#fff3b0; --warning-fg:#4b3900; --warning-border:#d6ae28; --question-bg:#17212b; --question-fg:#ffffff; --teal:#0f766e; --teal2:#d9f3ee; --gold:#d99b27; --coral:#c9553f; --line:#e6e7e5;"
+        palette = "--ink:#17212b; --muted:#66727d; --cream:#fbfaf7; --paper:#ffffff; --soft:#fffaf0; --leader:#fffaf0; --warning-bg:#fff3b0; --warning-fg:#4b3900; --warning-border:#d6ae28; --question-bg:#17212b; --question-fg:#ffffff; --correct-bg:#dff7e6; --correct-fg:#174b2b; --correct-border:#2d9a56; --teal:#0f766e; --teal2:#d9f3ee; --gold:#d99b27; --coral:#c9553f; --line:#e6e7e5;"
         overlay = "linear-gradient(rgba(251,250,247,.86),rgba(251,250,247,.86))"
     background = f", url(data:image/svg+xml;base64,{manga_uri})" if manga_uri else ""
     st.markdown(f"""
@@ -127,6 +127,9 @@ def inject_css(projector: bool = False, theme: str = "light", manga_background: 
     .question-card {{ background:var(--question-bg) !important; color:var(--question-fg) !important; border-radius:16px; padding:2.2rem 2.4rem; min-height:220px; display:flex; flex-direction:column; justify-content:center; box-shadow:0 14px 34px rgba(23,33,43,.16); }}
     .question-card .eyebrow {{ color:#8de0d2 !important; }} .question-card .question-text {{ color:var(--question-fg) !important; font-family:'Playfair Display',serif; font-size:clamp(1.75rem,3.3vw,3.35rem); line-height:1.14; margin-top:.7rem; }}
     .option-letter {{ color:var(--gold); font-weight:700; margin-right:.65rem; }}
+    .quiz-option {{ transition:background .2s ease,border-color .2s ease,box-shadow .2s ease; }}
+    .quiz-option.correct-option {{ background:var(--correct-bg); color:var(--correct-fg); border:2px solid var(--correct-border); box-shadow:0 0 0 3px color-mix(in srgb, var(--correct-border) 20%, transparent); }}
+    .quiz-option.correct-option .option-letter {{ color:var(--correct-border); }}
     .score-card {{ border:1px solid var(--line); background:var(--paper); color:var(--ink); border-radius:10px; padding:.9rem 1rem; margin-bottom:.6rem; display:flex; align-items:center; justify-content:space-between; }}
     .score-card.leader {{ border:2px solid var(--gold); background:var(--leader); }} .score-name {{ font-weight:700; }} .score-value {{ font-weight:700; font-size:1.45rem; color:var(--teal); }}
     .winner {{ background:linear-gradient(110deg,#124a45,#0f766e); color:white; border-radius:16px; padding:2rem; text-align:center; }} .winner h2 {{ color:white; font-family:'Playfair Display',serif; margin:.25rem 0; }}
@@ -384,8 +387,10 @@ def render_quiz() -> None:
     difficulty_label = LABELS.get(lang, LABELS["en"]).get(record.get("difficulty", ""), record.get("difficulty", ""))
     st.markdown(f"<div class='question-card'><div class='eyebrow'>{html.escape(category_label)} · {html.escape(difficulty_label)}</div><div class='question-text'>{html.escape(record.get('question',''))}</div></div>", unsafe_allow_html=True)
     option_cols = st.columns(2)
+    correct_answer = record.get("correct_answer", "")
     for index, option in enumerate(record.get("options", [])):
-        with option_cols[index % 2]: st.markdown(f"<div class='panel' style='font-size:1.2rem; min-height:3.8rem;'><span class='option-letter'>{chr(65 + index)}</span>{html.escape(option)}</div>", unsafe_allow_html=True)
+        correct_class = " correct-option" if st.session_state.answer_revealed and option == correct_answer else ""
+        with option_cols[index % 2]: st.markdown(f"<div class='panel quiz-option{correct_class}' style='font-size:1.2rem; min-height:3.8rem;'><span class='option-letter'>{chr(65 + index)}</span>{html.escape(option)}</div>", unsafe_allow_html=True)
     if not st.session_state.answer_revealed:
         if st.button(t("reveal"), type="primary", use_container_width=True): reveal(); st.rerun()
     else:
