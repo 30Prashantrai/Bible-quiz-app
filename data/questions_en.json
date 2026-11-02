@@ -3,8 +3,8 @@
     "id": "GEN001",
     "question": "Who built the ark?",
     "options": [
-      "Noah",
       "Moses",
+      "Noah",
       "Abraham",
       "David"
     ],
@@ -19,9 +19,9 @@
     "question": "What did God part so Israel could cross on dry ground?",
     "options": [
       "The Jordan River",
-      "The Red Sea",
       "The Sea of Galilee",
-      "The Mediterranean Sea"
+      "The Mediterranean Sea",
+      "The Red Sea"
     ],
     "correct_answer": "The Red Sea",
     "category": "Miracles",
@@ -34,8 +34,8 @@
     "question": "How many times did Israel march around Jericho on the seventh day?",
     "options": [
       "Three",
-      "Five",
       "Seven",
+      "Five",
       "Twelve"
     ],
     "correct_answer": "Seven",
@@ -64,8 +64,8 @@
     "question": "The Lord is my shepherd; I shall not ___.",
     "options": [
       "fear",
-      "want",
       "run",
+      "want",
       "fall"
     ],
     "correct_answer": "want",
@@ -93,9 +93,9 @@
     "id": "MAT001",
     "question": "Where was Jesus born?",
     "options": [
+      "Bethlehem",
       "Nazareth",
       "Jerusalem",
-      "Bethlehem",
       "Capernaum"
     ],
     "correct_answer": "Bethlehem",
@@ -108,8 +108,8 @@
     "id": "JHN002",
     "question": "What did Jesus turn water into?",
     "options": [
-      "Oil",
       "Wine",
+      "Oil",
       "Milk",
       "Juice"
     ],
@@ -124,8 +124,8 @@
     "question": "How many disciples did Jesus appoint?",
     "options": [
       "Seven",
-      "Ten",
       "Twelve",
+      "Ten",
       "Seventy"
     ],
     "correct_answer": "Twelve",
@@ -140,8 +140,8 @@
     "options": [
       "A priest",
       "A Levite",
-      "A Samaritan",
-      "A soldier"
+      "A soldier",
+      "A Samaritan"
     ],
     "correct_answer": "A Samaritan",
     "category": "Parables",
@@ -168,8 +168,8 @@
     "id": "ACT001",
     "question": "What appeared over the disciples at Pentecost?",
     "options": [
-      "Stars",
       "Tongues like fire",
+      "Stars",
       "A rainbow",
       "Doves"
     ],
@@ -183,10 +183,10 @@
     "id": "DAN001",
     "question": "Who interpreted the writing on the wall for King Belshazzar?",
     "options": [
-      "Daniel",
       "Jeremiah",
       "Ezra",
-      "Nehemiah"
+      "Nehemiah",
+      "Daniel"
     ],
     "correct_answer": "Daniel",
     "category": "Old Testament",
@@ -199,8 +199,8 @@
     "question": "How many years did Solomon reign over Israel?",
     "options": [
       "20 years",
-      "30 years",
       "40 years",
+      "30 years",
       "50 years"
     ],
     "correct_answer": "40 years",
@@ -228,9 +228,9 @@
     "id": "GEN002",
     "question": "Who was the first man?",
     "options": [
-      "Adam",
       "Noah",
       "Moses",
+      "Adam",
       "Abraham"
     ],
     "correct_answer": "Adam",
@@ -243,10 +243,10 @@
     "id": "GEN003",
     "question": "Who was the first woman?",
     "options": [
-      "Eve",
       "Sarah",
       "Mary",
-      "Ruth"
+      "Ruth",
+      "Eve"
     ],
     "correct_answer": "Eve",
     "category": "People",
@@ -273,8 +273,8 @@
     "id": "GEN005",
     "question": "What was Abraham's promised son called?",
     "options": [
-      "Isaac",
       "Ishmael",
+      "Isaac",
       "Jacob",
       "Esau"
     ],
@@ -288,9 +288,9 @@
     "id": "GEN006",
     "question": "What did Joseph's brothers sell him for?",
     "options": [
-      "Twenty pieces of silver",
       "Ten pieces of gold",
       "Thirty coins",
+      "Twenty pieces of silver",
       "One talent"
     ],
     "correct_answer": "Twenty pieces of silver",
@@ -318,8 +318,8 @@
     "id": "EXO003",
     "question": "What food did God provide in the wilderness?",
     "options": [
-      "Manna",
       "Quail only",
+      "Manna",
       "Bread from Egypt",
       "Grapes"
     ],
@@ -333,9 +333,9 @@
     "id": "EXO004",
     "question": "How many commandments were written on the stone tablets?",
     "options": [
-      "Ten",
       "Seven",
       "Twelve",
+      "Ten",
       "Forty"
     ],
     "correct_answer": "Ten",
@@ -348,9 +348,9 @@
     "id": "LEV001",
     "question": "Which day was set apart as the Sabbath?",
     "options": [
-      "The seventh day",
       "The first day",
       "The fifth day",
+      "The seventh day",
       "The tenth day"
     ],
     "correct_answer": "The seventh day",
@@ -363,8 +363,8 @@
     "id": "NUM001",
     "question": "How many spies explored Canaan?",
     "options": [
-      "Twelve",
       "Seven",
+      "Twelve",
       "Ten",
       "Seventy"
     ],
@@ -393,9 +393,9 @@
     "id": "JDG001",
     "question": "Who was known for extraordinary strength?",
     "options": [
-      "Samson",
       "Gideon",
       "Deborah",
+      "Samson",
       "Jephthah"
     ],
     "correct_answer": "Samson",
@@ -408,10 +408,10 @@
     "id": "RUT001",
     "question": "Who was Ruth's mother-in-law?",
     "options": [
-      "Naomi",
       "Hannah",
       "Miriam",
-      "Elizabeth"
+      "Elizabeth",
+      "Naomi"
     ],
     "correct_answer": "Naomi",
     "category": "People",
@@ -423,8 +423,8 @@
     "id": "1SA002",
     "question": "Who was Israel's first king?",
     "options": [
-      "Saul",
       "David",
+      "Saul",
       "Solomon",
       "Samuel"
     ],
@@ -438,10 +438,10 @@
     "id": "2SA001",
     "question": "What city did David make the capital of Israel?",
     "options": [
-      "Jerusalem",
       "Bethlehem",
       "Hebron",
-      "Samaria"
+      "Samaria",
+      "Jerusalem"
     ],
     "correct_answer": "Jerusalem",
     "category": "Places",
@@ -453,9 +453,9 @@
     "id": "1KI002",
     "question": "Who built the first temple in Jerusalem?",
     "options": [
-      "Solomon",
       "David",
       "Saul",
+      "Solomon",
       "Hezekiah"
     ],
     "correct_answer": "Solomon",
@@ -468,9 +468,9 @@
     "id": "2KI001",
     "question": "Which prophet was taken to heaven in a whirlwind?",
     "options": [
-      "Elijah",
       "Elisha",
       "Isaiah",
+      "Elijah",
       "Jeremiah"
     ],
     "correct_answer": "Elijah",
@@ -483,9 +483,9 @@
     "id": "EST001",
     "question": "Who became queen and helped save her people?",
     "options": [
-      "Esther",
       "Deborah",
       "Ruth",
+      "Esther",
       "Miriam"
     ],
     "correct_answer": "Esther",
@@ -513,10 +513,10 @@
     "id": "PSA002",
     "question": "How many books are in the book of Psalms?",
     "options": [
-      "150",
       "100",
       "120",
-      "200"
+      "200",
+      "150"
     ],
     "correct_answer": "150",
     "category": "Books",
@@ -543,10 +543,10 @@
     "id": "JER001",
     "question": "What did Jeremiah say God's word was like within him?",
     "options": [
-      "A burning fire",
       "A still river",
       "A sharp stone",
-      "A gentle breeze"
+      "A gentle breeze",
+      "A burning fire"
     ],
     "correct_answer": "A burning fire",
     "category": "Teachings",
@@ -558,10 +558,10 @@
     "id": "EZK001",
     "question": "What did Ezekiel see in his valley vision?",
     "options": [
-      "Dry bones",
       "Golden statues",
       "Stone tablets",
-      "Living trees"
+      "Living trees",
+      "Dry bones"
     ],
     "correct_answer": "Dry bones",
     "category": "Miracles",
@@ -573,9 +573,9 @@
     "id": "MIC001",
     "question": "Where did Micah say the ruler of Israel would be born?",
     "options": [
-      "Bethlehem",
       "Nazareth",
       "Jerusalem",
+      "Bethlehem",
       "Jericho"
     ],
     "correct_answer": "Bethlehem",
@@ -588,9 +588,9 @@
     "id": "MAT003",
     "question": "Who baptized Jesus?",
     "options": [
-      "John the Baptist",
       "Peter",
       "Nicodemus",
+      "John the Baptist",
       "James"
     ],
     "correct_answer": "John the Baptist",
@@ -603,10 +603,10 @@
     "id": "MAT004",
     "question": "How long did Jesus fast in the wilderness?",
     "options": [
-      "Forty days",
       "Seven days",
       "Twelve days",
-      "Seventy days"
+      "Seventy days",
+      "Forty days"
     ],
     "correct_answer": "Forty days",
     "category": "Events",
@@ -633,8 +633,8 @@
     "id": "MAT006",
     "question": "What did Jesus ride into Jerusalem?",
     "options": [
-      "A donkey",
       "A horse",
+      "A donkey",
       "A camel",
       "A chariot"
     ],
@@ -648,10 +648,10 @@
     "id": "MAR001",
     "question": "What did Jesus calm during the storm?",
     "options": [
-      "The wind and the waves",
       "The rain only",
       "The earthquake",
-      "The fire"
+      "The fire",
+      "The wind and the waves"
     ],
     "correct_answer": "The wind and the waves",
     "category": "Miracles",
@@ -678,8 +678,8 @@
     "id": "LUK003",
     "question": "What did Zacchaeus do for a living?",
     "options": [
-      "He collected taxes",
       "He was a fisherman",
+      "He collected taxes",
       "He was a priest",
       "He was a farmer"
     ],
@@ -693,9 +693,9 @@
     "id": "JHN004",
     "question": "What did Jesus call himself in John 11?",
     "options": [
-      "The resurrection and the life",
       "The good shepherd",
       "The true vine",
+      "The resurrection and the life",
       "The gate"
     ],
     "correct_answer": "The resurrection and the life",
@@ -708,10 +708,10 @@
     "id": "JHN005",
     "question": "What did Jesus wash for his disciples?",
     "options": [
-      "Their feet",
       "Their hands",
       "Their clothes",
-      "Their nets"
+      "Their nets",
+      "Their feet"
     ],
     "correct_answer": "Their feet",
     "category": "Events",
@@ -723,8 +723,8 @@
     "id": "ACT002",
     "question": "Who was the first Christian martyr?",
     "options": [
-      "Stephen",
       "James",
+      "Stephen",
       "Barnabas",
       "Philip"
     ],
@@ -738,9 +738,9 @@
     "id": "ACT003",
     "question": "Who was converted on the road to Damascus?",
     "options": [
-      "Saul",
       "Cornelius",
       "Apollos",
+      "Saul",
       "Silas"
     ],
     "correct_answer": "Saul",
@@ -753,9 +753,9 @@
     "id": "ROM002",
     "question": "What is the wages of sin according to Romans?",
     "options": [
-      "Death",
       "Fear",
       "Poverty",
+      "Death",
       "Exile"
     ],
     "correct_answer": "Death",
@@ -798,8 +798,8 @@
     "id": "EPH001",
     "question": "What piece of spiritual armor is called the shield?",
     "options": [
-      "Faith",
       "Truth",
+      "Faith",
       "Salvation",
       "Righteousness"
     ],
@@ -828,10 +828,10 @@
     "id": "HEB001",
     "question": "Who is called the father of faith?",
     "options": [
-      "Abraham",
       "Moses",
       "David",
-      "Isaac"
+      "Isaac",
+      "Abraham"
     ],
     "correct_answer": "Abraham",
     "category": "People",
@@ -843,8 +843,8 @@
     "id": "JAS001",
     "question": "What does James say faith without works is?",
     "options": [
-      "Dead",
       "Hidden",
+      "Dead",
       "Complete",
       "Private"
     ],
@@ -858,10 +858,10 @@
     "id": "1PE001",
     "question": "What kind of living hope does Peter describe?",
     "options": [
-      "A hope through the resurrection of Jesus",
       "A hope in wealth",
       "A hope in power",
-      "A hope in ancestry"
+      "A hope in ancestry",
+      "A hope through the resurrection of Jesus"
     ],
     "correct_answer": "A hope through the resurrection of Jesus",
     "category": "Teachings",
@@ -887,7 +887,12 @@
   {
     "id": "MAN001",
     "question": "Which prophet confronted David after his sin with Bathsheba?",
-    "options": ["Nathan", "Samuel", "Elijah", "Isaiah"],
+    "options": [
+      "Samuel",
+      "Elijah",
+      "Nathan",
+      "Isaiah"
+    ],
     "correct_answer": "Nathan",
     "category": "Old Testament",
     "difficulty": "Hard",
@@ -897,7 +902,12 @@
   {
     "id": "MAN002",
     "question": "Where was Paul traveling when Jesus appeared to him?",
-    "options": ["Damascus", "Jerusalem", "Rome", "Antioch"],
+    "options": [
+      "Jerusalem",
+      "Rome",
+      "Antioch",
+      "Damascus"
+    ],
     "correct_answer": "Damascus",
     "category": "New Testament",
     "difficulty": "Medium",
@@ -907,7 +917,12 @@
   {
     "id": "MAN003",
     "question": "Who was the skilled craftsman chosen to help make the tabernacle?",
-    "options": ["Bezalel", "Gideon", "Boaz", "Jethro"],
+    "options": [
+      "Bezalel",
+      "Gideon",
+      "Boaz",
+      "Jethro"
+    ],
     "correct_answer": "Bezalel",
     "category": "People",
     "difficulty": "Hard",
@@ -917,7 +932,12 @@
   {
     "id": "MAN004",
     "question": "On which island was John when he received the Revelation?",
-    "options": ["Patmos", "Crete", "Cyprus", "Malta"],
+    "options": [
+      "Crete",
+      "Patmos",
+      "Cyprus",
+      "Malta"
+    ],
     "correct_answer": "Patmos",
     "category": "Places",
     "difficulty": "Medium",
@@ -927,7 +947,12 @@
   {
     "id": "MAN005",
     "question": "How many lepers did Jesus heal at one time, according to Luke?",
-    "options": ["Ten", "Seven", "Twelve", "Three"],
+    "options": [
+      "Seven",
+      "Twelve",
+      "Ten",
+      "Three"
+    ],
     "correct_answer": "Ten",
     "category": "Miracles",
     "difficulty": "Medium",
@@ -937,7 +962,12 @@
   {
     "id": "MAN006",
     "question": "In the parable of the Good Samaritan, who helped the injured man?",
-    "options": ["A Samaritan", "A priest", "A Levite", "A tax collector"],
+    "options": [
+      "A priest",
+      "A Levite",
+      "A tax collector",
+      "A Samaritan"
+    ],
     "correct_answer": "A Samaritan",
     "category": "Parables",
     "difficulty": "Easy",
@@ -947,7 +977,12 @@
   {
     "id": "MAN007",
     "question": "Which Gospel begins with a genealogy tracing Jesus' ancestry through Abraham?",
-    "options": ["Matthew", "Mark", "Luke", "John"],
+    "options": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John"
+    ],
     "correct_answer": "Matthew",
     "category": "Books",
     "difficulty": "Hard",
@@ -957,7 +992,12 @@
   {
     "id": "MAN008",
     "question": "What event happened when the Holy Spirit came upon the disciples in Acts 2?",
-    "options": ["Pentecost", "The Exodus", "The Transfiguration", "The Ascension"],
+    "options": [
+      "The Exodus",
+      "Pentecost",
+      "The Transfiguration",
+      "The Ascension"
+    ],
     "correct_answer": "Pentecost",
     "category": "Events",
     "difficulty": "Medium",
@@ -967,7 +1007,12 @@
   {
     "id": "MAN009",
     "question": "What did Jesus say is the greatest commandment?",
-    "options": ["Love God with all your heart", "Build a large house", "Fast every day", "Give away all possessions"],
+    "options": [
+      "Build a large house",
+      "Fast every day",
+      "Love God with all your heart",
+      "Give away all possessions"
+    ],
     "correct_answer": "Love God with all your heart",
     "category": "Teachings",
     "difficulty": "Easy",
@@ -977,7 +1022,12 @@
   {
     "id": "MAN010",
     "question": "Which woman served as a judge and prophetess in Israel?",
-    "options": ["Deborah", "Hannah", "Miriam", "Abigail"],
+    "options": [
+      "Hannah",
+      "Miriam",
+      "Abigail",
+      "Deborah"
+    ],
     "correct_answer": "Deborah",
     "category": "Old Testament",
     "difficulty": "Medium",
@@ -987,7 +1037,12 @@
   {
     "id": "MAN011",
     "question": "Which event did Peter, James, and John witness on a high mountain?",
-    "options": ["The Transfiguration", "The Exodus", "The baptism of Jesus", "The crucifixion"],
+    "options": [
+      "The Transfiguration",
+      "The Exodus",
+      "The baptism of Jesus",
+      "The crucifixion"
+    ],
     "correct_answer": "The Transfiguration",
     "category": "New Testament",
     "difficulty": "Medium",
@@ -997,7 +1052,12 @@
   {
     "id": "MAN012",
     "question": "Who was David's trusted counselor who later advised Absalom?",
-    "options": ["Ahithophel", "Joab", "Nathan", "Hushai"],
+    "options": [
+      "Joab",
+      "Ahithophel",
+      "Nathan",
+      "Hushai"
+    ],
     "correct_answer": "Ahithophel",
     "category": "People",
     "difficulty": "Hard",
@@ -1007,7 +1067,12 @@
   {
     "id": "MAN013",
     "question": "On which mountain did Moses receive the covenant law?",
-    "options": ["Mount Sinai", "Mount Carmel", "Mount Zion", "Mount Tabor"],
+    "options": [
+      "Mount Carmel",
+      "Mount Zion",
+      "Mount Sinai",
+      "Mount Tabor"
+    ],
     "correct_answer": "Mount Sinai",
     "category": "Places",
     "difficulty": "Easy",
@@ -1017,7 +1082,12 @@
   {
     "id": "MAN014",
     "question": "How many men were fed when Jesus multiplied the five loaves and two fish?",
-    "options": ["About five thousand", "About one thousand", "About ten thousand", "About seven hundred"],
+    "options": [
+      "About one thousand",
+      "About ten thousand",
+      "About seven hundred",
+      "About five thousand"
+    ],
     "correct_answer": "About five thousand",
     "category": "Miracles",
     "difficulty": "Medium",
@@ -1027,7 +1097,12 @@
   {
     "id": "MAN015",
     "question": "In the parable of the lost son, what did the father do when his son returned?",
-    "options": ["He welcomed him with joy", "He sent him away", "He demanded a payment", "He called the neighbors to judge him"],
+    "options": [
+      "He welcomed him with joy",
+      "He sent him away",
+      "He demanded a payment",
+      "He called the neighbors to judge him"
+    ],
     "correct_answer": "He welcomed him with joy",
     "category": "Parables",
     "difficulty": "Easy",
@@ -1037,7 +1112,12 @@
   {
     "id": "MAN016",
     "question": "Which New Testament book contains letters to seven churches in Asia?",
-    "options": ["Revelation", "Romans", "Hebrews", "James"],
+    "options": [
+      "Romans",
+      "Revelation",
+      "Hebrews",
+      "James"
+    ],
     "correct_answer": "Revelation",
     "category": "Books",
     "difficulty": "Medium",
@@ -1047,7 +1127,12 @@
   {
     "id": "MAN017",
     "question": "What happened to the walls of Jericho after Israel marched around the city?",
-    "options": ["They fell down", "They caught fire", "They became invisible", "They were covered with water"],
+    "options": [
+      "They caught fire",
+      "They became invisible",
+      "They fell down",
+      "They were covered with water"
+    ],
     "correct_answer": "They fell down",
     "category": "Events",
     "difficulty": "Easy",
@@ -1057,7 +1142,12 @@
   {
     "id": "MAN018",
     "question": "What two images did Jesus use for his followers in the Sermon on the Mount?",
-    "options": ["Salt and light", "Bread and water", "Lions and eagles", "Vines and branches"],
+    "options": [
+      "Bread and water",
+      "Lions and eagles",
+      "Vines and branches",
+      "Salt and light"
+    ],
     "correct_answer": "Salt and light",
     "category": "Teachings",
     "difficulty": "Medium",
@@ -1067,7 +1157,12 @@
   {
     "id": "MAN019",
     "question": "What did Moses lift up in the wilderness so that the people who looked at it would live?",
-    "options": ["A bronze serpent", "A golden calf", "A stone altar", "A wooden staff"],
+    "options": [
+      "A bronze serpent",
+      "A golden calf",
+      "A stone altar",
+      "A wooden staff"
+    ],
     "correct_answer": "A bronze serpent",
     "category": "Old Testament",
     "difficulty": "Hard",
@@ -1077,7 +1172,12 @@
   {
     "id": "MAN020",
     "question": "Who is traditionally identified as the author of the book of Acts?",
-    "options": ["Luke", "Peter", "Paul", "John"],
+    "options": [
+      "Peter",
+      "Luke",
+      "Paul",
+      "John"
+    ],
     "correct_answer": "Luke",
     "category": "New Testament",
     "difficulty": "Medium",
@@ -1087,7 +1187,12 @@
   {
     "id": "MAN021",
     "question": "What was Zacchaeus's occupation?",
-    "options": ["Chief tax collector", "Fisherman", "Roman soldier", "Synagogue ruler"],
+    "options": [
+      "Fisherman",
+      "Roman soldier",
+      "Chief tax collector",
+      "Synagogue ruler"
+    ],
     "correct_answer": "Chief tax collector",
     "category": "People",
     "difficulty": "Easy",
@@ -1097,7 +1202,12 @@
   {
     "id": "MAN022",
     "question": "In which town was Jesus born?",
-    "options": ["Bethlehem", "Nazareth", "Capernaum", "Bethany"],
+    "options": [
+      "Nazareth",
+      "Capernaum",
+      "Bethany",
+      "Bethlehem"
+    ],
     "correct_answer": "Bethlehem",
     "category": "Places",
     "difficulty": "Easy",
@@ -1107,7 +1217,12 @@
   {
     "id": "MAN023",
     "question": "What did Jesus do when a storm threatened the boat on the Sea of Galilee?",
-    "options": ["He calmed the wind and sea", "He walked to shore", "He called for soldiers", "He built another boat"],
+    "options": [
+      "He calmed the wind and sea",
+      "He walked to shore",
+      "He called for soldiers",
+      "He built another boat"
+    ],
     "correct_answer": "He calmed the wind and sea",
     "category": "Miracles",
     "difficulty": "Medium",
@@ -1117,7 +1232,12 @@
   {
     "id": "MAN024",
     "question": "In Jesus' parable, what does the mustard seed illustrate?",
-    "options": ["The growth of God's kingdom", "The danger of wealth", "The end of a journey", "The need for harvest workers"],
+    "options": [
+      "The danger of wealth",
+      "The growth of God's kingdom",
+      "The end of a journey",
+      "The need for harvest workers"
+    ],
     "correct_answer": "The growth of God's kingdom",
     "category": "Parables",
     "difficulty": "Hard",
@@ -1127,7 +1247,12 @@
   {
     "id": "MAN025",
     "question": "Which Old Testament book records the giving of the Ten Commandments?",
-    "options": ["Exodus", "Joshua", "Ruth", "Esther"],
+    "options": [
+      "Joshua",
+      "Ruth",
+      "Exodus",
+      "Esther"
+    ],
     "correct_answer": "Exodus",
     "category": "Books",
     "difficulty": "Medium",
@@ -1137,7 +1262,12 @@
   {
     "id": "MAN026",
     "question": "On what day did Jesus rise from the dead?",
-    "options": ["The third day", "The seventh day", "The tenth day", "The fortieth day"],
+    "options": [
+      "The seventh day",
+      "The tenth day",
+      "The fortieth day",
+      "The third day"
+    ],
     "correct_answer": "The third day",
     "category": "Events",
     "difficulty": "Easy",
@@ -1147,7 +1277,12 @@
   {
     "id": "MAN027",
     "question": "How many times did Jesus say we should forgive a brother who sins against us?",
-    "options": ["Seventy-seven times", "Three times", "Seven times only", "Once"],
+    "options": [
+      "Seventy-seven times",
+      "Three times",
+      "Seven times only",
+      "Once"
+    ],
     "correct_answer": "Seventy-seven times",
     "category": "Teachings",
     "difficulty": "Hard",
@@ -1157,7 +1292,12 @@
   {
     "id": "MAN028",
     "question": "Who interpreted Pharaoh's dreams in Egypt?",
-    "options": ["Joseph", "Moses", "Daniel", "Aaron"],
+    "options": [
+      "Moses",
+      "Joseph",
+      "Daniel",
+      "Aaron"
+    ],
     "correct_answer": "Joseph",
     "category": "Old Testament",
     "difficulty": "Easy",
@@ -1167,7 +1307,12 @@
   {
     "id": "MAN029",
     "question": "Who baptized the Ethiopian official on the road from Jerusalem to Gaza?",
-    "options": ["Philip", "Peter", "Barnabas", "Stephen"],
+    "options": [
+      "Peter",
+      "Barnabas",
+      "Philip",
+      "Stephen"
+    ],
     "correct_answer": "Philip",
     "category": "New Testament",
     "difficulty": "Medium",
@@ -1177,134 +1322,3841 @@
   {
     "id": "MAN030",
     "question": "Who was the mother of Samuel?",
-    "options": ["Hannah", "Martha", "Elizabeth", "Rachel"],
+    "options": [
+      "Martha",
+      "Elizabeth",
+      "Rachel",
+      "Hannah"
+    ],
     "correct_answer": "Hannah",
     "category": "People",
     "difficulty": "Easy",
     "bible_reference": "1 Samuel 1:20",
     "explanation": "Hannah prayed for a son and named him Samuel after God answered her prayer."
   },
-  {"id":"MAN031","question":"Where did Jesus meet the Samaritan woman?","options":["Jacob's well","The temple","The Jordan River","A synagogue"],"correct_answer":"Jacob's well","category":"Places","difficulty":"Medium","bible_reference":"John 4:5-7","explanation":"Jesus met the Samaritan woman at Jacob's well near Sychar."},
-  {"id":"MAN032","question":"What did Jesus use to heal a blind man in Bethsaida?","options":["His hands and saliva","A piece of cloth","Mud from the pool","Oil and wine"],"correct_answer":"His hands and saliva","category":"Miracles","difficulty":"Hard","bible_reference":"Mark 8:22-26","explanation":"Jesus put saliva on the man's eyes and laid his hands on him."},
-  {"id":"MAN033","question":"What did the sower scatter in Jesus' parable?","options":["Seed","Grain baskets","Coins","Grape branches"],"correct_answer":"Seed","category":"Parables","difficulty":"Easy","bible_reference":"Matthew 13:3-8","explanation":"The sower scattered seed on different kinds of ground."},
-  {"id":"MAN034","question":"Which book contains the story of Esther becoming queen?","options":["Esther","Nehemiah","Judges","Ezra"],"correct_answer":"Esther","category":"Books","difficulty":"Easy","bible_reference":"Esther 2:17","explanation":"Esther became queen and later helped save her people."},
-  {"id":"MAN035","question":"What appeared over the disciples at Pentecost?","options":["Tongues like fire","A bright star","A dove of silver","A pillar of cloud"],"correct_answer":"Tongues like fire","category":"Events","difficulty":"Medium","bible_reference":"Acts 2:3","explanation":"At Pentecost, tongues like fire appeared and rested on the disciples."},
-  {"id":"MAN036","question":"What did Jesus teach about loving one's enemies?","options":["Love and pray for them","Avoid them forever","Repay their harm","Publicly shame them"],"correct_answer":"Love and pray for them","category":"Teachings","difficulty":"Hard","bible_reference":"Matthew 5:44","explanation":"Jesus taught his followers to love their enemies and pray for those who persecute them."},
-  {"id":"MAN037","question":"Who led Israel after Moses died?","options":["Joshua","Caleb","Aaron","Samuel"],"correct_answer":"Joshua","category":"Old Testament","difficulty":"Easy","bible_reference":"Joshua 1:1-2","explanation":"God appointed Joshua to lead Israel after Moses died."},
-  {"id":"MAN038","question":"What was the name of the garden where Jesus prayed before his arrest?","options":["Gethsemane","Eden","Bethany","Galilee"],"correct_answer":"Gethsemane","category":"New Testament","difficulty":"Medium","bible_reference":"Matthew 26:36","explanation":"Jesus went to Gethsemane with his disciples and prayed before his arrest."},
-  {"id":"MAN039","question":"Who denied Jesus three times?","options":["Peter","Thomas","Judas","Andrew"],"correct_answer":"Peter","category":"People","difficulty":"Easy","bible_reference":"Luke 22:54-62","explanation":"Peter denied knowing Jesus three times before the rooster crowed."},
-  {"id":"MAN040","question":"Where did Elijah challenge the prophets of Baal?","options":["Mount Carmel","Mount Sinai","Mount Zion","Mount Ararat"],"correct_answer":"Mount Carmel","category":"Places","difficulty":"Hard","bible_reference":"1 Kings 18:19-20","explanation":"Elijah confronted the prophets of Baal on Mount Carmel."},
-  {"id":"MAN041","question":"What did Jesus call Lazarus out of?","options":["The tomb","The temple","The boat","The wilderness"],"correct_answer":"The tomb","category":"Miracles","difficulty":"Easy","bible_reference":"John 11:43-44","explanation":"Jesus called Lazarus out of the tomb after he had been dead four days."},
-  {"id":"MAN042","question":"In the parable of the talents, what did the faithful servants do?","options":["They put their talents to work","They buried every talent","They gave them to Rome","They spent them on a feast"],"correct_answer":"They put their talents to work","category":"Parables","difficulty":"Medium","bible_reference":"Matthew 25:14-30","explanation":"The faithful servants used what their master entrusted to them and were rewarded."},
-  {"id":"MAN043","question":"Which book tells of Daniel in the lions' den?","options":["Daniel","Ezekiel","Psalms","Proverbs"],"correct_answer":"Daniel","category":"Books","difficulty":"Easy","bible_reference":"Daniel 6:16-23","explanation":"Daniel was protected by God when he was placed in the lions' den."},
-  {"id":"MAN044","question":"What did the disciples receive when the Holy Spirit came at Pentecost?","options":["Power to witness","A crown of gold","A new temple","Roman citizenship"],"correct_answer":"Power to witness","category":"Events","difficulty":"Medium","bible_reference":"Acts 1:8; 2:1-4","explanation":"Jesus promised power to be his witnesses when the Holy Spirit came upon them."},
-  {"id":"MAN045","question":"What did Jesus say about storing treasures on earth?","options":["Do not store them there","Store them in secret","Give them to rulers","Hide them in the temple"],"correct_answer":"Do not store them there","category":"Teachings","difficulty":"Hard","bible_reference":"Matthew 6:19-20","explanation":"Jesus taught his followers to store treasures in heaven rather than on earth."},
-  {"id":"MAN046","question":"Who received the coat of many colors from Jacob?","options":["Joseph","Benjamin","Reuben","Judah"],"correct_answer":"Joseph","category":"Old Testament","difficulty":"Easy","bible_reference":"Genesis 37:3","explanation":"Jacob gave Joseph a distinctive robe because he loved him deeply."},
-  {"id":"MAN047","question":"Which disciple was known as the twin?","options":["Thomas","Matthew","Philip","James"],"correct_answer":"Thomas","category":"New Testament","difficulty":"Easy","bible_reference":"John 11:16","explanation":"Thomas is also called Didymus, which means twin."},
-  {"id":"MAN048","question":"Who was known for great strength and fought the Philistines?","options":["Samson","Saul","Solomon","Samuel"],"correct_answer":"Samson","category":"People","difficulty":"Medium","bible_reference":"Judges 13:24-25","explanation":"Samson was a judge of Israel whose extraordinary strength was connected to his Nazirite calling."},
-  {"id":"MAN049","question":"What did Noah build before the flood?","options":["An ark","A palace","A tower","A city wall"],"correct_answer":"An ark","category":"Old Testament","difficulty":"Easy","bible_reference":"Genesis 6:14","explanation":"God instructed Noah to build an ark because a great flood was coming."},
-  {"id":"MAN050","question":"Who wrote many letters to the early churches?","options":["Paul","Pilate","Herod","Nicodemus"],"correct_answer":"Paul","category":"New Testament","difficulty":"Easy","bible_reference":"Romans 1:1","explanation":"Paul wrote many New Testament letters to churches and Christian leaders."},
-  {"id":"MAN051","question":"Who helped carry Jesus' cross?","options":["Simon of Cyrene","Simon Peter","Joseph of Arimathea","Andrew"],"correct_answer":"Simon of Cyrene","category":"People","difficulty":"Medium","bible_reference":"Luke 23:26","explanation":"The soldiers compelled Simon of Cyrene to carry the cross behind Jesus."},
-  {"id":"MAN052","question":"Where did Jesus give the Great Commission to his disciples?","options":["A mountain in Galilee","The temple in Jerusalem","The road to Emmaus","The Sea of Galilee"],"correct_answer":"A mountain in Galilee","category":"Places","difficulty":"Hard","bible_reference":"Matthew 28:16-20","explanation":"The disciples went to the mountain in Galilee where Jesus gave the Great Commission."},
-  {"id":"MAN053","question":"What did Jesus provide for the wedding at Cana?","options":["Wine","Bread","Oil","Fish"],"correct_answer":"Wine","category":"Miracles","difficulty":"Easy","bible_reference":"John 2:1-11","explanation":"Jesus turned water into wine at the wedding in Cana."},
-  {"id":"MAN054","question":"In the parable of the hidden treasure, what did the man do?","options":["He sold everything and bought the field","He ignored the treasure","He gave it to soldiers","He hid the field"],"correct_answer":"He sold everything and bought the field","category":"Parables","difficulty":"Medium","bible_reference":"Matthew 13:44","explanation":"The man joyfully sold all he had to buy the field containing the treasure."},
-  {"id":"MAN055","question":"Which book contains the story of David and Goliath?","options":["1 Samuel","1 Kings","Judges","2 Chronicles"],"correct_answer":"1 Samuel","category":"Books","difficulty":"Easy","bible_reference":"1 Samuel 17:1-50","explanation":"The account of David defeating Goliath is recorded in 1 Samuel."},
-  {"id":"MAN056","question":"What happened when Jesus ascended into heaven?","options":["He was taken up before the disciples","He disappeared in the temple","He sailed across the sea","He entered a palace"],"correct_answer":"He was taken up before the disciples","category":"Events","difficulty":"Medium","bible_reference":"Acts 1:9-11","explanation":"Jesus was taken up into heaven while the disciples watched."},
-  {"id":"MAN057","question":"What did Jesus say about judging others?","options":["Do not judge hypocritically","Always judge quickly","Judge only strangers","Ask rulers to judge"],"correct_answer":"Do not judge hypocritically","category":"Teachings","difficulty":"Hard","bible_reference":"Matthew 7:1-5","explanation":"Jesus warned against judging others while ignoring one's own faults."},
-  {"id":"MAN058","question":"What did God promise Abraham would become?","options":["A great nation","A king of Egypt","A builder of temples","A captain of Rome"],"correct_answer":"A great nation","category":"Old Testament","difficulty":"Medium","bible_reference":"Genesis 12:1-3","explanation":"God promised to make Abraham into a great nation and bless the families of the earth through him."},
-  {"id":"MAN059","question":"Who was the first Christian martyr recorded in Acts?","options":["Stephen","James","Barnabas","Philip"],"correct_answer":"Stephen","category":"New Testament","difficulty":"Hard","bible_reference":"Acts 7:54-60","explanation":"Stephen was stoned after boldly witnessing about Jesus."},
-  {"id":"MAN060","question":"Who was the tax collector who became one of Jesus' twelve apostles?","options":["Matthew","Zacchaeus","Levi's father","Cornelius"],"correct_answer":"Matthew","category":"People","difficulty":"Medium","bible_reference":"Matthew 9:9","explanation":"Jesus called Matthew, the tax collector, to follow him as a disciple."},
-  {"id":"MAN061","question":"Where did Jonah preach after being released from the great fish?","options":["Nineveh","Jerusalem","Joppa","Babylon"],"correct_answer":"Nineveh","category":"Places","difficulty":"Medium","bible_reference":"Jonah 3:1-5","explanation":"God sent Jonah to Nineveh, where he announced the coming judgment."},
-  {"id":"MAN062","question":"What did Jesus do for the man lowered through the roof?","options":["He forgave and healed him","He sent him to a priest","He gave him money","He asked him to leave"],"correct_answer":"He forgave and healed him","category":"Miracles","difficulty":"Hard","bible_reference":"Mark 2:1-12","explanation":"Jesus forgave the man's sins and healed him so he could walk."},
-  {"id":"MAN063","question":"In the parable of the ten virgins, what did the wise virgins bring?","options":["Extra oil","Extra bread","New sandals","Silver coins"],"correct_answer":"Extra oil","category":"Parables","difficulty":"Medium","bible_reference":"Matthew 25:1-13","explanation":"The wise virgins brought extra oil for their lamps while waiting for the bridegroom."},
-  {"id":"MAN064","question":"Which book is a collection of songs and prayers?","options":["Psalms","Leviticus","Acts","Malachi"],"correct_answer":"Psalms","category":"Books","difficulty":"Easy","bible_reference":"Psalm 1:1-2","explanation":"Psalms is a collection of songs, prayers, and poems used in worship."},
-  {"id":"MAN065","question":"What sign did God give Noah after the flood?","options":["A rainbow","A burning bush","A pillar of fire","A star"],"correct_answer":"A rainbow","category":"Events","difficulty":"Easy","bible_reference":"Genesis 9:12-13","explanation":"God set the rainbow in the cloud as a sign of his covenant with Noah."},
-  {"id":"MAN066","question":"What did Jesus say about serving two masters?","options":["It is impossible","It is required","It is easy","It is commanded"],"correct_answer":"It is impossible","category":"Teachings","difficulty":"Medium","bible_reference":"Matthew 6:24","explanation":"Jesus taught that no one can serve both God and money as masters."},
-  {"id":"MAN067","question":"Who was swallowed by a great fish after fleeing from God?","options":["Jonah","Amos","Hosea","Joel"],"correct_answer":"Jonah","category":"Old Testament","difficulty":"Easy","bible_reference":"Jonah 1:17","explanation":"Jonah was swallowed by a great fish after running from God's command."},
-  {"id":"MAN068","question":"Who announced to Mary that she would have Jesus?","options":["The angel Gabriel","The angel Michael","John the Baptist","Joseph"],"correct_answer":"The angel Gabriel","category":"New Testament","difficulty":"Easy","bible_reference":"Luke 1:26-31","explanation":"Gabriel announced that Mary would conceive and give birth to Jesus."},
-  {"id":"MAN069","question":"Who was Jesus' earthly father?","options":["Joseph","Zechariah","Joachim","Simeon"],"correct_answer":"Joseph","category":"People","difficulty":"Easy","bible_reference":"Matthew 1:20-25","explanation":"Joseph accepted Mary and cared for Jesus as his earthly father."},
-  {"id":"MAN070","question":"Where did Jesus call Peter and Andrew to follow him?","options":["By the Sea of Galilee","In the temple","At the Jordan","On the road to Jericho"],"correct_answer":"By the Sea of Galilee","category":"Places","difficulty":"Easy","bible_reference":"Matthew 4:18-20","explanation":"Jesus called Peter and Andrew while they were casting a net into the Sea of Galilee."},
-  {"id":"MAN071","question":"What did Jesus restore to the servant of the high priest?","options":["His ear","His eye","His hand","His voice"],"correct_answer":"His ear","category":"Miracles","difficulty":"Hard","bible_reference":"Luke 22:50-51","explanation":"Jesus touched and healed the servant's ear after it was cut off."},
-  {"id":"MAN072","question":"In the parable of the lost sheep, how many sheep did the shepherd leave to search for one?","options":["Ninety-nine","Fifty","Ten","One hundred"],"correct_answer":"Ninety-nine","category":"Parables","difficulty":"Easy","bible_reference":"Luke 15:3-7","explanation":"The shepherd left the ninety-nine to search for the one sheep that was lost."},
-  {"id":"MAN073","question":"Which book tells about the rebuilding of Jerusalem's wall?","options":["Nehemiah","Isaiah","Hosea","Job"],"correct_answer":"Nehemiah","category":"Books","difficulty":"Medium","bible_reference":"Nehemiah 2:17-18","explanation":"Nehemiah led the people in rebuilding Jerusalem's wall."},
-  {"id":"MAN074","question":"What did the disciples do after Jesus calmed the storm?","options":["They were amazed and asked who he was","They returned to fishing","They left the boat","They built an altar"],"correct_answer":"They were amazed and asked who he was","category":"Events","difficulty":"Medium","bible_reference":"Mark 4:40-41","explanation":"The disciples were filled with awe after Jesus commanded the wind and sea."},
-  {"id":"MAN075","question":"What did Jesus say is the second greatest commandment?","options":["Love your neighbor as yourself","Honor the emperor","Build a synagogue","Avoid all strangers"],"correct_answer":"Love your neighbor as yourself","category":"Teachings","difficulty":"Easy","bible_reference":"Matthew 22:39","explanation":"Jesus said the second commandment is to love your neighbor as yourself."},
-  {"id":"MAN076","question":"What did God provide for Abraham instead of Isaac?","options":["A ram","A lamb","A dove","A calf"],"correct_answer":"A ram","category":"Old Testament","difficulty":"Medium","bible_reference":"Genesis 22:13","explanation":"God provided a ram caught in a thicket as a substitute sacrifice."},
-  {"id":"MAN077","question":"Which disciple replaced Judas among the twelve?","options":["Matthias","Silas","Mark","Apollos"],"correct_answer":"Matthias","category":"New Testament","difficulty":"Hard","bible_reference":"Acts 1:23-26","explanation":"Matthias was chosen by lot to join the eleven apostles."},
-  {"id":"MAN078","question":"Who was the first person to see the risen Jesus according to John's Gospel?","options":["Mary Magdalene","Peter","John","Martha"],"correct_answer":"Mary Magdalene","category":"People","difficulty":"Medium","bible_reference":"John 20:11-18","explanation":"The risen Jesus appeared to Mary Magdalene near the tomb."},
-  {"id":"MAN079","question":"Where did Jesus teach the Beatitudes?","options":["On a mountain","In a palace","At the city gate","On a boat"],"correct_answer":"On a mountain","category":"Places","difficulty":"Easy","bible_reference":"Matthew 5:1-12","explanation":"Jesus went up on a mountain and taught the Beatitudes to his disciples."},
-  {"id":"MAN080","question":"What happened to the fig tree Jesus cursed?","options":["It withered","It grew taller","It produced grapes","It moved to another place"],"correct_answer":"It withered","category":"Miracles","difficulty":"Medium","bible_reference":"Mark 11:20-21","explanation":"The disciples saw that the fig tree had withered from its roots."},
-  {"id":"MAN081","question":"In the parable of the Good Shepherd, what does the shepherd do for the sheep?","options":["He lays down his life","He sells them immediately","He hides from them","He sends them into a city"],"correct_answer":"He lays down his life","category":"Parables","difficulty":"Hard","bible_reference":"John 10:11-15","explanation":"Jesus said the good shepherd lays down his life for the sheep."},
-  {"id":"MAN082","question":"Which book describes the rebuilding of the temple after the exile?","options":["Ezra","Amos","Jonah","Philippians"],"correct_answer":"Ezra","category":"Books","difficulty":"Medium","bible_reference":"Ezra 3:8-13","explanation":"Ezra records the rebuilding and dedication of the temple after the exile."},
-  {"id":"MAN083","question":"What did the crowd shout when Jesus entered Jerusalem?","options":["Hosanna","Hallelujah only","Long live Caesar","Away with him"],"correct_answer":"Hosanna","category":"Events","difficulty":"Easy","bible_reference":"Matthew 21:8-9","explanation":"The crowd welcomed Jesus with branches and shouted Hosanna."},
-  {"id":"MAN084","question":"What did Jesus say would happen to those who mourn?","options":["They will be comforted","They will be forgotten","They will become rulers","They will receive gold"],"correct_answer":"They will be comforted","category":"Teachings","difficulty":"Easy","bible_reference":"Matthew 5:4","explanation":"Jesus taught in the Beatitudes that those who mourn will be comforted."},
-  {"id":"MAN085","question":"Who was the father of Isaac?","options":["Abraham","Jacob","Moses","Noah"],"correct_answer":"Abraham","category":"Old Testament","difficulty":"Easy","bible_reference":"Genesis 21:1-3","explanation":"Isaac was born to Abraham and Sarah as God had promised."},
-  {"id":"MAN086","question":"What did Jesus call the bread at the Last Supper?","options":["His body","The law","The manna","A harvest offering"],"correct_answer":"His body","category":"New Testament","difficulty":"Medium","bible_reference":"Luke 22:19","explanation":"Jesus broke the bread and said it was his body given for his disciples."},
-  {"id":"MAN087","question":"Who was the first king of Israel?","options":["Saul","David","Solomon","Hezekiah"],"correct_answer":"Saul","category":"People","difficulty":"Easy","bible_reference":"1 Samuel 10:1","explanation":"Samuel anointed Saul as the first king over Israel."},
-  {"id":"MAN088","question":"Where did Jesus raise Lazarus from the dead?","options":["Bethany","Bethlehem","Nazareth","Cana"],"correct_answer":"Bethany","category":"Places","difficulty":"Easy","bible_reference":"John 11:1-44","explanation":"Lazarus lived in Bethany, where Jesus called him out of the tomb."},
-  {"id":"MAN089","question":"What did Jesus heal on the high priest's servant?","options":["His ear","His leg","His eye","His shoulder"],"correct_answer":"His ear","category":"Miracles","difficulty":"Hard","bible_reference":"Luke 22:50-51","explanation":"Jesus healed the servant's ear after it was cut off during his arrest."},
-  {"id":"MAN090","question":"In the parable of the rich fool, what did the man plan to build?","options":["Larger barns","A palace","A synagogue","A city wall"],"correct_answer":"Larger barns","category":"Parables","difficulty":"Medium","bible_reference":"Luke 12:16-21","explanation":"The rich man planned larger barns to store his crops but was not rich toward God."},
-  {"id":"MAN091","question":"Which book contains the story of the walls of Jericho falling?","options":["Joshua","Judges","Ruth","Numbers"],"correct_answer":"Joshua","category":"Books","difficulty":"Easy","bible_reference":"Joshua 6:1-20","explanation":"The book of Joshua records Israel's victory at Jericho."},
-  {"id":"MAN092","question":"What did the Holy Spirit enable the disciples to do at Pentecost?","options":["Speak in other languages","Build the temple","Cross the sea","Count the stars"],"correct_answer":"Speak in other languages","category":"Events","difficulty":"Easy","bible_reference":"Acts 2:4","explanation":"The disciples spoke in other languages as the Holy Spirit enabled them."},
-  {"id":"MAN093","question":"What did Jesus say should be done secretly rather than for public praise?","options":["Giving to the needy","Reading Scripture","Singing hymns","Traveling"],"correct_answer":"Giving to the needy","category":"Teachings","difficulty":"Medium","bible_reference":"Matthew 6:2-4","explanation":"Jesus taught that giving to the needy should be done without seeking public praise."},
-  {"id":"MAN094","question":"Who led the Israelites across the Jordan River into the promised land?","options":["Joshua","Moses","Aaron","Caleb"],"correct_answer":"Joshua","category":"Old Testament","difficulty":"Medium","bible_reference":"Joshua 3:14-17","explanation":"Joshua led Israel across the Jordan into the promised land."},
-  {"id":"MAN095","question":"What did Jesus say his followers should take up daily?","options":["Their cross","A sword","A crown","A scroll"],"correct_answer":"Their cross","category":"New Testament","difficulty":"Medium","bible_reference":"Luke 9:23","explanation":"Jesus called his followers to deny themselves, take up their cross daily, and follow him."},
-  {"id":"MAN096","question":"Who was known as the beloved disciple?","options":["John","Peter","Matthew","Judas Iscariot"],"correct_answer":"John","category":"People","difficulty":"Hard","bible_reference":"John 13:23","explanation":"John's Gospel refers to a disciple whom Jesus loved, traditionally identified as John."},
-  {"id":"MAN097","question":"Where did Jesus pray before choosing the twelve apostles?","options":["On a mountain","In Capernaum","At the temple","In Bethany"],"correct_answer":"On a mountain","category":"Places","difficulty":"Medium","bible_reference":"Luke 6:12-13","explanation":"Jesus went to a mountain to pray before choosing the twelve apostles."},
-  {"id":"MAN098","question":"What did Jesus do for the ten lepers?","options":["He cleansed them","He gave them money","He sent them to Rome","He gave them new clothes"],"correct_answer":"He cleansed them","category":"Miracles","difficulty":"Easy","bible_reference":"Luke 17:11-19","explanation":"Jesus cleansed ten lepers, and one returned to give thanks."},
-  {"id":"MAN099","question":"In the parable of the two builders, what did the wise man build on?","options":["Rock","Sand","Clay","Wood"],"correct_answer":"Rock","category":"Parables","difficulty":"Easy","bible_reference":"Matthew 7:24-27","explanation":"The wise man built his house on rock because he heard and practiced Jesus' words."},
-  {"id":"MAN100","question":"Which book contains the story of the birth of Moses?","options":["Exodus","Genesis","Leviticus","Deuteronomy"],"correct_answer":"Exodus","category":"Books","difficulty":"Easy","bible_reference":"Exodus 2:1-10","explanation":"Exodus records how Moses was born and preserved from Pharaoh's decree."},
-  {"id":"MAN101","question":"What did Jesus do after entering the temple in Jerusalem?","options":["He drove out the merchants","He crowned a king","He built an altar","He left immediately"],"correct_answer":"He drove out the merchants","category":"Events","difficulty":"Medium","bible_reference":"Matthew 21:12-13","explanation":"Jesus drove out those buying and selling and called the temple a house of prayer."},
-  {"id":"MAN102","question":"What did Jesus say about peacemakers?","options":["They will be called children of God","They will become wealthy","They will rule Rome","They will never suffer"],"correct_answer":"They will be called children of God","category":"Teachings","difficulty":"Easy","bible_reference":"Matthew 5:9","explanation":"Jesus said peacemakers are blessed because they will be called children of God."},
-  {"id":"MAN103","question":"Who received the Ten Commandments from God?","options":["Moses","Joshua","Elijah","David"],"correct_answer":"Moses","category":"Old Testament","difficulty":"Easy","bible_reference":"Exodus 31:18","explanation":"God gave the tablets of the covenant to Moses on Mount Sinai."},
-  {"id":"MAN104","question":"What did Jesus wash at the Last Supper?","options":["The disciples' feet","The temple vessels","The fishing nets","The city gate"],"correct_answer":"The disciples' feet","category":"New Testament","difficulty":"Medium","bible_reference":"John 13:4-5","explanation":"Jesus washed his disciples' feet to teach humble service."},
-  {"id":"MAN105","question":"Who climbed a sycamore tree to see Jesus?","options":["Zacchaeus","Bartimaeus","Nicodemus","Jairus"],"correct_answer":"Zacchaeus","category":"People","difficulty":"Easy","bible_reference":"Luke 19:1-4","explanation":"Zacchaeus climbed a sycamore tree because he was too short to see Jesus through the crowd."},
-  {"id":"MAN106","question":"Where did Jesus begin his public ministry according to Matthew?","options":["Galilee","Judea","Samaria","Perea"],"correct_answer":"Galilee","category":"Places","difficulty":"Medium","bible_reference":"Matthew 4:12-17","explanation":"Jesus began preaching in Galilee after John was arrested."},
-  {"id":"MAN107","question":"What did Jesus do when he saw the widow of Nain's son?","options":["He raised him from the dead","He sent him to Jerusalem","He gave him food","He healed his eyes"],"correct_answer":"He raised him from the dead","category":"Miracles","difficulty":"Hard","bible_reference":"Luke 7:11-15","explanation":"Jesus had compassion on the widow and raised her only son."},
-  {"id":"MAN108","question":"In the parable of the talents, what did the servant with one talent do?","options":["He buried it","He doubled it","He gave it to the poor","He lost it at sea"],"correct_answer":"He buried it","category":"Parables","difficulty":"Medium","bible_reference":"Matthew 25:18","explanation":"The servant with one talent hid it in the ground instead of using it."},
-  {"id":"MAN109","question":"Which book records the dreams of Pharaoh interpreted by Joseph?","options":["Genesis","Exodus","Daniel","Psalms"],"correct_answer":"Genesis","category":"Books","difficulty":"Medium","bible_reference":"Genesis 41:1-36","explanation":"Genesis records Joseph interpreting Pharaoh's dreams about coming years of plenty and famine."},
-  {"id":"MAN110","question":"What happened when Jesus was baptized?","options":["The Spirit descended like a dove","The temple fell","The sea parted","An angel crowned him"],"correct_answer":"The Spirit descended like a dove","category":"Events","difficulty":"Easy","bible_reference":"Matthew 3:16-17","explanation":"The Spirit of God descended like a dove and a voice from heaven affirmed Jesus."},
-  {"id":"MAN111","question":"What did Jesus say about the light of a lamp?","options":["It should not be hidden","It should be buried","It belongs in a palace","It should be sold"],"correct_answer":"It should not be hidden","category":"Teachings","difficulty":"Easy","bible_reference":"Matthew 5:14-15","explanation":"Jesus taught that a lamp is placed where it can give light rather than being hidden."},
-  {"id":"MAN112","question":"Who was Moses' brother and the first high priest of Israel?","options":["Aaron","Joshua","Caleb","Eli"],"correct_answer":"Aaron","category":"Old Testament","difficulty":"Medium","bible_reference":"Exodus 28:1","explanation":"God appointed Aaron and his sons to serve as priests."},
-  {"id":"MAN113","question":"What did Jesus say is easier than a rich person entering God's kingdom?","options":["A camel passing through a needle's eye","A mountain moving","A river stopping","A king becoming poor"],"correct_answer":"A camel passing through a needle's eye","category":"New Testament","difficulty":"Hard","bible_reference":"Matthew 19:24","explanation":"Jesus used the image of a camel and a needle's eye to teach about the danger of riches."},
-  {"id":"MAN114","question":"Who was the father of John the Baptist?","options":["Zechariah","Joseph","Simeon","Jairus"],"correct_answer":"Zechariah","category":"People","difficulty":"Medium","bible_reference":"Luke 1:5-13","explanation":"Zechariah was a priest and the father of John the Baptist."},
-  {"id":"MAN115","question":"Where did Jesus call Matthew to follow him?","options":["At the tax booth","In the temple","On a mountain","At the tomb"],"correct_answer":"At the tax booth","category":"Places","difficulty":"Easy","bible_reference":"Matthew 9:9","explanation":"Jesus saw Matthew sitting at the tax booth and called him to follow."},
-  {"id":"MAN116","question":"What did Jesus do when he saw the man born blind?","options":["He gave him sight","He gave him bread","He sent him home","He gave him a coat"],"correct_answer":"He gave him sight","category":"Miracles","difficulty":"Medium","bible_reference":"John 9:1-7","explanation":"Jesus healed the man who had been blind from birth."},
-  {"id":"MAN117","question":"In the parable of the wedding feast, what did the king provide for the guests?","options":["Wedding clothes","Travel money","New houses","Fishing nets"],"correct_answer":"Wedding clothes","category":"Parables","difficulty":"Hard","bible_reference":"Matthew 22:11-12","explanation":"The king expected guests at the wedding feast to wear proper wedding clothes."},
-  {"id":"MAN118","question":"Which book contains the Ten Plagues of Egypt?","options":["Exodus","Genesis","Joshua","Ruth"],"correct_answer":"Exodus","category":"Books","difficulty":"Easy","bible_reference":"Exodus 7:14-12:30","explanation":"Exodus records the plagues that preceded Israel's release from Egypt."},
-  {"id":"MAN119","question":"What happened when the curtain of the temple was torn?","options":["It was torn from top to bottom","It became gold","It disappeared","It caught fire"],"correct_answer":"It was torn from top to bottom","category":"Events","difficulty":"Medium","bible_reference":"Matthew 27:50-51","explanation":"At Jesus' death, the temple curtain was torn from top to bottom."},
-  {"id":"MAN120","question":"What did Jesus say about the pure in heart?","options":["They will see God","They will become kings","They will never die","They will own the temple"],"correct_answer":"They will see God","category":"Teachings","difficulty":"Medium","bible_reference":"Matthew 5:8","explanation":"Jesus taught that the pure in heart are blessed because they will see God."},
-  {"id":"MAN121","question":"Who built the first altar mentioned after the flood?","options":["Noah","Abraham","Moses","Jacob"],"correct_answer":"Noah","category":"Old Testament","difficulty":"Medium","bible_reference":"Genesis 8:20","explanation":"After leaving the ark, Noah built an altar and worshiped the Lord."},
-  {"id":"MAN122","question":"What did Jesus say the disciples were to be to the world?","options":["Salt and light","Kings and judges","Priests and soldiers","Writers and singers"],"correct_answer":"Salt and light","category":"New Testament","difficulty":"Easy","bible_reference":"Matthew 5:13-14","explanation":"Jesus called his disciples the salt of the earth and the light of the world."},
-  {"id":"MAN123","question":"Who was known for doubting the resurrection until he saw Jesus' wounds?","options":["Thomas","Philip","James","Matthew"],"correct_answer":"Thomas","category":"People","difficulty":"Medium","bible_reference":"John 20:24-29","explanation":"Thomas believed after seeing the risen Jesus and his wounds."},
-  {"id":"MAN124","question":"What did God create on the fourth day?","options":["The sun, moon, and stars","Animals","Human beings","The oceans"],"correct_answer":"The sun, moon, and stars","category":"Old Testament","difficulty":"Easy","bible_reference":"Genesis 1:14-19","explanation":"On the fourth day God made the lights to govern the day and night."},
-  {"id":"MAN125","question":"What did Jesus say about the greatest among his followers?","options":["He must be a servant","He must be wealthy","He must be first in line","He must be a ruler"],"correct_answer":"He must be a servant","category":"New Testament","difficulty":"Medium","bible_reference":"Mark 10:43-45","explanation":"Jesus taught that whoever wants to be great must become a servant."},
-  {"id":"MAN126","question":"Who was the Roman governor who sentenced Jesus to crucifixion?","options":["Pontius Pilate","Herod Agrippa","Felix","Festus"],"correct_answer":"Pontius Pilate","category":"People","difficulty":"Easy","bible_reference":"Matthew 27:24-26","explanation":"Pontius Pilate handed Jesus over to be crucified after questioning him."},
-  {"id":"MAN127","question":"Where did Moses see the burning bush?","options":["Mount Horeb","Mount Carmel","Mount Zion","Mount Nebo"],"correct_answer":"Mount Horeb","category":"Places","difficulty":"Medium","bible_reference":"Exodus 3:1-2","explanation":"Moses saw the bush burning without being consumed at Mount Horeb."},
-  {"id":"MAN128","question":"What did Jesus do when he saw the widow giving two small coins?","options":["He praised her offering","He returned the coins","He gave her a larger gift","He asked her to leave"],"correct_answer":"He praised her offering","category":"Miracles","difficulty":"Easy","bible_reference":"Mark 12:41-44","explanation":"Jesus said the poor widow had given more than the others because she gave all she had."},
-  {"id":"MAN129","question":"In the parable of the unforgiving servant, what did the king cancel?","options":["A huge debt","A prison sentence","A wedding feast","A tax order"],"correct_answer":"A huge debt","category":"Parables","difficulty":"Medium","bible_reference":"Matthew 18:23-27","explanation":"The king had compassion and canceled the servant's enormous debt."},
-  {"id":"MAN130","question":"Which book contains the Song of Solomon?","options":["Song of Songs","Ecclesiastes","Isaiah","Lamentations"],"correct_answer":"Song of Songs","category":"Books","difficulty":"Medium","bible_reference":"Song of Songs 1:1","explanation":"Song of Songs, also called Song of Solomon, is a poetic book of the Old Testament."},
-  {"id":"MAN131","question":"What did the disciples do after Jesus rose from the dead?","options":["They became witnesses","They returned to Egypt","They built a palace","They stopped preaching"],"correct_answer":"They became witnesses","category":"Events","difficulty":"Medium","bible_reference":"Acts 1:8","explanation":"Jesus commissioned the disciples to be witnesses to the ends of the earth."},
-  {"id":"MAN132","question":"What did Jesus say people should do when they pray?","options":["Go into a private room","Pray only in public","Use many empty words","Ask for wealth"],"correct_answer":"Go into a private room","category":"Teachings","difficulty":"Easy","bible_reference":"Matthew 6:6","explanation":"Jesus taught his followers to pray privately to the Father who sees in secret."},
-  {"id":"MAN133","question":"Who was sold by his brothers and taken to Egypt?","options":["Joseph","Benjamin","Isaac","Esau"],"correct_answer":"Joseph","category":"Old Testament","difficulty":"Easy","bible_reference":"Genesis 37:28","explanation":"Joseph's brothers sold him, and he was taken to Egypt."},
-  {"id":"MAN134","question":"What did Jesus promise to send after he went away?","options":["The Holy Spirit","A new king","A large army","A treasure"],"correct_answer":"The Holy Spirit","category":"New Testament","difficulty":"Easy","bible_reference":"John 14:16-17","explanation":"Jesus promised that the Father would send another Helper, the Holy Spirit."},
-  {"id":"MAN135","question":"Who was the father of King Solomon?","options":["David","Saul","Jesse","Samuel"],"correct_answer":"David","category":"People","difficulty":"Easy","bible_reference":"2 Samuel 12:24","explanation":"Solomon was born to David and Bathsheba."},
-  {"id":"MAN136","question":"Who wrestled with Jacob during the night?","options":["A man sent by God","A Philistine soldier","His brother Esau","A king of Egypt"],"correct_answer":"A man sent by God","category":"Old Testament","difficulty":"Hard","bible_reference":"Genesis 32:24-30","explanation":"Jacob wrestled with a mysterious man and received the name Israel."},
-  {"id":"MAN137","question":"What did Jesus say he was the way to?","options":["The Father","The Roman court","The temple treasury","The sea"],"correct_answer":"The Father","category":"New Testament","difficulty":"Medium","bible_reference":"John 14:6","explanation":"Jesus said he is the way, the truth, and the life, and no one comes to the Father except through him."},
-  {"id":"MAN138","question":"Who was the first person to be called an apostle in Acts after Matthias?","options":["Paul","Timothy","Titus","Silas"],"correct_answer":"Paul","category":"People","difficulty":"Hard","bible_reference":"Acts 9:15-20","explanation":"Paul was chosen as an instrument to carry Jesus' name to the nations."},
-  {"id":"MAN139","question":"Where did Jesus meet Nicodemus at night?","options":["In Jerusalem","In Bethany","In Nazareth","In Capernaum"],"correct_answer":"In Jerusalem","category":"Places","difficulty":"Medium","bible_reference":"John 3:1-2","explanation":"Nicodemus came to Jesus by night during his ministry in Jerusalem."},
-  {"id":"MAN140","question":"What did Jesus do when he saw the man with the withered hand?","options":["He restored the hand","He gave him a staff","He sent him to a doctor","He ignored him"],"correct_answer":"He restored the hand","category":"Miracles","difficulty":"Easy","bible_reference":"Mark 3:1-5","explanation":"Jesus told the man to stretch out his hand, and it was restored."},
-  {"id":"MAN141","question":"In the parable of the growing seed, what does the farmer do after planting?","options":["He waits while the seed grows","He digs it up each day","He moves it to a city","He burns the field"],"correct_answer":"He waits while the seed grows","category":"Parables","difficulty":"Hard","bible_reference":"Mark 4:26-29","explanation":"The seed grows mysteriously while the farmer waits until the harvest."},
-  {"id":"MAN142","question":"Which book contains the story of the prophet Elijah being taken up in a whirlwind?","options":["2 Kings","1 Samuel","Jeremiah","Ruth"],"correct_answer":"2 Kings","category":"Books","difficulty":"Hard","bible_reference":"2 Kings 2:11","explanation":"Second Kings records Elijah being taken to heaven in a whirlwind."},
-  {"id":"MAN143","question":"What happened when the disciples recognized Jesus after the resurrection?","options":["They worshiped him","They arrested him","They ran to Rome","They rebuilt the temple"],"correct_answer":"They worshiped him","category":"Events","difficulty":"Easy","bible_reference":"Matthew 28:9","explanation":"The disciples met the risen Jesus and worshiped him."},
-  {"id":"MAN144","question":"What did Jesus say we should do for those who persecute us?","options":["Pray for them","Curse them","Avoid all prayer","Demand payment"],"correct_answer":"Pray for them","category":"Teachings","difficulty":"Medium","bible_reference":"Matthew 5:44","explanation":"Jesus taught his followers to pray for those who persecute them."},
-  {"id":"MAN145","question":"Who was called the friend of God?","options":["Abraham","Moses","David","Elijah"],"correct_answer":"Abraham","category":"Old Testament","difficulty":"Medium","bible_reference":"James 2:23","explanation":"Scripture calls Abraham a friend of God because of his faith."},
-  {"id":"MAN146","question":"What did Jesus do at the tomb of Lazarus?","options":["He wept","He built an altar","He left immediately","He called for soldiers"],"correct_answer":"He wept","category":"New Testament","difficulty":"Easy","bible_reference":"John 11:35","explanation":"Jesus wept when he saw the grief surrounding Lazarus's death."},
-  {"id":"MAN147","question":"Who was the mother of Jesus?","options":["Mary","Martha","Elizabeth","Salome"],"correct_answer":"Mary","category":"People","difficulty":"Easy","bible_reference":"Luke 1:30-31","explanation":"The angel Gabriel announced that Mary would give birth to Jesus."},
-  {"id":"MAN148","question":"Where did the disciples first receive the name Christians?","options":["Antioch","Jerusalem","Rome","Ephesus"],"correct_answer":"Antioch","category":"Places","difficulty":"Medium","bible_reference":"Acts 11:26","explanation":"The disciples were first called Christians in Antioch."},
-  {"id":"MAN149","question":"What did Jesus do when the disciples caught no fish?","options":["He filled their nets with fish","He gave them new boats","He sent them home","He calmed a storm"],"correct_answer":"He filled their nets with fish","category":"Miracles","difficulty":"Easy","bible_reference":"Luke 5:4-6","explanation":"Jesus told them where to lower the nets, and they caught a great number of fish."},
-  {"id":"MAN150","question":"In the parable of the mustard seed, what does it become?","options":["A large tree","A river","A palace","A field of wheat"],"correct_answer":"A large tree","category":"Parables","difficulty":"Easy","bible_reference":"Matthew 13:31-32","explanation":"The tiny mustard seed grows into a large plant where birds can nest."},
-  {"id":"MAN151","question":"Which book contains the story of the walls of Jericho?","options":["Joshua","Judges","Ruth","Esther"],"correct_answer":"Joshua","category":"Books","difficulty":"Easy","bible_reference":"Joshua 6:1-20","explanation":"Joshua records Israel's victory when the walls of Jericho fell."},
-  {"id":"MAN152","question":"What did Jesus do on the third day after his crucifixion?","options":["He rose from the dead","He returned to Egypt","He built a temple","He became a Roman governor"],"correct_answer":"He rose from the dead","category":"Events","difficulty":"Easy","bible_reference":"Luke 24:1-7","explanation":"The tomb was found empty because Jesus had risen from the dead."},
-  {"id":"MAN153","question":"What did Jesus teach about anxiety over tomorrow?","options":["Do not worry about tomorrow","Store extra food only","Never work","Ask the government"],"correct_answer":"Do not worry about tomorrow","category":"Teachings","difficulty":"Medium","bible_reference":"Matthew 6:34","explanation":"Jesus taught his followers not to worry about tomorrow because each day has enough trouble."}
+  {
+    "id": "MAN031",
+    "question": "Where did Jesus meet the Samaritan woman?",
+    "options": [
+      "Jacob's well",
+      "The temple",
+      "The Jordan River",
+      "A synagogue"
+    ],
+    "correct_answer": "Jacob's well",
+    "category": "Places",
+    "difficulty": "Medium",
+    "bible_reference": "John 4:5-7",
+    "explanation": "Jesus met the Samaritan woman at Jacob's well near Sychar."
+  },
+  {
+    "id": "MAN032",
+    "question": "What did Jesus use to heal a blind man in Bethsaida?",
+    "options": [
+      "A piece of cloth",
+      "His hands and saliva",
+      "Mud from the pool",
+      "Oil and wine"
+    ],
+    "correct_answer": "His hands and saliva",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 8:22-26",
+    "explanation": "Jesus put saliva on the man's eyes and laid his hands on him."
+  },
+  {
+    "id": "MAN033",
+    "question": "What did the sower scatter in Jesus' parable?",
+    "options": [
+      "Grain baskets",
+      "Coins",
+      "Seed",
+      "Grape branches"
+    ],
+    "correct_answer": "Seed",
+    "category": "Parables",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 13:3-8",
+    "explanation": "The sower scattered seed on different kinds of ground."
+  },
+  {
+    "id": "MAN034",
+    "question": "Which book contains the story of Esther becoming queen?",
+    "options": [
+      "Nehemiah",
+      "Judges",
+      "Ezra",
+      "Esther"
+    ],
+    "correct_answer": "Esther",
+    "category": "Books",
+    "difficulty": "Easy",
+    "bible_reference": "Esther 2:17",
+    "explanation": "Esther became queen and later helped save her people."
+  },
+  {
+    "id": "MAN035",
+    "question": "What appeared over the disciples at Pentecost?",
+    "options": [
+      "Tongues like fire",
+      "A bright star",
+      "A dove of silver",
+      "A pillar of cloud"
+    ],
+    "correct_answer": "Tongues like fire",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "Acts 2:3",
+    "explanation": "At Pentecost, tongues like fire appeared and rested on the disciples."
+  },
+  {
+    "id": "MAN036",
+    "question": "What did Jesus teach about loving one's enemies?",
+    "options": [
+      "Avoid them forever",
+      "Love and pray for them",
+      "Repay their harm",
+      "Publicly shame them"
+    ],
+    "correct_answer": "Love and pray for them",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 5:44",
+    "explanation": "Jesus taught his followers to love their enemies and pray for those who persecute them."
+  },
+  {
+    "id": "MAN037",
+    "question": "Who led Israel after Moses died?",
+    "options": [
+      "Caleb",
+      "Aaron",
+      "Joshua",
+      "Samuel"
+    ],
+    "correct_answer": "Joshua",
+    "category": "Old Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Joshua 1:1-2",
+    "explanation": "God appointed Joshua to lead Israel after Moses died."
+  },
+  {
+    "id": "MAN038",
+    "question": "What was the name of the garden where Jesus prayed before his arrest?",
+    "options": [
+      "Eden",
+      "Bethany",
+      "Galilee",
+      "Gethsemane"
+    ],
+    "correct_answer": "Gethsemane",
+    "category": "New Testament",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 26:36",
+    "explanation": "Jesus went to Gethsemane with his disciples and prayed before his arrest."
+  },
+  {
+    "id": "MAN039",
+    "question": "Who denied Jesus three times?",
+    "options": [
+      "Peter",
+      "Thomas",
+      "Judas",
+      "Andrew"
+    ],
+    "correct_answer": "Peter",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Luke 22:54-62",
+    "explanation": "Peter denied knowing Jesus three times before the rooster crowed."
+  },
+  {
+    "id": "MAN040",
+    "question": "Where did Elijah challenge the prophets of Baal?",
+    "options": [
+      "Mount Sinai",
+      "Mount Carmel",
+      "Mount Zion",
+      "Mount Ararat"
+    ],
+    "correct_answer": "Mount Carmel",
+    "category": "Places",
+    "difficulty": "Hard",
+    "bible_reference": "1 Kings 18:19-20",
+    "explanation": "Elijah confronted the prophets of Baal on Mount Carmel."
+  },
+  {
+    "id": "MAN041",
+    "question": "What did Jesus call Lazarus out of?",
+    "options": [
+      "The temple",
+      "The boat",
+      "The tomb",
+      "The wilderness"
+    ],
+    "correct_answer": "The tomb",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "John 11:43-44",
+    "explanation": "Jesus called Lazarus out of the tomb after he had been dead four days."
+  },
+  {
+    "id": "MAN042",
+    "question": "In the parable of the talents, what did the faithful servants do?",
+    "options": [
+      "They buried every talent",
+      "They gave them to Rome",
+      "They spent them on a feast",
+      "They put their talents to work"
+    ],
+    "correct_answer": "They put their talents to work",
+    "category": "Parables",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 25:14-30",
+    "explanation": "The faithful servants used what their master entrusted to them and were rewarded."
+  },
+  {
+    "id": "MAN043",
+    "question": "Which book tells of Daniel in the lions' den?",
+    "options": [
+      "Daniel",
+      "Ezekiel",
+      "Psalms",
+      "Proverbs"
+    ],
+    "correct_answer": "Daniel",
+    "category": "Books",
+    "difficulty": "Easy",
+    "bible_reference": "Daniel 6:16-23",
+    "explanation": "Daniel was protected by God when he was placed in the lions' den."
+  },
+  {
+    "id": "MAN044",
+    "question": "What did the disciples receive when the Holy Spirit came at Pentecost?",
+    "options": [
+      "A crown of gold",
+      "Power to witness",
+      "A new temple",
+      "Roman citizenship"
+    ],
+    "correct_answer": "Power to witness",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "Acts 1:8; 2:1-4",
+    "explanation": "Jesus promised power to be his witnesses when the Holy Spirit came upon them."
+  },
+  {
+    "id": "MAN045",
+    "question": "What did Jesus say about storing treasures on earth?",
+    "options": [
+      "Store them in secret",
+      "Give them to rulers",
+      "Do not store them there",
+      "Hide them in the temple"
+    ],
+    "correct_answer": "Do not store them there",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 6:19-20",
+    "explanation": "Jesus taught his followers to store treasures in heaven rather than on earth."
+  },
+  {
+    "id": "MAN046",
+    "question": "Who received the coat of many colors from Jacob?",
+    "options": [
+      "Benjamin",
+      "Reuben",
+      "Judah",
+      "Joseph"
+    ],
+    "correct_answer": "Joseph",
+    "category": "Old Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Genesis 37:3",
+    "explanation": "Jacob gave Joseph a distinctive robe because he loved him deeply."
+  },
+  {
+    "id": "MAN047",
+    "question": "Which disciple was known as the twin?",
+    "options": [
+      "Thomas",
+      "Matthew",
+      "Philip",
+      "James"
+    ],
+    "correct_answer": "Thomas",
+    "category": "New Testament",
+    "difficulty": "Easy",
+    "bible_reference": "John 11:16",
+    "explanation": "Thomas is also called Didymus, which means twin."
+  },
+  {
+    "id": "MAN048",
+    "question": "Who was known for great strength and fought the Philistines?",
+    "options": [
+      "Saul",
+      "Samson",
+      "Solomon",
+      "Samuel"
+    ],
+    "correct_answer": "Samson",
+    "category": "People",
+    "difficulty": "Medium",
+    "bible_reference": "Judges 13:24-25",
+    "explanation": "Samson was a judge of Israel whose extraordinary strength was connected to his Nazirite calling."
+  },
+  {
+    "id": "MAN049",
+    "question": "What did Noah build before the flood?",
+    "options": [
+      "A palace",
+      "A tower",
+      "An ark",
+      "A city wall"
+    ],
+    "correct_answer": "An ark",
+    "category": "Old Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Genesis 6:14",
+    "explanation": "God instructed Noah to build an ark because a great flood was coming."
+  },
+  {
+    "id": "MAN050",
+    "question": "Who wrote many letters to the early churches?",
+    "options": [
+      "Pilate",
+      "Herod",
+      "Nicodemus",
+      "Paul"
+    ],
+    "correct_answer": "Paul",
+    "category": "New Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Romans 1:1",
+    "explanation": "Paul wrote many New Testament letters to churches and Christian leaders."
+  },
+  {
+    "id": "MAN051",
+    "question": "Who helped carry Jesus' cross?",
+    "options": [
+      "Simon of Cyrene",
+      "Simon Peter",
+      "Joseph of Arimathea",
+      "Andrew"
+    ],
+    "correct_answer": "Simon of Cyrene",
+    "category": "People",
+    "difficulty": "Medium",
+    "bible_reference": "Luke 23:26",
+    "explanation": "The soldiers compelled Simon of Cyrene to carry the cross behind Jesus."
+  },
+  {
+    "id": "MAN052",
+    "question": "Where did Jesus give the Great Commission to his disciples?",
+    "options": [
+      "The temple in Jerusalem",
+      "A mountain in Galilee",
+      "The road to Emmaus",
+      "The Sea of Galilee"
+    ],
+    "correct_answer": "A mountain in Galilee",
+    "category": "Places",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 28:16-20",
+    "explanation": "The disciples went to the mountain in Galilee where Jesus gave the Great Commission."
+  },
+  {
+    "id": "MAN053",
+    "question": "What did Jesus provide for the wedding at Cana?",
+    "options": [
+      "Bread",
+      "Oil",
+      "Wine",
+      "Fish"
+    ],
+    "correct_answer": "Wine",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "John 2:1-11",
+    "explanation": "Jesus turned water into wine at the wedding in Cana."
+  },
+  {
+    "id": "MAN054",
+    "question": "In the parable of the hidden treasure, what did the man do?",
+    "options": [
+      "He ignored the treasure",
+      "He gave it to soldiers",
+      "He hid the field",
+      "He sold everything and bought the field"
+    ],
+    "correct_answer": "He sold everything and bought the field",
+    "category": "Parables",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 13:44",
+    "explanation": "The man joyfully sold all he had to buy the field containing the treasure."
+  },
+  {
+    "id": "MAN055",
+    "question": "Which book contains the story of David and Goliath?",
+    "options": [
+      "1 Samuel",
+      "1 Kings",
+      "Judges",
+      "2 Chronicles"
+    ],
+    "correct_answer": "1 Samuel",
+    "category": "Books",
+    "difficulty": "Easy",
+    "bible_reference": "1 Samuel 17:1-50",
+    "explanation": "The account of David defeating Goliath is recorded in 1 Samuel."
+  },
+  {
+    "id": "MAN056",
+    "question": "What happened when Jesus ascended into heaven?",
+    "options": [
+      "He disappeared in the temple",
+      "He was taken up before the disciples",
+      "He sailed across the sea",
+      "He entered a palace"
+    ],
+    "correct_answer": "He was taken up before the disciples",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "Acts 1:9-11",
+    "explanation": "Jesus was taken up into heaven while the disciples watched."
+  },
+  {
+    "id": "MAN057",
+    "question": "What did Jesus say about judging others?",
+    "options": [
+      "Always judge quickly",
+      "Judge only strangers",
+      "Do not judge hypocritically",
+      "Ask rulers to judge"
+    ],
+    "correct_answer": "Do not judge hypocritically",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 7:1-5",
+    "explanation": "Jesus warned against judging others while ignoring one's own faults."
+  },
+  {
+    "id": "MAN058",
+    "question": "What did God promise Abraham would become?",
+    "options": [
+      "A king of Egypt",
+      "A builder of temples",
+      "A captain of Rome",
+      "A great nation"
+    ],
+    "correct_answer": "A great nation",
+    "category": "Old Testament",
+    "difficulty": "Medium",
+    "bible_reference": "Genesis 12:1-3",
+    "explanation": "God promised to make Abraham into a great nation and bless the families of the earth through him."
+  },
+  {
+    "id": "MAN059",
+    "question": "Who was the first Christian martyr recorded in Acts?",
+    "options": [
+      "Stephen",
+      "James",
+      "Barnabas",
+      "Philip"
+    ],
+    "correct_answer": "Stephen",
+    "category": "New Testament",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 7:54-60",
+    "explanation": "Stephen was stoned after boldly witnessing about Jesus."
+  },
+  {
+    "id": "MAN060",
+    "question": "Who was the tax collector who became one of Jesus' twelve apostles?",
+    "options": [
+      "Zacchaeus",
+      "Matthew",
+      "Levi's father",
+      "Cornelius"
+    ],
+    "correct_answer": "Matthew",
+    "category": "People",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 9:9",
+    "explanation": "Jesus called Matthew, the tax collector, to follow him as a disciple."
+  },
+  {
+    "id": "MAN061",
+    "question": "Where did Jonah preach after being released from the great fish?",
+    "options": [
+      "Jerusalem",
+      "Joppa",
+      "Nineveh",
+      "Babylon"
+    ],
+    "correct_answer": "Nineveh",
+    "category": "Places",
+    "difficulty": "Medium",
+    "bible_reference": "Jonah 3:1-5",
+    "explanation": "God sent Jonah to Nineveh, where he announced the coming judgment."
+  },
+  {
+    "id": "MAN062",
+    "question": "What did Jesus do for the man lowered through the roof?",
+    "options": [
+      "He sent him to a priest",
+      "He gave him money",
+      "He asked him to leave",
+      "He forgave and healed him"
+    ],
+    "correct_answer": "He forgave and healed him",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 2:1-12",
+    "explanation": "Jesus forgave the man's sins and healed him so he could walk."
+  },
+  {
+    "id": "MAN063",
+    "question": "In the parable of the ten virgins, what did the wise virgins bring?",
+    "options": [
+      "Extra oil",
+      "Extra bread",
+      "New sandals",
+      "Silver coins"
+    ],
+    "correct_answer": "Extra oil",
+    "category": "Parables",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 25:1-13",
+    "explanation": "The wise virgins brought extra oil for their lamps while waiting for the bridegroom."
+  },
+  {
+    "id": "MAN064",
+    "question": "Which book is a collection of songs and prayers?",
+    "options": [
+      "Leviticus",
+      "Psalms",
+      "Acts",
+      "Malachi"
+    ],
+    "correct_answer": "Psalms",
+    "category": "Books",
+    "difficulty": "Easy",
+    "bible_reference": "Psalm 1:1-2",
+    "explanation": "Psalms is a collection of songs, prayers, and poems used in worship."
+  },
+  {
+    "id": "MAN065",
+    "question": "What sign did God give Noah after the flood?",
+    "options": [
+      "A burning bush",
+      "A pillar of fire",
+      "A rainbow",
+      "A star"
+    ],
+    "correct_answer": "A rainbow",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "Genesis 9:12-13",
+    "explanation": "God set the rainbow in the cloud as a sign of his covenant with Noah."
+  },
+  {
+    "id": "MAN066",
+    "question": "What did Jesus say about serving two masters?",
+    "options": [
+      "It is required",
+      "It is easy",
+      "It is commanded",
+      "It is impossible"
+    ],
+    "correct_answer": "It is impossible",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 6:24",
+    "explanation": "Jesus taught that no one can serve both God and money as masters."
+  },
+  {
+    "id": "MAN067",
+    "question": "Who was swallowed by a great fish after fleeing from God?",
+    "options": [
+      "Jonah",
+      "Amos",
+      "Hosea",
+      "Joel"
+    ],
+    "correct_answer": "Jonah",
+    "category": "Old Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Jonah 1:17",
+    "explanation": "Jonah was swallowed by a great fish after running from God's command."
+  },
+  {
+    "id": "MAN068",
+    "question": "Who announced to Mary that she would have Jesus?",
+    "options": [
+      "The angel Michael",
+      "The angel Gabriel",
+      "John the Baptist",
+      "Joseph"
+    ],
+    "correct_answer": "The angel Gabriel",
+    "category": "New Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Luke 1:26-31",
+    "explanation": "Gabriel announced that Mary would conceive and give birth to Jesus."
+  },
+  {
+    "id": "MAN069",
+    "question": "Who was Jesus' earthly father?",
+    "options": [
+      "Zechariah",
+      "Joachim",
+      "Joseph",
+      "Simeon"
+    ],
+    "correct_answer": "Joseph",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 1:20-25",
+    "explanation": "Joseph accepted Mary and cared for Jesus as his earthly father."
+  },
+  {
+    "id": "MAN070",
+    "question": "Where did Jesus call Peter and Andrew to follow him?",
+    "options": [
+      "In the temple",
+      "At the Jordan",
+      "On the road to Jericho",
+      "By the Sea of Galilee"
+    ],
+    "correct_answer": "By the Sea of Galilee",
+    "category": "Places",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 4:18-20",
+    "explanation": "Jesus called Peter and Andrew while they were casting a net into the Sea of Galilee."
+  },
+  {
+    "id": "MAN071",
+    "question": "What did Jesus restore to the servant of the high priest?",
+    "options": [
+      "His ear",
+      "His eye",
+      "His hand",
+      "His voice"
+    ],
+    "correct_answer": "His ear",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 22:50-51",
+    "explanation": "Jesus touched and healed the servant's ear after it was cut off."
+  },
+  {
+    "id": "MAN072",
+    "question": "In the parable of the lost sheep, how many sheep did the shepherd leave to search for one?",
+    "options": [
+      "Fifty",
+      "Ninety-nine",
+      "Ten",
+      "One hundred"
+    ],
+    "correct_answer": "Ninety-nine",
+    "category": "Parables",
+    "difficulty": "Easy",
+    "bible_reference": "Luke 15:3-7",
+    "explanation": "The shepherd left the ninety-nine to search for the one sheep that was lost."
+  },
+  {
+    "id": "MAN073",
+    "question": "Which book tells about the rebuilding of Jerusalem's wall?",
+    "options": [
+      "Isaiah",
+      "Hosea",
+      "Nehemiah",
+      "Job"
+    ],
+    "correct_answer": "Nehemiah",
+    "category": "Books",
+    "difficulty": "Medium",
+    "bible_reference": "Nehemiah 2:17-18",
+    "explanation": "Nehemiah led the people in rebuilding Jerusalem's wall."
+  },
+  {
+    "id": "MAN074",
+    "question": "What did the disciples do after Jesus calmed the storm?",
+    "options": [
+      "They returned to fishing",
+      "They left the boat",
+      "They built an altar",
+      "They were amazed and asked who he was"
+    ],
+    "correct_answer": "They were amazed and asked who he was",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "Mark 4:40-41",
+    "explanation": "The disciples were filled with awe after Jesus commanded the wind and sea."
+  },
+  {
+    "id": "MAN075",
+    "question": "What did Jesus say is the second greatest commandment?",
+    "options": [
+      "Love your neighbor as yourself",
+      "Honor the emperor",
+      "Build a synagogue",
+      "Avoid all strangers"
+    ],
+    "correct_answer": "Love your neighbor as yourself",
+    "category": "Teachings",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 22:39",
+    "explanation": "Jesus said the second commandment is to love your neighbor as yourself."
+  },
+  {
+    "id": "MAN076",
+    "question": "What did God provide for Abraham instead of Isaac?",
+    "options": [
+      "A lamb",
+      "A ram",
+      "A dove",
+      "A calf"
+    ],
+    "correct_answer": "A ram",
+    "category": "Old Testament",
+    "difficulty": "Medium",
+    "bible_reference": "Genesis 22:13",
+    "explanation": "God provided a ram caught in a thicket as a substitute sacrifice."
+  },
+  {
+    "id": "MAN077",
+    "question": "Which disciple replaced Judas among the twelve?",
+    "options": [
+      "Silas",
+      "Mark",
+      "Matthias",
+      "Apollos"
+    ],
+    "correct_answer": "Matthias",
+    "category": "New Testament",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 1:23-26",
+    "explanation": "Matthias was chosen by lot to join the eleven apostles."
+  },
+  {
+    "id": "MAN078",
+    "question": "Who was the first person to see the risen Jesus according to John's Gospel?",
+    "options": [
+      "Peter",
+      "John",
+      "Martha",
+      "Mary Magdalene"
+    ],
+    "correct_answer": "Mary Magdalene",
+    "category": "People",
+    "difficulty": "Medium",
+    "bible_reference": "John 20:11-18",
+    "explanation": "The risen Jesus appeared to Mary Magdalene near the tomb."
+  },
+  {
+    "id": "MAN079",
+    "question": "Where did Jesus teach the Beatitudes?",
+    "options": [
+      "On a mountain",
+      "In a palace",
+      "At the city gate",
+      "On a boat"
+    ],
+    "correct_answer": "On a mountain",
+    "category": "Places",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 5:1-12",
+    "explanation": "Jesus went up on a mountain and taught the Beatitudes to his disciples."
+  },
+  {
+    "id": "MAN080",
+    "question": "What happened to the fig tree Jesus cursed?",
+    "options": [
+      "It grew taller",
+      "It withered",
+      "It produced grapes",
+      "It moved to another place"
+    ],
+    "correct_answer": "It withered",
+    "category": "Miracles",
+    "difficulty": "Medium",
+    "bible_reference": "Mark 11:20-21",
+    "explanation": "The disciples saw that the fig tree had withered from its roots."
+  },
+  {
+    "id": "MAN081",
+    "question": "In the parable of the Good Shepherd, what does the shepherd do for the sheep?",
+    "options": [
+      "He sells them immediately",
+      "He hides from them",
+      "He lays down his life",
+      "He sends them into a city"
+    ],
+    "correct_answer": "He lays down his life",
+    "category": "Parables",
+    "difficulty": "Hard",
+    "bible_reference": "John 10:11-15",
+    "explanation": "Jesus said the good shepherd lays down his life for the sheep."
+  },
+  {
+    "id": "MAN082",
+    "question": "Which book describes the rebuilding of the temple after the exile?",
+    "options": [
+      "Amos",
+      "Jonah",
+      "Philippians",
+      "Ezra"
+    ],
+    "correct_answer": "Ezra",
+    "category": "Books",
+    "difficulty": "Medium",
+    "bible_reference": "Ezra 3:8-13",
+    "explanation": "Ezra records the rebuilding and dedication of the temple after the exile."
+  },
+  {
+    "id": "MAN083",
+    "question": "What did the crowd shout when Jesus entered Jerusalem?",
+    "options": [
+      "Hosanna",
+      "Hallelujah only",
+      "Long live Caesar",
+      "Away with him"
+    ],
+    "correct_answer": "Hosanna",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 21:8-9",
+    "explanation": "The crowd welcomed Jesus with branches and shouted Hosanna."
+  },
+  {
+    "id": "MAN084",
+    "question": "What did Jesus say would happen to those who mourn?",
+    "options": [
+      "They will be forgotten",
+      "They will be comforted",
+      "They will become rulers",
+      "They will receive gold"
+    ],
+    "correct_answer": "They will be comforted",
+    "category": "Teachings",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 5:4",
+    "explanation": "Jesus taught in the Beatitudes that those who mourn will be comforted."
+  },
+  {
+    "id": "MAN085",
+    "question": "Who was the father of Isaac?",
+    "options": [
+      "Jacob",
+      "Moses",
+      "Abraham",
+      "Noah"
+    ],
+    "correct_answer": "Abraham",
+    "category": "Old Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Genesis 21:1-3",
+    "explanation": "Isaac was born to Abraham and Sarah as God had promised."
+  },
+  {
+    "id": "MAN086",
+    "question": "What did Jesus call the bread at the Last Supper?",
+    "options": [
+      "The law",
+      "The manna",
+      "A harvest offering",
+      "His body"
+    ],
+    "correct_answer": "His body",
+    "category": "New Testament",
+    "difficulty": "Medium",
+    "bible_reference": "Luke 22:19",
+    "explanation": "Jesus broke the bread and said it was his body given for his disciples."
+  },
+  {
+    "id": "MAN087",
+    "question": "Who was the first king of Israel?",
+    "options": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Hezekiah"
+    ],
+    "correct_answer": "Saul",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "1 Samuel 10:1",
+    "explanation": "Samuel anointed Saul as the first king over Israel."
+  },
+  {
+    "id": "MAN088",
+    "question": "Where did Jesus raise Lazarus from the dead?",
+    "options": [
+      "Bethlehem",
+      "Bethany",
+      "Nazareth",
+      "Cana"
+    ],
+    "correct_answer": "Bethany",
+    "category": "Places",
+    "difficulty": "Easy",
+    "bible_reference": "John 11:1-44",
+    "explanation": "Lazarus lived in Bethany, where Jesus called him out of the tomb."
+  },
+  {
+    "id": "MAN089",
+    "question": "What did Jesus heal on the high priest's servant?",
+    "options": [
+      "His leg",
+      "His eye",
+      "His ear",
+      "His shoulder"
+    ],
+    "correct_answer": "His ear",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 22:50-51",
+    "explanation": "Jesus healed the servant's ear after it was cut off during his arrest."
+  },
+  {
+    "id": "MAN090",
+    "question": "In the parable of the rich fool, what did the man plan to build?",
+    "options": [
+      "A palace",
+      "A synagogue",
+      "A city wall",
+      "Larger barns"
+    ],
+    "correct_answer": "Larger barns",
+    "category": "Parables",
+    "difficulty": "Medium",
+    "bible_reference": "Luke 12:16-21",
+    "explanation": "The rich man planned larger barns to store his crops but was not rich toward God."
+  },
+  {
+    "id": "MAN091",
+    "question": "Which book contains the story of the walls of Jericho falling?",
+    "options": [
+      "Joshua",
+      "Judges",
+      "Ruth",
+      "Numbers"
+    ],
+    "correct_answer": "Joshua",
+    "category": "Books",
+    "difficulty": "Easy",
+    "bible_reference": "Joshua 6:1-20",
+    "explanation": "The book of Joshua records Israel's victory at Jericho."
+  },
+  {
+    "id": "MAN092",
+    "question": "What did the Holy Spirit enable the disciples to do at Pentecost?",
+    "options": [
+      "Build the temple",
+      "Speak in other languages",
+      "Cross the sea",
+      "Count the stars"
+    ],
+    "correct_answer": "Speak in other languages",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "Acts 2:4",
+    "explanation": "The disciples spoke in other languages as the Holy Spirit enabled them."
+  },
+  {
+    "id": "MAN093",
+    "question": "What did Jesus say should be done secretly rather than for public praise?",
+    "options": [
+      "Reading Scripture",
+      "Singing hymns",
+      "Giving to the needy",
+      "Traveling"
+    ],
+    "correct_answer": "Giving to the needy",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 6:2-4",
+    "explanation": "Jesus taught that giving to the needy should be done without seeking public praise."
+  },
+  {
+    "id": "MAN094",
+    "question": "Who led the Israelites across the Jordan River into the promised land?",
+    "options": [
+      "Moses",
+      "Aaron",
+      "Caleb",
+      "Joshua"
+    ],
+    "correct_answer": "Joshua",
+    "category": "Old Testament",
+    "difficulty": "Medium",
+    "bible_reference": "Joshua 3:14-17",
+    "explanation": "Joshua led Israel across the Jordan into the promised land."
+  },
+  {
+    "id": "MAN095",
+    "question": "What did Jesus say his followers should take up daily?",
+    "options": [
+      "Their cross",
+      "A sword",
+      "A crown",
+      "A scroll"
+    ],
+    "correct_answer": "Their cross",
+    "category": "New Testament",
+    "difficulty": "Medium",
+    "bible_reference": "Luke 9:23",
+    "explanation": "Jesus called his followers to deny themselves, take up their cross daily, and follow him."
+  },
+  {
+    "id": "MAN096",
+    "question": "Who was known as the beloved disciple?",
+    "options": [
+      "Peter",
+      "John",
+      "Matthew",
+      "Judas Iscariot"
+    ],
+    "correct_answer": "John",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "John 13:23",
+    "explanation": "John's Gospel refers to a disciple whom Jesus loved, traditionally identified as John."
+  },
+  {
+    "id": "MAN097",
+    "question": "Where did Jesus pray before choosing the twelve apostles?",
+    "options": [
+      "In Capernaum",
+      "At the temple",
+      "On a mountain",
+      "In Bethany"
+    ],
+    "correct_answer": "On a mountain",
+    "category": "Places",
+    "difficulty": "Medium",
+    "bible_reference": "Luke 6:12-13",
+    "explanation": "Jesus went to a mountain to pray before choosing the twelve apostles."
+  },
+  {
+    "id": "MAN098",
+    "question": "What did Jesus do for the ten lepers?",
+    "options": [
+      "He gave them money",
+      "He sent them to Rome",
+      "He gave them new clothes",
+      "He cleansed them"
+    ],
+    "correct_answer": "He cleansed them",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "Luke 17:11-19",
+    "explanation": "Jesus cleansed ten lepers, and one returned to give thanks."
+  },
+  {
+    "id": "MAN099",
+    "question": "In the parable of the two builders, what did the wise man build on?",
+    "options": [
+      "Rock",
+      "Sand",
+      "Clay",
+      "Wood"
+    ],
+    "correct_answer": "Rock",
+    "category": "Parables",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 7:24-27",
+    "explanation": "The wise man built his house on rock because he heard and practiced Jesus' words."
+  },
+  {
+    "id": "MAN100",
+    "question": "Which book contains the story of the birth of Moses?",
+    "options": [
+      "Genesis",
+      "Exodus",
+      "Leviticus",
+      "Deuteronomy"
+    ],
+    "correct_answer": "Exodus",
+    "category": "Books",
+    "difficulty": "Easy",
+    "bible_reference": "Exodus 2:1-10",
+    "explanation": "Exodus records how Moses was born and preserved from Pharaoh's decree."
+  },
+  {
+    "id": "MAN101",
+    "question": "What did Jesus do after entering the temple in Jerusalem?",
+    "options": [
+      "He crowned a king",
+      "He built an altar",
+      "He drove out the merchants",
+      "He left immediately"
+    ],
+    "correct_answer": "He drove out the merchants",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 21:12-13",
+    "explanation": "Jesus drove out those buying and selling and called the temple a house of prayer."
+  },
+  {
+    "id": "MAN102",
+    "question": "What did Jesus say about peacemakers?",
+    "options": [
+      "They will become wealthy",
+      "They will rule Rome",
+      "They will never suffer",
+      "They will be called children of God"
+    ],
+    "correct_answer": "They will be called children of God",
+    "category": "Teachings",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 5:9",
+    "explanation": "Jesus said peacemakers are blessed because they will be called children of God."
+  },
+  {
+    "id": "MAN103",
+    "question": "Who received the Ten Commandments from God?",
+    "options": [
+      "Moses",
+      "Joshua",
+      "Elijah",
+      "David"
+    ],
+    "correct_answer": "Moses",
+    "category": "Old Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Exodus 31:18",
+    "explanation": "God gave the tablets of the covenant to Moses on Mount Sinai."
+  },
+  {
+    "id": "MAN104",
+    "question": "What did Jesus wash at the Last Supper?",
+    "options": [
+      "The temple vessels",
+      "The disciples' feet",
+      "The fishing nets",
+      "The city gate"
+    ],
+    "correct_answer": "The disciples' feet",
+    "category": "New Testament",
+    "difficulty": "Medium",
+    "bible_reference": "John 13:4-5",
+    "explanation": "Jesus washed his disciples' feet to teach humble service."
+  },
+  {
+    "id": "MAN105",
+    "question": "Who climbed a sycamore tree to see Jesus?",
+    "options": [
+      "Bartimaeus",
+      "Nicodemus",
+      "Zacchaeus",
+      "Jairus"
+    ],
+    "correct_answer": "Zacchaeus",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Luke 19:1-4",
+    "explanation": "Zacchaeus climbed a sycamore tree because he was too short to see Jesus through the crowd."
+  },
+  {
+    "id": "MAN106",
+    "question": "Where did Jesus begin his public ministry according to Matthew?",
+    "options": [
+      "Judea",
+      "Samaria",
+      "Perea",
+      "Galilee"
+    ],
+    "correct_answer": "Galilee",
+    "category": "Places",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 4:12-17",
+    "explanation": "Jesus began preaching in Galilee after John was arrested."
+  },
+  {
+    "id": "MAN107",
+    "question": "What did Jesus do when he saw the widow of Nain's son?",
+    "options": [
+      "He raised him from the dead",
+      "He sent him to Jerusalem",
+      "He gave him food",
+      "He healed his eyes"
+    ],
+    "correct_answer": "He raised him from the dead",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 7:11-15",
+    "explanation": "Jesus had compassion on the widow and raised her only son."
+  },
+  {
+    "id": "MAN108",
+    "question": "In the parable of the talents, what did the servant with one talent do?",
+    "options": [
+      "He doubled it",
+      "He buried it",
+      "He gave it to the poor",
+      "He lost it at sea"
+    ],
+    "correct_answer": "He buried it",
+    "category": "Parables",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 25:18",
+    "explanation": "The servant with one talent hid it in the ground instead of using it."
+  },
+  {
+    "id": "MAN109",
+    "question": "Which book records the dreams of Pharaoh interpreted by Joseph?",
+    "options": [
+      "Exodus",
+      "Daniel",
+      "Genesis",
+      "Psalms"
+    ],
+    "correct_answer": "Genesis",
+    "category": "Books",
+    "difficulty": "Medium",
+    "bible_reference": "Genesis 41:1-36",
+    "explanation": "Genesis records Joseph interpreting Pharaoh's dreams about coming years of plenty and famine."
+  },
+  {
+    "id": "MAN110",
+    "question": "What happened when Jesus was baptized?",
+    "options": [
+      "The temple fell",
+      "The sea parted",
+      "An angel crowned him",
+      "The Spirit descended like a dove"
+    ],
+    "correct_answer": "The Spirit descended like a dove",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 3:16-17",
+    "explanation": "The Spirit of God descended like a dove and a voice from heaven affirmed Jesus."
+  },
+  {
+    "id": "MAN111",
+    "question": "What did Jesus say about the light of a lamp?",
+    "options": [
+      "It should not be hidden",
+      "It should be buried",
+      "It belongs in a palace",
+      "It should be sold"
+    ],
+    "correct_answer": "It should not be hidden",
+    "category": "Teachings",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 5:14-15",
+    "explanation": "Jesus taught that a lamp is placed where it can give light rather than being hidden."
+  },
+  {
+    "id": "MAN112",
+    "question": "Who was Moses' brother and the first high priest of Israel?",
+    "options": [
+      "Joshua",
+      "Aaron",
+      "Caleb",
+      "Eli"
+    ],
+    "correct_answer": "Aaron",
+    "category": "Old Testament",
+    "difficulty": "Medium",
+    "bible_reference": "Exodus 28:1",
+    "explanation": "God appointed Aaron and his sons to serve as priests."
+  },
+  {
+    "id": "MAN113",
+    "question": "What did Jesus say is easier than a rich person entering God's kingdom?",
+    "options": [
+      "A mountain moving",
+      "A river stopping",
+      "A camel passing through a needle's eye",
+      "A king becoming poor"
+    ],
+    "correct_answer": "A camel passing through a needle's eye",
+    "category": "New Testament",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 19:24",
+    "explanation": "Jesus used the image of a camel and a needle's eye to teach about the danger of riches."
+  },
+  {
+    "id": "MAN114",
+    "question": "Who was the father of John the Baptist?",
+    "options": [
+      "Joseph",
+      "Simeon",
+      "Jairus",
+      "Zechariah"
+    ],
+    "correct_answer": "Zechariah",
+    "category": "People",
+    "difficulty": "Medium",
+    "bible_reference": "Luke 1:5-13",
+    "explanation": "Zechariah was a priest and the father of John the Baptist."
+  },
+  {
+    "id": "MAN115",
+    "question": "Where did Jesus call Matthew to follow him?",
+    "options": [
+      "At the tax booth",
+      "In the temple",
+      "On a mountain",
+      "At the tomb"
+    ],
+    "correct_answer": "At the tax booth",
+    "category": "Places",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 9:9",
+    "explanation": "Jesus saw Matthew sitting at the tax booth and called him to follow."
+  },
+  {
+    "id": "MAN116",
+    "question": "What did Jesus do when he saw the man born blind?",
+    "options": [
+      "He gave him bread",
+      "He gave him sight",
+      "He sent him home",
+      "He gave him a coat"
+    ],
+    "correct_answer": "He gave him sight",
+    "category": "Miracles",
+    "difficulty": "Medium",
+    "bible_reference": "John 9:1-7",
+    "explanation": "Jesus healed the man who had been blind from birth."
+  },
+  {
+    "id": "MAN117",
+    "question": "In the parable of the wedding feast, what did the king provide for the guests?",
+    "options": [
+      "Travel money",
+      "New houses",
+      "Wedding clothes",
+      "Fishing nets"
+    ],
+    "correct_answer": "Wedding clothes",
+    "category": "Parables",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 22:11-12",
+    "explanation": "The king expected guests at the wedding feast to wear proper wedding clothes."
+  },
+  {
+    "id": "MAN118",
+    "question": "Which book contains the Ten Plagues of Egypt?",
+    "options": [
+      "Genesis",
+      "Joshua",
+      "Ruth",
+      "Exodus"
+    ],
+    "correct_answer": "Exodus",
+    "category": "Books",
+    "difficulty": "Easy",
+    "bible_reference": "Exodus 7:14-12:30",
+    "explanation": "Exodus records the plagues that preceded Israel's release from Egypt."
+  },
+  {
+    "id": "MAN119",
+    "question": "What happened when the curtain of the temple was torn?",
+    "options": [
+      "It was torn from top to bottom",
+      "It became gold",
+      "It disappeared",
+      "It caught fire"
+    ],
+    "correct_answer": "It was torn from top to bottom",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 27:50-51",
+    "explanation": "At Jesus' death, the temple curtain was torn from top to bottom."
+  },
+  {
+    "id": "MAN120",
+    "question": "What did Jesus say about the pure in heart?",
+    "options": [
+      "They will become kings",
+      "They will see God",
+      "They will never die",
+      "They will own the temple"
+    ],
+    "correct_answer": "They will see God",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 5:8",
+    "explanation": "Jesus taught that the pure in heart are blessed because they will see God."
+  },
+  {
+    "id": "MAN121",
+    "question": "Who built the first altar mentioned after the flood?",
+    "options": [
+      "Abraham",
+      "Moses",
+      "Noah",
+      "Jacob"
+    ],
+    "correct_answer": "Noah",
+    "category": "Old Testament",
+    "difficulty": "Medium",
+    "bible_reference": "Genesis 8:20",
+    "explanation": "After leaving the ark, Noah built an altar and worshiped the Lord."
+  },
+  {
+    "id": "MAN122",
+    "question": "What did Jesus say the disciples were to be to the world?",
+    "options": [
+      "Kings and judges",
+      "Priests and soldiers",
+      "Writers and singers",
+      "Salt and light"
+    ],
+    "correct_answer": "Salt and light",
+    "category": "New Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 5:13-14",
+    "explanation": "Jesus called his disciples the salt of the earth and the light of the world."
+  },
+  {
+    "id": "MAN123",
+    "question": "Who was known for doubting the resurrection until he saw Jesus' wounds?",
+    "options": [
+      "Thomas",
+      "Philip",
+      "James",
+      "Matthew"
+    ],
+    "correct_answer": "Thomas",
+    "category": "People",
+    "difficulty": "Medium",
+    "bible_reference": "John 20:24-29",
+    "explanation": "Thomas believed after seeing the risen Jesus and his wounds."
+  },
+  {
+    "id": "MAN124",
+    "question": "What did God create on the fourth day?",
+    "options": [
+      "Animals",
+      "The sun, moon, and stars",
+      "Human beings",
+      "The oceans"
+    ],
+    "correct_answer": "The sun, moon, and stars",
+    "category": "Old Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Genesis 1:14-19",
+    "explanation": "On the fourth day God made the lights to govern the day and night."
+  },
+  {
+    "id": "MAN125",
+    "question": "What did Jesus say about the greatest among his followers?",
+    "options": [
+      "He must be wealthy",
+      "He must be first in line",
+      "He must be a servant",
+      "He must be a ruler"
+    ],
+    "correct_answer": "He must be a servant",
+    "category": "New Testament",
+    "difficulty": "Medium",
+    "bible_reference": "Mark 10:43-45",
+    "explanation": "Jesus taught that whoever wants to be great must become a servant."
+  },
+  {
+    "id": "MAN126",
+    "question": "Who was the Roman governor who sentenced Jesus to crucifixion?",
+    "options": [
+      "Herod Agrippa",
+      "Felix",
+      "Festus",
+      "Pontius Pilate"
+    ],
+    "correct_answer": "Pontius Pilate",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 27:24-26",
+    "explanation": "Pontius Pilate handed Jesus over to be crucified after questioning him."
+  },
+  {
+    "id": "MAN127",
+    "question": "Where did Moses see the burning bush?",
+    "options": [
+      "Mount Horeb",
+      "Mount Carmel",
+      "Mount Zion",
+      "Mount Nebo"
+    ],
+    "correct_answer": "Mount Horeb",
+    "category": "Places",
+    "difficulty": "Medium",
+    "bible_reference": "Exodus 3:1-2",
+    "explanation": "Moses saw the bush burning without being consumed at Mount Horeb."
+  },
+  {
+    "id": "MAN128",
+    "question": "What did Jesus do when he saw the widow giving two small coins?",
+    "options": [
+      "He returned the coins",
+      "He praised her offering",
+      "He gave her a larger gift",
+      "He asked her to leave"
+    ],
+    "correct_answer": "He praised her offering",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "Mark 12:41-44",
+    "explanation": "Jesus said the poor widow had given more than the others because she gave all she had."
+  },
+  {
+    "id": "MAN129",
+    "question": "In the parable of the unforgiving servant, what did the king cancel?",
+    "options": [
+      "A prison sentence",
+      "A wedding feast",
+      "A huge debt",
+      "A tax order"
+    ],
+    "correct_answer": "A huge debt",
+    "category": "Parables",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 18:23-27",
+    "explanation": "The king had compassion and canceled the servant's enormous debt."
+  },
+  {
+    "id": "MAN130",
+    "question": "Which book contains the Song of Solomon?",
+    "options": [
+      "Ecclesiastes",
+      "Isaiah",
+      "Lamentations",
+      "Song of Songs"
+    ],
+    "correct_answer": "Song of Songs",
+    "category": "Books",
+    "difficulty": "Medium",
+    "bible_reference": "Song of Songs 1:1",
+    "explanation": "Song of Songs, also called Song of Solomon, is a poetic book of the Old Testament."
+  },
+  {
+    "id": "MAN131",
+    "question": "What did the disciples do after Jesus rose from the dead?",
+    "options": [
+      "They became witnesses",
+      "They returned to Egypt",
+      "They built a palace",
+      "They stopped preaching"
+    ],
+    "correct_answer": "They became witnesses",
+    "category": "Events",
+    "difficulty": "Medium",
+    "bible_reference": "Acts 1:8",
+    "explanation": "Jesus commissioned the disciples to be witnesses to the ends of the earth."
+  },
+  {
+    "id": "MAN132",
+    "question": "What did Jesus say people should do when they pray?",
+    "options": [
+      "Pray only in public",
+      "Go into a private room",
+      "Use many empty words",
+      "Ask for wealth"
+    ],
+    "correct_answer": "Go into a private room",
+    "category": "Teachings",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 6:6",
+    "explanation": "Jesus taught his followers to pray privately to the Father who sees in secret."
+  },
+  {
+    "id": "MAN133",
+    "question": "Who was sold by his brothers and taken to Egypt?",
+    "options": [
+      "Benjamin",
+      "Isaac",
+      "Joseph",
+      "Esau"
+    ],
+    "correct_answer": "Joseph",
+    "category": "Old Testament",
+    "difficulty": "Easy",
+    "bible_reference": "Genesis 37:28",
+    "explanation": "Joseph's brothers sold him, and he was taken to Egypt."
+  },
+  {
+    "id": "MAN134",
+    "question": "What did Jesus promise to send after he went away?",
+    "options": [
+      "A new king",
+      "A large army",
+      "A treasure",
+      "The Holy Spirit"
+    ],
+    "correct_answer": "The Holy Spirit",
+    "category": "New Testament",
+    "difficulty": "Easy",
+    "bible_reference": "John 14:16-17",
+    "explanation": "Jesus promised that the Father would send another Helper, the Holy Spirit."
+  },
+  {
+    "id": "MAN135",
+    "question": "Who was the father of King Solomon?",
+    "options": [
+      "David",
+      "Saul",
+      "Jesse",
+      "Samuel"
+    ],
+    "correct_answer": "David",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "2 Samuel 12:24",
+    "explanation": "Solomon was born to David and Bathsheba."
+  },
+  {
+    "id": "MAN136",
+    "question": "Who wrestled with Jacob during the night?",
+    "options": [
+      "A Philistine soldier",
+      "A man sent by God",
+      "His brother Esau",
+      "A king of Egypt"
+    ],
+    "correct_answer": "A man sent by God",
+    "category": "Old Testament",
+    "difficulty": "Hard",
+    "bible_reference": "Genesis 32:24-30",
+    "explanation": "Jacob wrestled with a mysterious man and received the name Israel."
+  },
+  {
+    "id": "MAN137",
+    "question": "What did Jesus say he was the way to?",
+    "options": [
+      "The Roman court",
+      "The temple treasury",
+      "The Father",
+      "The sea"
+    ],
+    "correct_answer": "The Father",
+    "category": "New Testament",
+    "difficulty": "Medium",
+    "bible_reference": "John 14:6",
+    "explanation": "Jesus said he is the way, the truth, and the life, and no one comes to the Father except through him."
+  },
+  {
+    "id": "MAN138",
+    "question": "Who was the first person to be called an apostle in Acts after Matthias?",
+    "options": [
+      "Timothy",
+      "Titus",
+      "Silas",
+      "Paul"
+    ],
+    "correct_answer": "Paul",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 9:15-20",
+    "explanation": "Paul was chosen as an instrument to carry Jesus' name to the nations."
+  },
+  {
+    "id": "MAN139",
+    "question": "Where did Jesus meet Nicodemus at night?",
+    "options": [
+      "In Jerusalem",
+      "In Bethany",
+      "In Nazareth",
+      "In Capernaum"
+    ],
+    "correct_answer": "In Jerusalem",
+    "category": "Places",
+    "difficulty": "Medium",
+    "bible_reference": "John 3:1-2",
+    "explanation": "Nicodemus came to Jesus by night during his ministry in Jerusalem."
+  },
+  {
+    "id": "MAN140",
+    "question": "What did Jesus do when he saw the man with the withered hand?",
+    "options": [
+      "He gave him a staff",
+      "He restored the hand",
+      "He sent him to a doctor",
+      "He ignored him"
+    ],
+    "correct_answer": "He restored the hand",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "Mark 3:1-5",
+    "explanation": "Jesus told the man to stretch out his hand, and it was restored."
+  },
+  {
+    "id": "MAN141",
+    "question": "In the parable of the growing seed, what does the farmer do after planting?",
+    "options": [
+      "He digs it up each day",
+      "He moves it to a city",
+      "He waits while the seed grows",
+      "He burns the field"
+    ],
+    "correct_answer": "He waits while the seed grows",
+    "category": "Parables",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 4:26-29",
+    "explanation": "The seed grows mysteriously while the farmer waits until the harvest."
+  },
+  {
+    "id": "MAN142",
+    "question": "Which book contains the story of the prophet Elijah being taken up in a whirlwind?",
+    "options": [
+      "1 Samuel",
+      "Jeremiah",
+      "Ruth",
+      "2 Kings"
+    ],
+    "correct_answer": "2 Kings",
+    "category": "Books",
+    "difficulty": "Hard",
+    "bible_reference": "2 Kings 2:11",
+    "explanation": "Second Kings records Elijah being taken to heaven in a whirlwind."
+  },
+  {
+    "id": "MAN143",
+    "question": "What happened when the disciples recognized Jesus after the resurrection?",
+    "options": [
+      "They worshiped him",
+      "They arrested him",
+      "They ran to Rome",
+      "They rebuilt the temple"
+    ],
+    "correct_answer": "They worshiped him",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 28:9",
+    "explanation": "The disciples met the risen Jesus and worshiped him."
+  },
+  {
+    "id": "MAN144",
+    "question": "What did Jesus say we should do for those who persecute us?",
+    "options": [
+      "Curse them",
+      "Pray for them",
+      "Avoid all prayer",
+      "Demand payment"
+    ],
+    "correct_answer": "Pray for them",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 5:44",
+    "explanation": "Jesus taught his followers to pray for those who persecute them."
+  },
+  {
+    "id": "MAN145",
+    "question": "Who was called the friend of God?",
+    "options": [
+      "Moses",
+      "David",
+      "Abraham",
+      "Elijah"
+    ],
+    "correct_answer": "Abraham",
+    "category": "Old Testament",
+    "difficulty": "Medium",
+    "bible_reference": "James 2:23",
+    "explanation": "Scripture calls Abraham a friend of God because of his faith."
+  },
+  {
+    "id": "MAN146",
+    "question": "What did Jesus do at the tomb of Lazarus?",
+    "options": [
+      "He built an altar",
+      "He left immediately",
+      "He called for soldiers",
+      "He wept"
+    ],
+    "correct_answer": "He wept",
+    "category": "New Testament",
+    "difficulty": "Easy",
+    "bible_reference": "John 11:35",
+    "explanation": "Jesus wept when he saw the grief surrounding Lazarus's death."
+  },
+  {
+    "id": "MAN147",
+    "question": "Who was the mother of Jesus?",
+    "options": [
+      "Mary",
+      "Martha",
+      "Elizabeth",
+      "Salome"
+    ],
+    "correct_answer": "Mary",
+    "category": "People",
+    "difficulty": "Easy",
+    "bible_reference": "Luke 1:30-31",
+    "explanation": "The angel Gabriel announced that Mary would give birth to Jesus."
+  },
+  {
+    "id": "MAN148",
+    "question": "Where did the disciples first receive the name Christians?",
+    "options": [
+      "Jerusalem",
+      "Antioch",
+      "Rome",
+      "Ephesus"
+    ],
+    "correct_answer": "Antioch",
+    "category": "Places",
+    "difficulty": "Medium",
+    "bible_reference": "Acts 11:26",
+    "explanation": "The disciples were first called Christians in Antioch."
+  },
+  {
+    "id": "MAN149",
+    "question": "What did Jesus do when the disciples caught no fish?",
+    "options": [
+      "He gave them new boats",
+      "He sent them home",
+      "He filled their nets with fish",
+      "He calmed a storm"
+    ],
+    "correct_answer": "He filled their nets with fish",
+    "category": "Miracles",
+    "difficulty": "Easy",
+    "bible_reference": "Luke 5:4-6",
+    "explanation": "Jesus told them where to lower the nets, and they caught a great number of fish."
+  },
+  {
+    "id": "MAN150",
+    "question": "In the parable of the mustard seed, what does it become?",
+    "options": [
+      "A river",
+      "A palace",
+      "A field of wheat",
+      "A large tree"
+    ],
+    "correct_answer": "A large tree",
+    "category": "Parables",
+    "difficulty": "Easy",
+    "bible_reference": "Matthew 13:31-32",
+    "explanation": "The tiny mustard seed grows into a large plant where birds can nest."
+  },
+  {
+    "id": "MAN151",
+    "question": "Which book contains the story of the walls of Jericho?",
+    "options": [
+      "Joshua",
+      "Judges",
+      "Ruth",
+      "Esther"
+    ],
+    "correct_answer": "Joshua",
+    "category": "Books",
+    "difficulty": "Easy",
+    "bible_reference": "Joshua 6:1-20",
+    "explanation": "Joshua records Israel's victory when the walls of Jericho fell."
+  },
+  {
+    "id": "MAN152",
+    "question": "What did Jesus do on the third day after his crucifixion?",
+    "options": [
+      "He returned to Egypt",
+      "He rose from the dead",
+      "He built a temple",
+      "He became a Roman governor"
+    ],
+    "correct_answer": "He rose from the dead",
+    "category": "Events",
+    "difficulty": "Easy",
+    "bible_reference": "Luke 24:1-7",
+    "explanation": "The tomb was found empty because Jesus had risen from the dead."
+  },
+  {
+    "id": "MAN153",
+    "question": "What did Jesus teach about anxiety over tomorrow?",
+    "options": [
+      "Store extra food only",
+      "Never work",
+      "Do not worry about tomorrow",
+      "Ask the government"
+    ],
+    "correct_answer": "Do not worry about tomorrow",
+    "category": "Teachings",
+    "difficulty": "Medium",
+    "bible_reference": "Matthew 6:34",
+    "explanation": "Jesus taught his followers not to worry about tomorrow because each day has enough trouble."
+  },
+  {
+    "id": "MID001",
+    "question": "What did Joshua declare his household would do?",
+    "options": [
+      "Build a palace",
+      "Return to Egypt",
+      "Follow the nations",
+      "Serve the Lord"
+    ],
+    "correct_answer": "Serve the Lord",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Joshua 24:15",
+    "explanation": "Joshua declared that he and his household would serve the Lord."
+  },
+  {
+    "id": "MID002",
+    "question": "Who judged Israel under a palm tree between Ramah and Bethel?",
+    "options": [
+      "Deborah",
+      "Hannah",
+      "Abigail",
+      "Miriam"
+    ],
+    "correct_answer": "Deborah",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Judges 4:4-5",
+    "explanation": "Deborah was a prophetess who judged Israel under a palm tree."
+  },
+  {
+    "id": "MID003",
+    "question": "What was the name of Ruth's son, an ancestor of David?",
+    "options": [
+      "Jesse",
+      "Obed",
+      "Boaz",
+      "Mahlon"
+    ],
+    "correct_answer": "Obed",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Ruth 4:13-17",
+    "explanation": "Ruth gave birth to Obed, who became the grandfather of David."
+  },
+  {
+    "id": "MID004",
+    "question": "Whom did Saul seek at Endor?",
+    "options": [
+      "A priest",
+      "A prophetess from Shiloh",
+      "A medium",
+      "A soldier"
+    ],
+    "correct_answer": "A medium",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "1 Samuel 28:7",
+    "explanation": "Saul asked his servants to find a woman who practiced as a medium at Endor."
+  },
+  {
+    "id": "MID005",
+    "question": "Which son of David was promised an enduring throne and would build the temple?",
+    "options": [
+      "Absalom",
+      "Amnon",
+      "Adonijah",
+      "Solomon"
+    ],
+    "correct_answer": "Solomon",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "2 Samuel 7:12-13",
+    "explanation": "God promised David that his son would build the temple and have an established throne."
+  },
+  {
+    "id": "MID006",
+    "question": "What did Elijah hear after the wind, earthquake, and fire?",
+    "options": [
+      "A gentle whisper",
+      "A trumpet blast",
+      "A loud song",
+      "A rushing river"
+    ],
+    "correct_answer": "A gentle whisper",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "1 Kings 19:11-12",
+    "explanation": "The Lord spoke to Elijah through a gentle whisper after the dramatic signs."
+  },
+  {
+    "id": "MID007",
+    "question": "How many times did Naaman dip in the Jordan to be cleansed?",
+    "options": [
+      "Three",
+      "Seven",
+      "Five",
+      "Twelve"
+    ],
+    "correct_answer": "Seven",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "2 Kings 5:14",
+    "explanation": "Naaman obeyed Elisha's instruction and dipped seven times in the Jordan."
+  },
+  {
+    "id": "MID008",
+    "question": "What did the sons of Issachar understand?",
+    "options": [
+      "How to build the temple",
+      "The language of Egypt",
+      "The times and what Israel should do",
+      "The number of Levites"
+    ],
+    "correct_answer": "The times and what Israel should do",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "1 Chronicles 12:32",
+    "explanation": "The sons of Issachar understood the times and knew what Israel should do."
+  },
+  {
+    "id": "MID009",
+    "question": "What did Ezra set his heart to do?",
+    "options": [
+      "Become a king",
+      "Build a fleet",
+      "Count the soldiers",
+      "Study, practice, and teach the Law"
+    ],
+    "correct_answer": "Study, practice, and teach the Law",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Ezra 7:10",
+    "explanation": "Ezra devoted himself to studying, obeying, and teaching the Law of the Lord."
+  },
+  {
+    "id": "MID010",
+    "question": "What did Nehemiah urge the people to rebuild?",
+    "options": [
+      "The wall of Jerusalem",
+      "The altar at Shiloh",
+      "The palace of Babylon",
+      "The road to Jericho"
+    ],
+    "correct_answer": "The wall of Jerusalem",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Nehemiah 2:17",
+    "explanation": "Nehemiah urged the people to rebuild Jerusalem's wall and remove its disgrace."
+  },
+  {
+    "id": "MID011",
+    "question": "What does the psalmist call a lamp to his feet?",
+    "options": [
+      "The temple lamp",
+      "God's word",
+      "The sun",
+      "A king's decree"
+    ],
+    "correct_answer": "God's word",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Psalm 119:105",
+    "explanation": "The psalmist says God's word is a lamp to his feet and a light to his path."
+  },
+  {
+    "id": "MID012",
+    "question": "What two extremes did Agur ask God not to give him?",
+    "options": [
+      "War and peace",
+      "Youth and old age",
+      "Poverty and riches",
+      "Famine and harvest"
+    ],
+    "correct_answer": "Poverty and riches",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Proverbs 30:8-9",
+    "explanation": "Agur asked for neither poverty nor riches, but only his daily bread."
+  },
+  {
+    "id": "NT001",
+    "question": "What name meaning 'God with us' is given to Jesus in Matthew?",
+    "options": [
+      "Messiah",
+      "Nazareth",
+      "Rabbi",
+      "Immanuel"
+    ],
+    "correct_answer": "Immanuel",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 1:23",
+    "explanation": "Matthew identifies Jesus as Immanuel, meaning God with us."
+  },
+  {
+    "id": "NT002",
+    "question": "Which prophet's words about Rachel weeping are quoted in Matthew?",
+    "options": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "correct_answer": "Jeremiah",
+    "category": "Books",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 2:17-18",
+    "explanation": "Matthew applies Jeremiah's prophecy about Rachel weeping to the slaughter of the infants."
+  },
+  {
+    "id": "NT003",
+    "question": "Who led Jesus into the wilderness to be tempted?",
+    "options": [
+      "An angel",
+      "The Spirit",
+      "John the Baptist",
+      "Peter"
+    ],
+    "correct_answer": "The Spirit",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 4:1",
+    "explanation": "The Spirit led Jesus into the wilderness before his temptation."
+  },
+  {
+    "id": "NT004",
+    "question": "Which two cities did Jesus especially rebuke for not repenting?",
+    "options": [
+      "Jericho and Ai",
+      "Tyre and Sidon",
+      "Chorazin and Bethsaida",
+      "Nazareth and Capernaum"
+    ],
+    "correct_answer": "Chorazin and Bethsaida",
+    "category": "Places",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 11:21",
+    "explanation": "Jesus pronounced woe on Chorazin and Bethsaida because they did not repent."
+  },
+  {
+    "id": "NT005",
+    "question": "Where did Jesus tell Peter to find the coin for the temple tax?",
+    "options": [
+      "Under a stone",
+      "Inside the temple",
+      "In a tax collector's bag",
+      "In a fish's mouth"
+    ],
+    "correct_answer": "In a fish's mouth",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 17:27",
+    "explanation": "Jesus told Peter to find a coin in the mouth of the first fish he caught."
+  },
+  {
+    "id": "NT006",
+    "question": "What Aramaic name did Jesus use when praying in Gethsemane?",
+    "options": [
+      "Abba",
+      "Rabbouni",
+      "Eloi",
+      "Maranatha"
+    ],
+    "correct_answer": "Abba",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 26:39",
+    "explanation": "Jesus addressed God as Father while praying in Gethsemane."
+  },
+  {
+    "id": "NT007",
+    "question": "What emotion moved Jesus before he healed the leper in Mark?",
+    "options": [
+      "Fear",
+      "Compassion",
+      "Anger",
+      "Surprise"
+    ],
+    "correct_answer": "Compassion",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 1:41",
+    "explanation": "Jesus was moved with compassion and touched the leper."
+  },
+  {
+    "id": "NT008",
+    "question": "Whom did the scribes accuse Jesus of using to cast out demons?",
+    "options": [
+      "Gabriel",
+      "Caesar",
+      "Beelzebul",
+      "Moses"
+    ],
+    "correct_answer": "Beelzebul",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 3:22",
+    "explanation": "The scribes accused Jesus of casting out demons by the ruler of demons."
+  },
+  {
+    "id": "NT009",
+    "question": "What did Jesus say to Jairus's daughter when he raised her?",
+    "options": [
+      "Ephphatha",
+      "Eloi lama",
+      "Hosanna",
+      "Talitha koum"
+    ],
+    "correct_answer": "Talitha koum",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 5:41",
+    "explanation": "Jesus said Talitha koum, meaning little girl, get up."
+  },
+  {
+    "id": "NT010",
+    "question": "What does the Aramaic word Ephphatha mean?",
+    "options": [
+      "Be opened",
+      "Be healed",
+      "Be silent",
+      "Follow me"
+    ],
+    "correct_answer": "Be opened",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 7:34",
+    "explanation": "Jesus said Ephphatha when healing a man who was deaf and had a speech impediment."
+  },
+  {
+    "id": "NT011",
+    "question": "What was the name of the blind man Jesus healed near Jericho?",
+    "options": [
+      "Jairus",
+      "Bartimaeus",
+      "Malchus",
+      "Zacchaeus"
+    ],
+    "correct_answer": "Bartimaeus",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 10:46",
+    "explanation": "Bartimaeus, the son of Timaeus, received his sight near Jericho."
+  },
+  {
+    "id": "NT012",
+    "question": "What word did Jesus use for God in his prayer at Gethsemane in Mark?",
+    "options": [
+      "Adonai",
+      "Elohim",
+      "Abba",
+      "El Shaddai"
+    ],
+    "correct_answer": "Abba",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 14:36",
+    "explanation": "Jesus prayed, Abba, Father, all things are possible for you."
+  },
+  {
+    "id": "NT013",
+    "question": "What did Gabriel say would come upon Mary?",
+    "options": [
+      "A cloud of fire",
+      "The spirit of Elijah",
+      "The angelic host",
+      "The Holy Spirit"
+    ],
+    "correct_answer": "The Holy Spirit",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 1:35",
+    "explanation": "Gabriel said the Holy Spirit would come upon Mary and God's power would overshadow her."
+  },
+  {
+    "id": "NT014",
+    "question": "What was Anna's role when she saw the infant Jesus in the temple?",
+    "options": [
+      "Prophetess",
+      "High priest",
+      "Scribe",
+      "Roman official"
+    ],
+    "correct_answer": "Prophetess",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 2:36",
+    "explanation": "Anna was a prophetess from the tribe of Asher who worshiped at the temple."
+  },
+  {
+    "id": "NT015",
+    "question": "To whom did Elijah go during the famine, according to Jesus in Luke?",
+    "options": [
+      "A widow in Bethany",
+      "A widow in Zarephath",
+      "A queen in Jerusalem",
+      "A priest in Jericho"
+    ],
+    "correct_answer": "A widow in Zarephath",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 4:25-26",
+    "explanation": "Jesus referred to Elijah being sent to a widow in Zarephath in Sidon."
+  },
+  {
+    "id": "NT016",
+    "question": "Who appeared with Jesus at the Transfiguration in Luke?",
+    "options": [
+      "Abraham and David",
+      "Peter and John",
+      "Moses and Elijah",
+      "Isaiah and Jeremiah"
+    ],
+    "correct_answer": "Moses and Elijah",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 9:30",
+    "explanation": "Moses and Elijah appeared in glory and spoke with Jesus."
+  },
+  {
+    "id": "NT017",
+    "question": "Which sister sat at Jesus's feet listening to his teaching?",
+    "options": [
+      "Martha",
+      "Salome",
+      "Joanna",
+      "Mary"
+    ],
+    "correct_answer": "Mary",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 10:39",
+    "explanation": "Mary sat at the Lord's feet and listened to his teaching."
+  },
+  {
+    "id": "NT018",
+    "question": "What did Jesus do at Emmaus that made the disciples recognize him?",
+    "options": [
+      "He broke bread",
+      "He washed their feet",
+      "He read Isaiah",
+      "He lit a lamp"
+    ],
+    "correct_answer": "He broke bread",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 24:30-31",
+    "explanation": "The disciples recognized Jesus when he took, blessed, and broke the bread."
+  },
+  {
+    "id": "NT019",
+    "question": "What does John say the Word became?",
+    "options": [
+      "Fire",
+      "Flesh",
+      "A book",
+      "A king"
+    ],
+    "correct_answer": "Flesh",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "John 1:14",
+    "explanation": "John declares that the Word became flesh and dwelt among us."
+  },
+  {
+    "id": "NT020",
+    "question": "How many stone water jars stood at Cana?",
+    "options": [
+      "Four",
+      "Seven",
+      "Six",
+      "Twelve"
+    ],
+    "correct_answer": "Six",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "John 2:6",
+    "explanation": "Six stone jars stood there for the Jewish purification rites."
+  },
+  {
+    "id": "NT021",
+    "question": "How did Jesus say true worshipers would worship the Father?",
+    "options": [
+      "With sacrifices only",
+      "On the mountain only",
+      "In silence and darkness",
+      "In spirit and truth"
+    ],
+    "correct_answer": "In spirit and truth",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "John 4:23-24",
+    "explanation": "Jesus said true worshipers worship the Father in spirit and truth."
+  },
+  {
+    "id": "NT022",
+    "question": "What did Peter say Jesus had that leads to eternal life?",
+    "options": [
+      "Words of eternal life",
+      "A sword of fire",
+      "The keys of Rome",
+      "A royal crown"
+    ],
+    "correct_answer": "Words of eternal life",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "John 6:68",
+    "explanation": "Peter confessed that Jesus had the words of eternal life."
+  },
+  {
+    "id": "NT023",
+    "question": "At which pool was the man born blind told to wash?",
+    "options": [
+      "Bethesda",
+      "Siloam",
+      "Gihon",
+      "Gennesaret"
+    ],
+    "correct_answer": "Siloam",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "John 9:7",
+    "explanation": "Jesus told the man to wash in the pool of Siloam."
+  },
+  {
+    "id": "NT024",
+    "question": "What did Jesus invite Thomas to examine?",
+    "options": [
+      "His crown and robe",
+      "The empty tomb",
+      "His hands and side",
+      "The disciples' nets"
+    ],
+    "correct_answer": "His hands and side",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "John 20:27",
+    "explanation": "Jesus invited Thomas to see his hands and put his hand into his side."
+  },
+  {
+    "id": "NT025",
+    "question": "What did Ananias and Sapphira secretly keep back?",
+    "options": [
+      "The temple scrolls",
+      "A basket of grain",
+      "A Roman tax",
+      "Part of the money from a sale"
+    ],
+    "correct_answer": "Part of the money from a sale",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 5:1-2",
+    "explanation": "They kept back part of the proceeds while pretending to give the whole amount."
+  },
+  {
+    "id": "NT026",
+    "question": "Who was chosen with Stephen among the seven servants?",
+    "options": [
+      "Philip",
+      "Matthias",
+      "Titus",
+      "Silas"
+    ],
+    "correct_answer": "Philip",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 6:5",
+    "explanation": "Philip was one of the seven chosen to serve the community."
+  },
+  {
+    "id": "NT027",
+    "question": "What was the Ethiopian official reading when Philip met him?",
+    "options": [
+      "Jeremiah",
+      "Isaiah",
+      "The Psalms",
+      "Deuteronomy"
+    ],
+    "correct_answer": "Isaiah",
+    "category": "Books",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 8:30-32",
+    "explanation": "The Ethiopian official was reading the prophet Isaiah."
+  },
+  {
+    "id": "NT028",
+    "question": "What did Peter see descending from heaven in his vision?",
+    "options": [
+      "A golden altar",
+      "A ladder of angels",
+      "A sheet filled with animals",
+      "A scroll of the Law"
+    ],
+    "correct_answer": "A sheet filled with animals",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 10:11-12",
+    "explanation": "Peter saw something like a large sheet containing many kinds of animals."
+  },
+  {
+    "id": "NT029",
+    "question": "What happened to Peter's chains when the angel came to him?",
+    "options": [
+      "They became gold",
+      "They grew longer",
+      "They locked the door",
+      "They fell off"
+    ],
+    "correct_answer": "They fell off",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 12:7",
+    "explanation": "The chains fell from Peter's hands when the angel awakened him."
+  },
+  {
+    "id": "NT030",
+    "question": "What trade did Lydia practice in Philippi?",
+    "options": [
+      "Selling purple cloth",
+      "Making tents",
+      "Selling grain",
+      "Making pottery"
+    ],
+    "correct_answer": "Selling purple cloth",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 16:14",
+    "explanation": "Lydia was a seller of purple goods from Thyatira."
+  },
+  {
+    "id": "NT031",
+    "question": "Through whom does Paul say sin entered the world?",
+    "options": [
+      "Moses",
+      "One man, Adam",
+      "Satan alone",
+      "The Roman governor"
+    ],
+    "correct_answer": "One man, Adam",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Romans 5:12",
+    "explanation": "Paul explains that sin entered the world through one man and death through sin."
+  },
+  {
+    "id": "NT032",
+    "question": "What did Paul urge believers to present as a living sacrifice?",
+    "options": [
+      "Their possessions",
+      "Their buildings",
+      "Their bodies",
+      "Their titles"
+    ],
+    "correct_answer": "Their bodies",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Romans 12:1",
+    "explanation": "Paul urged believers to present their bodies as a living and holy sacrifice to God."
+  },
+  {
+    "id": "NT033",
+    "question": "What did Paul call Christ in relation to those who have died?",
+    "options": [
+      "The last prophet",
+      "The temple gate",
+      "The lawgiver",
+      "The firstfruits"
+    ],
+    "correct_answer": "The firstfruits",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "1 Corinthians 15:20",
+    "explanation": "Paul called Christ the firstfruits of those who have fallen asleep."
+  },
+  {
+    "id": "NT034",
+    "question": "What did Israel eat and drink in the wilderness according to Paul?",
+    "options": [
+      "Spiritual food and drink",
+      "Only manna",
+      "Fruit from Canaan",
+      "Bread from the temple"
+    ],
+    "correct_answer": "Spiritual food and drink",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "1 Corinthians 10:3-4",
+    "explanation": "Paul says Israel ate spiritual food and drank from a spiritual rock, which was Christ."
+  },
+  {
+    "id": "NT035",
+    "question": "What did Paul say he had in his flesh, despite his visions?",
+    "options": [
+      "A crown",
+      "A thorn",
+      "A scroll",
+      "A scarlet robe"
+    ],
+    "correct_answer": "A thorn",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "2 Corinthians 12:7",
+    "explanation": "Paul described a thorn in the flesh, a messenger of Satan, to keep him humble."
+  },
+  {
+    "id": "NT036",
+    "question": "What does anyone become when they are in Christ?",
+    "options": [
+      "A Roman citizen",
+      "A temple official",
+      "A new creation",
+      "A descendant of David"
+    ],
+    "correct_answer": "A new creation",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "2 Corinthians 5:17",
+    "explanation": "Paul says anyone in Christ is a new creation; the old has passed away."
+  },
+  {
+    "id": "NT037",
+    "question": "What did Paul say justifies a person before God?",
+    "options": [
+      "Circumcision alone",
+      "Roman citizenship",
+      "Keeping a festival",
+      "Faith in Jesus Christ"
+    ],
+    "correct_answer": "Faith in Jesus Christ",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Galatians 2:16",
+    "explanation": "Paul taught that a person is justified through faith in Jesus Christ, not works of the law."
+  },
+  {
+    "id": "NT038",
+    "question": "What did Paul say is neither Jew nor Greek in Christ?",
+    "options": [
+      "The division of identity",
+      "The temple curtain",
+      "The Roman army",
+      "The Sabbath calendar"
+    ],
+    "correct_answer": "The division of identity",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Galatians 3:28",
+    "explanation": "Paul taught that in Christ human divisions such as Jew and Greek do not determine spiritual standing."
+  },
+  {
+    "id": "NT039",
+    "question": "What did Christ break down to make peace between groups?",
+    "options": [
+      "The city wall",
+      "The dividing wall of hostility",
+      "The bronze altar",
+      "The prison gate"
+    ],
+    "correct_answer": "The dividing wall of hostility",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Ephesians 2:14",
+    "explanation": "Paul says Christ is our peace and has broken down the dividing wall of hostility."
+  },
+  {
+    "id": "NT040",
+    "question": "How many foundational Christian realities does Paul list in Ephesians 4:5?",
+    "options": [
+      "Three temples and one law",
+      "Seven gifts and twelve apostles",
+      "One Lord, one faith, one baptism",
+      "Two covenants and four gospels"
+    ],
+    "correct_answer": "One Lord, one faith, one baptism",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Ephesians 4:5",
+    "explanation": "Paul emphasizes one Lord, one faith, and one baptism."
+  },
+  {
+    "id": "NT041",
+    "question": "What will every knee do at the name of Jesus?",
+    "options": [
+      "Run",
+      "Rise to fight",
+      "Enter the temple",
+      "Bow"
+    ],
+    "correct_answer": "Bow",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Philippians 2:10",
+    "explanation": "Paul says every knee will bow in heaven, on earth, and under the earth."
+  },
+  {
+    "id": "NT042",
+    "question": "Where does Paul say the believer's citizenship is?",
+    "options": [
+      "In heaven",
+      "In Jerusalem",
+      "In Rome",
+      "In the wilderness"
+    ],
+    "correct_answer": "In heaven",
+    "category": "Places",
+    "difficulty": "Hard",
+    "bible_reference": "Philippians 3:20",
+    "explanation": "Paul says the citizenship of believers is in heaven, from where they await Christ."
+  },
+  {
+    "id": "NT043",
+    "question": "Where is the believer's life hidden with Christ?",
+    "options": [
+      "In the temple",
+      "In God",
+      "In the law",
+      "In Jerusalem"
+    ],
+    "correct_answer": "In God",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Colossians 3:3",
+    "explanation": "Paul says the believer's life is hidden with Christ in God."
+  },
+  {
+    "id": "NT044",
+    "question": "What does Paul say should dwell richly among believers?",
+    "options": [
+      "Roman law",
+      "Temple music",
+      "The word of Christ",
+      "The wisdom of merchants"
+    ],
+    "correct_answer": "The word of Christ",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Colossians 3:16",
+    "explanation": "Paul urges believers to let the word of Christ dwell richly among them."
+  },
+  {
+    "id": "NT045",
+    "question": "What happens first when the Lord descends, according to 1 Thessalonians?",
+    "options": [
+      "The temple is rebuilt",
+      "The nations gather in Rome",
+      "The sea becomes dry",
+      "The dead in Christ rise"
+    ],
+    "correct_answer": "The dead in Christ rise",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "1 Thessalonians 4:16",
+    "explanation": "Paul says the dead in Christ will rise first when the Lord descends from heaven."
+  },
+  {
+    "id": "NT046",
+    "question": "How does Paul say the day of the Lord will come?",
+    "options": [
+      "Like a thief in the night",
+      "Like a royal procession",
+      "Like a burning mountain",
+      "Like a census"
+    ],
+    "correct_answer": "Like a thief in the night",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "1 Thessalonians 5:2",
+    "explanation": "Paul says the day of the Lord will come like a thief in the night."
+  },
+  {
+    "id": "NT047",
+    "question": "Who is the one mediator between God and humanity?",
+    "options": [
+      "Moses",
+      "Christ Jesus",
+      "The high priest of Rome",
+      "An angel"
+    ],
+    "correct_answer": "Christ Jesus",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "1 Timothy 2:5",
+    "explanation": "Paul identifies Christ Jesus as the one mediator between God and humanity."
+  },
+  {
+    "id": "NT048",
+    "question": "What does Paul call the love of money?",
+    "options": [
+      "The beginning of wisdom",
+      "A spiritual gift",
+      "A root of all kinds of evil",
+      "A sign of salvation"
+    ],
+    "correct_answer": "A root of all kinds of evil",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "1 Timothy 6:10",
+    "explanation": "Paul warns that the love of money is a root of all kinds of evil."
+  },
+  {
+    "id": "NT049",
+    "question": "What does Paul say all Scripture is?",
+    "options": [
+      "A Roman document",
+      "A hidden parable",
+      "A song of David",
+      "God-breathed"
+    ],
+    "correct_answer": "God-breathed",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "2 Timothy 3:16",
+    "explanation": "Paul says all Scripture is God-breathed and useful for teaching and correction."
+  },
+  {
+    "id": "NT050",
+    "question": "What did Paul tell Timothy to fan into flame?",
+    "options": [
+      "The gift of God",
+      "The altar fire",
+      "The lamp in the temple",
+      "The anger of the crowd"
+    ],
+    "correct_answer": "The gift of God",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "2 Timothy 1:6",
+    "explanation": "Paul reminded Timothy to fan into flame the gift of God received through the laying on of hands."
+  },
+  {
+    "id": "NT051",
+    "question": "How does Hebrews describe the word of God?",
+    "options": [
+      "Silent and hidden",
+      "Living and active",
+      "Old and forgotten",
+      "Heavy and sealed"
+    ],
+    "correct_answer": "Living and active",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Hebrews 4:12",
+    "explanation": "Hebrews says the word of God is living, active, and sharper than any two-edged sword."
+  },
+  {
+    "id": "NT052",
+    "question": "What surrounds believers in the race of faith?",
+    "options": [
+      "A wall of soldiers",
+      "A circle of kings",
+      "A great cloud of witnesses",
+      "A field of angels"
+    ],
+    "correct_answer": "A great cloud of witnesses",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Hebrews 12:1",
+    "explanation": "Hebrews encourages believers because they are surrounded by a great cloud of witnesses."
+  },
+  {
+    "id": "NT053",
+    "question": "What should a person do if they lack wisdom?",
+    "options": [
+      "Hide from the church",
+      "Buy a scroll",
+      "Consult a king",
+      "Ask God"
+    ],
+    "correct_answer": "Ask God",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "James 1:5",
+    "explanation": "James tells anyone who lacks wisdom to ask God, who gives generously."
+  },
+  {
+    "id": "NT054",
+    "question": "What does James compare the tongue to when describing its danger?",
+    "options": [
+      "A fire",
+      "A shield",
+      "A harvest",
+      "A lamp"
+    ],
+    "correct_answer": "A fire",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "James 3:5-6",
+    "explanation": "James compares the tongue's destructive power to a fire."
+  },
+  {
+    "id": "NT055",
+    "question": "What are believers called in Peter's picture of the spiritual house?",
+    "options": [
+      "Golden pillars",
+      "Living stones",
+      "Royal soldiers",
+      "Temple curtains"
+    ],
+    "correct_answer": "Living stones",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "1 Peter 2:5",
+    "explanation": "Peter calls believers living stones being built into a spiritual house."
+  },
+  {
+    "id": "NT056",
+    "question": "What did Christ do when he was insulted, according to Peter?",
+    "options": [
+      "He called down fire",
+      "He fled to Rome",
+      "He entrusted himself to God who judges justly",
+      "He cursed his enemies"
+    ],
+    "correct_answer": "He entrusted himself to God who judges justly",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "1 Peter 2:23",
+    "explanation": "Peter says Christ entrusted himself to the one who judges justly instead of retaliating."
+  },
+  {
+    "id": "NT057",
+    "question": "What did Balaam's donkey do in Peter's warning about false teachers?",
+    "options": [
+      "It ran into the sea",
+      "It carried a king",
+      "It broke a wall",
+      "It spoke with a human voice"
+    ],
+    "correct_answer": "It spoke with a human voice",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "2 Peter 2:16",
+    "explanation": "Peter recalls that a speechless donkey spoke with a human voice and restrained Balaam's madness."
+  },
+  {
+    "id": "NT058",
+    "question": "What does Peter say believers await according to God's promise?",
+    "options": [
+      "New heavens and a new earth",
+      "A rebuilt Roman empire",
+      "A palace in Egypt",
+      "A second wilderness"
+    ],
+    "correct_answer": "New heavens and a new earth",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "2 Peter 3:13",
+    "explanation": "Peter says believers await new heavens and a new earth where righteousness dwells."
+  },
+  {
+    "id": "NT059",
+    "question": "What do the seven golden lampstands represent in Revelation?",
+    "options": [
+      "The seven seals",
+      "The seven churches",
+      "The seven angels",
+      "The seven hills"
+    ],
+    "correct_answer": "The seven churches",
+    "category": "Books",
+    "difficulty": "Hard",
+    "bible_reference": "Revelation 1:20",
+    "explanation": "Revelation explains that the seven golden lampstands are the seven churches."
+  },
+  {
+    "id": "NT060",
+    "question": "Who is worthy to open the scroll in Revelation?",
+    "options": [
+      "The Roman governor",
+      "The oldest apostle",
+      "The Lion of Judah, the Lamb",
+      "The angel at the altar"
+    ],
+    "correct_answer": "The Lion of Judah, the Lamb",
+    "category": "Books",
+    "difficulty": "Hard",
+    "bible_reference": "Revelation 5:5-6",
+    "explanation": "The Lion of Judah is revealed as the Lamb who is worthy to open the scroll."
+  },
+  {
+    "id": "OT001",
+    "question": "Who blessed Abram and brought out bread and wine?",
+    "options": [
+      "Abimelech",
+      "Jethro",
+      "Melchizedek",
+      "Eshcol"
+    ],
+    "correct_answer": "Melchizedek",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Genesis 14:18",
+    "explanation": "Melchizedek, king of Salem and priest of God Most High, blessed Abram."
+  },
+  {
+    "id": "OT002",
+    "question": "What did Joseph's brothers use to make Jacob believe Joseph was dead?",
+    "options": [
+      "A broken staff",
+      "A sealed letter",
+      "A torn tent rope",
+      "His bloodied robe"
+    ],
+    "correct_answer": "His bloodied robe",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Genesis 37:31-33",
+    "explanation": "They dipped Joseph's special robe in goat's blood and brought it to Jacob."
+  },
+  {
+    "id": "OT003",
+    "question": "Who was Moses' wife when she opposed him with Aaron?",
+    "options": [
+      "Zipporah",
+      "Miriam",
+      "Hagar",
+      "Keturah"
+    ],
+    "correct_answer": "Zipporah",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Exodus 4:24-26",
+    "explanation": "Zipporah circumcised their son during the journey and called Moses a bridegroom of blood."
+  },
+  {
+    "id": "OT004",
+    "question": "What did Aaron's staff do before Pharaoh's magicians' staffs?",
+    "options": [
+      "It caught fire",
+      "It swallowed their staffs",
+      "It turned into water",
+      "It broke in two"
+    ],
+    "correct_answer": "It swallowed their staffs",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Exodus 7:10-12",
+    "explanation": "Aaron's staff became a snake and swallowed the staffs of the Egyptian magicians."
+  },
+  {
+    "id": "OT005",
+    "question": "On the Day of Atonement, what happened to the goat sent into the wilderness?",
+    "options": [
+      "It was offered inside the ark",
+      "It became the high priest",
+      "It carried the people's sins away",
+      "It was kept for Passover"
+    ],
+    "correct_answer": "It carried the people's sins away",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Leviticus 16:20-22",
+    "explanation": "The live goat symbolically carried Israel's sins into the wilderness."
+  },
+  {
+    "id": "OT006",
+    "question": "What did Nadab and Abihu offer that God had not commanded?",
+    "options": [
+      "Stolen bread",
+      "Foreign incense",
+      "A bronze idol",
+      "Unauthorized fire"
+    ],
+    "correct_answer": "Unauthorized fire",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Leviticus 10:1-2",
+    "explanation": "Nadab and Abihu offered unauthorized fire before the Lord."
+  },
+  {
+    "id": "OT007",
+    "question": "Who led the rebellion against Moses and Aaron in the wilderness?",
+    "options": [
+      "Korah, Dathan, and Abiram",
+      "Joshua and Caleb",
+      "Nadab and Abihu",
+      "Hophni and Phinehas"
+    ],
+    "correct_answer": "Korah, Dathan, and Abiram",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Numbers 16:1-3",
+    "explanation": "Korah, Dathan, and Abiram challenged Moses and Aaron's leadership."
+  },
+  {
+    "id": "OT008",
+    "question": "What did Balaam's donkey see before Balaam did?",
+    "options": [
+      "A burning bush",
+      "The angel of the Lord",
+      "A flooded river",
+      "A hidden army"
+    ],
+    "correct_answer": "The angel of the Lord",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Numbers 22:21-27",
+    "explanation": "The donkey saw the angel of the Lord standing in the road before Balaam saw him."
+  },
+  {
+    "id": "OT009",
+    "question": "From which mountain did Moses view the Promised Land before he died?",
+    "options": [
+      "Mount Carmel",
+      "Mount Sinai",
+      "Mount Nebo",
+      "Mount Gerizim"
+    ],
+    "correct_answer": "Mount Nebo",
+    "category": "Places",
+    "difficulty": "Hard",
+    "bible_reference": "Deuteronomy 34:1",
+    "explanation": "Moses climbed Mount Nebo and saw the land before his death."
+  },
+  {
+    "id": "OT010",
+    "question": "Where were the tribes to hear the blessings and curses?",
+    "options": [
+      "The Jordan and the Nile",
+      "Mounts Sinai and Carmel",
+      "Jericho and Ai",
+      "Mounts Gerizim and Ebal"
+    ],
+    "correct_answer": "Mounts Gerizim and Ebal",
+    "category": "Places",
+    "difficulty": "Hard",
+    "bible_reference": "Deuteronomy 11:29",
+    "explanation": "Israel was to pronounce blessings from Gerizim and curses from Ebal."
+  },
+  {
+    "id": "OT011",
+    "question": "What did Rahab tie in her window as a sign for the spies?",
+    "options": [
+      "A scarlet cord",
+      "A purple cloth",
+      "A white flag",
+      "A palm branch"
+    ],
+    "correct_answer": "A scarlet cord",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Joshua 2:18",
+    "explanation": "Rahab was told to tie a scarlet cord in the window to identify her household."
+  },
+  {
+    "id": "OT012",
+    "question": "What did Achan hide under his tent after Jericho fell?",
+    "options": [
+      "The ark's poles",
+      "A robe, silver, and gold",
+      "A bronze serpent",
+      "A king's crown only"
+    ],
+    "correct_answer": "A robe, silver, and gold",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Joshua 7:20-22",
+    "explanation": "Achan confessed that he had taken a robe, silver, and gold and hidden them under his tent."
+  },
+  {
+    "id": "OT013",
+    "question": "What unusual physical trait did Ehud use to surprise Eglon?",
+    "options": [
+      "He was blind",
+      "He was extremely tall",
+      "He was left-handed",
+      "He had a limp"
+    ],
+    "correct_answer": "He was left-handed",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Judges 3:15-21",
+    "explanation": "Ehud was left-handed and used that unexpected side to conceal his sword."
+  },
+  {
+    "id": "OT014",
+    "question": "What test reduced Gideon's army to 300 men?",
+    "options": [
+      "How they climbed a hill",
+      "How they carried torches",
+      "How they counted arrows",
+      "How they drank water"
+    ],
+    "correct_answer": "How they drank water",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Judges 7:4-7",
+    "explanation": "God selected the men who lapped water with their hands to their mouths."
+  },
+  {
+    "id": "OT015",
+    "question": "Why could Boaz redeem Ruth only after another relative declined?",
+    "options": [
+      "That relative was the nearer redeemer",
+      "Boaz lacked money",
+      "Ruth was from Moab",
+      "Naomi had forbidden it"
+    ],
+    "correct_answer": "That relative was the nearer redeemer",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Ruth 4:1-6",
+    "explanation": "The nearer relative had the first right to redeem Naomi's land and marry Ruth."
+  },
+  {
+    "id": "OT016",
+    "question": "What new name did Naomi ask people to call her?",
+    "options": [
+      "Hadassah",
+      "Mara",
+      "Tirzah",
+      "Noah"
+    ],
+    "correct_answer": "Mara",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Ruth 1:20",
+    "explanation": "Naomi asked to be called Mara because the Almighty had dealt bitterly with her."
+  },
+  {
+    "id": "OT017",
+    "question": "Before David escaped, how did he behave before Achish king of Gath?",
+    "options": [
+      "He challenged him to a duel",
+      "He became a priest",
+      "He pretended to be insane",
+      "He hid in the palace"
+    ],
+    "correct_answer": "He pretended to be insane",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "1 Samuel 21:10-15",
+    "explanation": "David acted insane by scratching doors and letting saliva run down his beard."
+  },
+  {
+    "id": "OT018",
+    "question": "Which Amalekite king did Saul spare against God's command?",
+    "options": [
+      "Haman",
+      "Ben-Hadad",
+      "Sihon",
+      "Agag"
+    ],
+    "correct_answer": "Agag",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "1 Samuel 15:8-9",
+    "explanation": "Saul spared Agag and the best animals even though he was commanded to destroy them."
+  },
+  {
+    "id": "OT019",
+    "question": "What happened when Uzzah reached out to steady the ark?",
+    "options": [
+      "The Lord struck him dead",
+      "He became a priest",
+      "The ark opened",
+      "David crowned him"
+    ],
+    "correct_answer": "The Lord struck him dead",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "2 Samuel 6:6-7",
+    "explanation": "Uzzah touched the ark when the oxen stumbled, and the Lord struck him."
+  },
+  {
+    "id": "OT020",
+    "question": "What physical feature caused Absalom's hair to become a problem?",
+    "options": [
+      "It was bright white",
+      "It was very heavy and long",
+      "It was braided with gold",
+      "It was completely shaved"
+    ],
+    "correct_answer": "It was very heavy and long",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "2 Samuel 14:25-26",
+    "explanation": "Absalom's abundant hair weighed about five pounds when cut each year."
+  },
+  {
+    "id": "OT021",
+    "question": "What vision did Micaiah report about Israel's scattered army?",
+    "options": [
+      "Locusts over a field",
+      "A broken crown",
+      "Sheep without a shepherd",
+      "Horses without chariots"
+    ],
+    "correct_answer": "Sheep without a shepherd",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "1 Kings 22:17",
+    "explanation": "Micaiah saw Israel scattered on the hills like sheep without a shepherd."
+  },
+  {
+    "id": "OT022",
+    "question": "What did the widow of Zarephath's jar of flour not do during the famine?",
+    "options": [
+      "It turned into oil",
+      "It became gold",
+      "It was stolen by soldiers",
+      "It did not run out"
+    ],
+    "correct_answer": "It did not run out",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "1 Kings 17:14-16",
+    "explanation": "The jar of flour and jug of oil did not run out until rain returned."
+  },
+  {
+    "id": "OT023",
+    "question": "What sign did God give Hezekiah involving the shadow?",
+    "options": [
+      "The shadow moved backward",
+      "The shadow disappeared forever",
+      "The shadow became a serpent",
+      "The shadow covered Egypt"
+    ],
+    "correct_answer": "The shadow moved backward",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "2 Kings 20:8-11",
+    "explanation": "The shadow went backward ten steps as a sign that Hezekiah would recover."
+  },
+  {
+    "id": "OT024",
+    "question": "What did Elisha add to the poisoned stew?",
+    "options": [
+      "Salt",
+      "Flour",
+      "Oil",
+      "Honey"
+    ],
+    "correct_answer": "Flour",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "2 Kings 4:38-41",
+    "explanation": "Elisha told them to put flour in the pot, and the stew became safe to eat."
+  },
+  {
+    "id": "OT025",
+    "question": "What did Esther do before approaching the king uninvited?",
+    "options": [
+      "She wore sackcloth alone",
+      "She sent Mordecai away",
+      "She fasted for three days",
+      "She entered at midnight"
+    ],
+    "correct_answer": "She fasted for three days",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Esther 4:16-5:2",
+    "explanation": "Esther asked the Jews to fast for three days before she approached the king."
+  },
+  {
+    "id": "OT026",
+    "question": "For whom had Haman prepared the gallows before the king honored Mordecai?",
+    "options": [
+      "Esther",
+      "Nehemiah",
+      "Daniel",
+      "Mordecai"
+    ],
+    "correct_answer": "Mordecai",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Esther 5:14; 6:10",
+    "explanation": "Haman prepared the gallows for Mordecai, but the king later ordered Haman to honor him."
+  },
+  {
+    "id": "OT027",
+    "question": "From what did God speak when he answered Job?",
+    "options": [
+      "A whirlwind",
+      "A burning altar",
+      "A cloud of incense",
+      "A trumpet"
+    ],
+    "correct_answer": "A whirlwind",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Job 38:1",
+    "explanation": "The Lord answered Job out of the whirlwind."
+  },
+  {
+    "id": "OT028",
+    "question": "What did Job do for his friends after the Lord addressed him?",
+    "options": [
+      "He judged them",
+      "He prayed for them",
+      "He sent them away",
+      "He demanded their wealth"
+    ],
+    "correct_answer": "He prayed for them",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Job 42:8-10",
+    "explanation": "Job prayed for his friends, and the Lord restored his fortunes."
+  },
+  {
+    "id": "OT029",
+    "question": "What did the seraph touch to Isaiah's lips?",
+    "options": [
+      "A scroll of the Law",
+      "A drop of oil",
+      "A live coal from the altar",
+      "A branch of cedar"
+    ],
+    "correct_answer": "A live coal from the altar",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Isaiah 6:6-7",
+    "explanation": "A seraph touched Isaiah's lips with a live coal from the altar and declared him cleansed."
+  },
+  {
+    "id": "OT030",
+    "question": "What unusual sign did Isaiah perform for Egypt and Cush?",
+    "options": [
+      "He built a golden calf",
+      "He slept in the temple",
+      "He carried a broken crown",
+      "He walked stripped and barefoot"
+    ],
+    "correct_answer": "He walked stripped and barefoot",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Isaiah 20:2-4",
+    "explanation": "Isaiah walked stripped and barefoot as a sign against Egypt and Cush."
+  },
+  {
+    "id": "NT061",
+    "question": "When did the enemy sow weeds among the wheat?",
+    "options": [
+      "During the harvest",
+      "At midday",
+      "After the rain",
+      "While people slept"
+    ],
+    "correct_answer": "While people slept",
+    "category": "Parables",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 13:25",
+    "explanation": "Jesus said the enemy sowed weeds while everyone was sleeping."
+  },
+  {
+    "id": "NT062",
+    "question": "What did the five wise virgins take with their lamps?",
+    "options": [
+      "Extra oil",
+      "Extra robes",
+      "Bread",
+      "Trumpets"
+    ],
+    "correct_answer": "Extra oil",
+    "category": "Parables",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 25:1-4",
+    "explanation": "The wise virgins took oil in jars along with their lamps."
+  },
+  {
+    "id": "NT063",
+    "question": "Who requested John the Baptist's head after Herod's banquet?",
+    "options": [
+      "Pilate's wife",
+      "Herodias's daughter",
+      "Mary Magdalene",
+      "The high priest's daughter"
+    ],
+    "correct_answer": "Herodias's daughter",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 14:6-8",
+    "explanation": "Herodias's daughter, prompted by her mother, asked for John's head."
+  },
+  {
+    "id": "NT064",
+    "question": "What sign did Jesus say he would give instead of a sign from heaven?",
+    "options": [
+      "The sign of Moses",
+      "The sign of Elijah",
+      "The sign of Jonah",
+      "The sign of the temple"
+    ],
+    "correct_answer": "The sign of Jonah",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 12:39-40",
+    "explanation": "Jesus said the sign would be like Jonah's three days in the fish."
+  },
+  {
+    "id": "NT065",
+    "question": "What was Matthew's former occupation?",
+    "options": [
+      "Fisherman",
+      "Carpenter",
+      "Scribe",
+      "Tax collector"
+    ],
+    "correct_answer": "Tax collector",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 9:9",
+    "explanation": "Jesus called Matthew while he was sitting at the tax booth."
+  },
+  {
+    "id": "NT066",
+    "question": "What did Jesus say would happen to the temple stones?",
+    "options": [
+      "Not one would be left on another",
+      "They would become gold",
+      "They would float",
+      "They would be hidden in Galilee"
+    ],
+    "correct_answer": "Not one would be left on another",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Matthew 24:2",
+    "explanation": "Jesus foretold that the temple would be destroyed so completely that stones would not remain stacked."
+  },
+  {
+    "id": "NT067",
+    "question": "What was Jairus's position in the synagogue?",
+    "options": [
+      "A singer",
+      "A ruler",
+      "A gatekeeper",
+      "A treasurer"
+    ],
+    "correct_answer": "A ruler",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 5:22",
+    "explanation": "Jairus was one of the synagogue rulers who pleaded for his daughter."
+  },
+  {
+    "id": "NT068",
+    "question": "What name did the demons give when Jesus asked their name?",
+    "options": [
+      "Beelzebul",
+      "Abaddon",
+      "Legion",
+      "Satan"
+    ],
+    "correct_answer": "Legion",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 5:9",
+    "explanation": "The demons said their name was Legion because they were many."
+  },
+  {
+    "id": "NT069",
+    "question": "What happened to the fig tree Jesus cursed?",
+    "options": [
+      "It produced twelve fruits",
+      "It became a vine",
+      "It fell into the sea",
+      "It withered from the roots"
+    ],
+    "correct_answer": "It withered from the roots",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 11:20",
+    "explanation": "The disciples saw the fig tree withered from the roots the next morning."
+  },
+  {
+    "id": "NT070",
+    "question": "What did the young man leave behind when Jesus was arrested?",
+    "options": [
+      "A linen cloth",
+      "A leather belt",
+      "A wooden staff",
+      "A basket"
+    ],
+    "correct_answer": "A linen cloth",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 14:51-52",
+    "explanation": "A young man fled naked after leaving his linen cloth behind."
+  },
+  {
+    "id": "NT071",
+    "question": "How much did the poor widow put into the temple treasury?",
+    "options": [
+      "One denarius",
+      "Two small copper coins",
+      "Five loaves",
+      "A gold coin"
+    ],
+    "correct_answer": "Two small copper coins",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 12:42",
+    "explanation": "The widow gave two small copper coins, all she had to live on."
+  },
+  {
+    "id": "NT072",
+    "question": "What did Jesus ask James and John if they could drink?",
+    "options": [
+      "The water of the Jordan",
+      "The cup at Passover",
+      "The cup he would drink",
+      "The wine of Cana"
+    ],
+    "correct_answer": "The cup he would drink",
+    "category": "Teachings",
+    "difficulty": "Hard",
+    "bible_reference": "Mark 10:38",
+    "explanation": "Jesus asked whether they could drink the cup he would drink and share his baptism."
+  },
+  {
+    "id": "NT073",
+    "question": "Which priestly division did Zechariah belong to?",
+    "options": [
+      "Hilkiah",
+      "Zadok",
+      "Eliashib",
+      "Abijah"
+    ],
+    "correct_answer": "Abijah",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 1:5",
+    "explanation": "Zechariah belonged to the priestly division of Abijah."
+  },
+  {
+    "id": "NT074",
+    "question": "How much did the Good Samaritan promise to pay the innkeeper?",
+    "options": [
+      "Two denarii",
+      "One talent",
+      "Seven coins",
+      "A mina"
+    ],
+    "correct_answer": "Two denarii",
+    "category": "Parables",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 10:35",
+    "explanation": "The Samaritan gave the innkeeper two denarii and promised to repay more."
+  },
+  {
+    "id": "NT075",
+    "question": "What kind of tree did Zacchaeus climb to see Jesus?",
+    "options": [
+      "An olive tree",
+      "A sycamore-fig tree",
+      "A cedar",
+      "A palm tree"
+    ],
+    "correct_answer": "A sycamore-fig tree",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 19:4",
+    "explanation": "Zacchaeus climbed a sycamore-fig tree because he was short."
+  },
+  {
+    "id": "NT076",
+    "question": "How many lepers returned to thank Jesus?",
+    "options": [
+      "Two",
+      "Five",
+      "One",
+      "All ten"
+    ],
+    "correct_answer": "One",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 17:15-16",
+    "explanation": "Only one of the ten healed lepers returned and gave thanks."
+  },
+  {
+    "id": "NT077",
+    "question": "What was the name of the village where two disciples met the risen Jesus?",
+    "options": [
+      "Bethphage",
+      "Nain",
+      "Arimathea",
+      "Emmaus"
+    ],
+    "correct_answer": "Emmaus",
+    "category": "Places",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 24:13",
+    "explanation": "Two disciples were traveling to the village of Emmaus."
+  },
+  {
+    "id": "NT078",
+    "question": "What did the master praise in the parable of the dishonest manager?",
+    "options": [
+      "His shrewdness",
+      "His honesty",
+      "His generosity",
+      "His farming"
+    ],
+    "correct_answer": "His shrewdness",
+    "category": "Parables",
+    "difficulty": "Hard",
+    "bible_reference": "Luke 16:8",
+    "explanation": "The master praised the dishonest manager's shrewdness, not his dishonesty."
+  },
+  {
+    "id": "NT079",
+    "question": "When did Nicodemus first come to Jesus?",
+    "options": [
+      "At dawn",
+      "At night",
+      "During a feast",
+      "After the resurrection"
+    ],
+    "correct_answer": "At night",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "John 3:1-2",
+    "explanation": "Nicodemus came to Jesus at night and called him a teacher from God."
+  },
+  {
+    "id": "NT080",
+    "question": "What did the Samaritan woman leave behind at the well?",
+    "options": [
+      "Her sandals",
+      "A basket of bread",
+      "Her water jar",
+      "A veil"
+    ],
+    "correct_answer": "Her water jar",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "John 4:28",
+    "explanation": "The woman left her water jar and went to tell the town about Jesus."
+  },
+  {
+    "id": "NT081",
+    "question": "How long had the man at Bethesda been ill?",
+    "options": [
+      "Twelve years",
+      "Forty years",
+      "Seven years",
+      "Thirty-eight years"
+    ],
+    "correct_answer": "Thirty-eight years",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "John 5:5",
+    "explanation": "The man at the pool of Bethesda had been ill for thirty-eight years."
+  },
+  {
+    "id": "NT082",
+    "question": "How long had Lazarus been in the tomb when Jesus arrived?",
+    "options": [
+      "Four days",
+      "One day",
+      "Three weeks",
+      "Seven days"
+    ],
+    "correct_answer": "Four days",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "John 11:17",
+    "explanation": "Lazarus had already been in the tomb for four days."
+  },
+  {
+    "id": "NT083",
+    "question": "Whose ear did Peter cut off at Jesus's arrest?",
+    "options": [
+      "Caiaphas's",
+      "Malchus's",
+      "Barabbas's",
+      "Annas's"
+    ],
+    "correct_answer": "Malchus's",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "John 18:10",
+    "explanation": "Peter cut off the right ear of Malchus, the high priest's servant."
+  },
+  {
+    "id": "NT084",
+    "question": "How many fish were counted after the disciples' catch in John 21?",
+    "options": [
+      "120",
+      "70",
+      "153",
+      "12"
+    ],
+    "correct_answer": "153",
+    "category": "Miracles",
+    "difficulty": "Hard",
+    "bible_reference": "John 21:11",
+    "explanation": "The net contained 153 large fish and was not torn."
+  },
+  {
+    "id": "NT085",
+    "question": "On which street was Saul told to wait in Damascus?",
+    "options": [
+      "Royal Street",
+      "The Potter's Street",
+      "The Shepherd's Street",
+      "Straight Street"
+    ],
+    "correct_answer": "Straight Street",
+    "category": "Places",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 9:11",
+    "explanation": "The Lord told Ananias to find Saul at the house of Judas on Straight Street."
+  },
+  {
+    "id": "NT086",
+    "question": "Who warned Paul about the plot against him in Jerusalem?",
+    "options": [
+      "His nephew",
+      "Barnabas",
+      "The jailer",
+      "The high priest"
+    ],
+    "correct_answer": "His nephew",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 23:16",
+    "explanation": "Paul's nephew heard of the ambush and reported it to Paul."
+  },
+  {
+    "id": "NT087",
+    "question": "From which floor did Eutychus fall while Paul was speaking?",
+    "options": [
+      "The second floor",
+      "The third floor",
+      "The roof",
+      "The ground floor"
+    ],
+    "correct_answer": "The third floor",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 20:9",
+    "explanation": "Eutychus fell from the third story while sitting in a window."
+  },
+  {
+    "id": "NT088",
+    "question": "Who explained the way of God more accurately to Apollos?",
+    "options": [
+      "Paul and Barnabas",
+      "Peter and John",
+      "Priscilla and Aquila",
+      "Silas and Timothy"
+    ],
+    "correct_answer": "Priscilla and Aquila",
+    "category": "People",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 18:24-26",
+    "explanation": "Priscilla and Aquila took Apollos aside and explained God's way more accurately."
+  },
+  {
+    "id": "NT089",
+    "question": "On which island did Paul survive the shipwreck?",
+    "options": [
+      "Crete",
+      "Cyprus",
+      "Patmos",
+      "Malta"
+    ],
+    "correct_answer": "Malta",
+    "category": "Places",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 28:1",
+    "explanation": "After the shipwreck, Paul and the passengers learned that the island was called Malta."
+  },
+  {
+    "id": "NT090",
+    "question": "What did Agabus use to show what would happen to Paul?",
+    "options": [
+      "Paul's belt",
+      "A broken sword",
+      "A temple veil",
+      "A ship's rope"
+    ],
+    "correct_answer": "Paul's belt",
+    "category": "Events",
+    "difficulty": "Hard",
+    "bible_reference": "Acts 21:10-11",
+    "explanation": "Agabus bound his own hands and feet with Paul's belt to show Paul's coming imprisonment."
+  }
 ]
